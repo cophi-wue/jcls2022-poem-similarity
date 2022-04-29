@@ -1,0 +1,1394 @@
+annotator	title	base_ID	left_ID	right_ID	Form	Content	Emotion	Style	Overall	triple_ID	Runde
+SW	Sehnsucht	l0020119	l0090085	l00200112	right	right	right	right	right	l0090085l0020119l00200112	Runde 1
+SW	Schicksalswende	l00140028	l00140156	l00130138	left	left	left	same	left	l00140156l00140028l00130138	Runde 1
+SW	Musik bewegt mich, daß ich dein gedenke	l00180091	l0080549	l00140066	same	left	same	same	same	l0080549l00180091l00140066	Runde 1
+SW	Mutter der Barmherzigkeit...	l00140084	l00140078	l00190035	left	left	same	same	left	l00140078l00140084l00190035	Runde 1
+SW	Der Frühling	l0080503	l00100009	l0040505	left	left	same	same	left	l00100009l0080503l0040505	Runde 1
+SW	Letzte Fahrt	l0030218	l0030433	l00200188	same	left	left	left	left	l0030433l0030218l00200188	Runde 1
+SW	Lied des Adlers:	l00180060	l00200135	l0080412	right	left	same	left	left	l00200135l00180060l0080412	Runde 1
+SW	Triumph	l0030237	l00170195	l00130288	same	same	same	same	same	l00170195l0030237l00130288	Runde 1
+SW	Alte Heimath	l00200021	l0030017	l00170194	same	left	left	left	left	l0030017l00200021l00170194	Runde 1
+SW	Raub	l00170200	l00170061	l0080134	right	right	same	right	right	l00170061l00170200l0080134	Runde 1
+SW	Geheimnis	l0030084	l0080129	l00200184	right	right	same	right	right	l0080129l0030084l00200184	Runde 1
+SW	Die junge Mutter	l0020161	l00180062	l00160041	right	same	left	same	right	l00180062l0020161l00160041	Runde 1
+SW	Sieben Billionen Jahre vor meiner Geburt	l0040294	l0080132	l0010262	same	same	same	same	same	l0080132l0040294l0010262	Runde 1
+SW	Du findest zuletzt noch eine Bank	l00180051	l0010042	l0060062	right	same	right	right	right	l0010042l00180051l0060062	Runde 1
+SW	Meine Finger krümme ich zum Spiele	l00180104	l0020001	l0040217	same	same	same	left	left	l0020001l00180104l0040217	Runde 1
+SW	Der Brunnen	l0030127	l0040304	l0040520	right	same	right	left	left	l0040304l0030127l0040520	Runde 1
+SW	Trost	l00160282	l0010076	l00140026	left	left	same	left	left	l0010076l00160282l00140026	Runde 1
+SW	Eitelkeit	l00100106	l00200340	l00140177	same	same	same	same	same	l00200340l00100106l00140177	Runde 1
+SW	Tausch	l0080044	l00170112	l0080333	left	right	right	left	left	l00170112l0080044l0080333	Runde 1
+SW	Abendhimmel	l0030113	l0070130	l00160172	left	same	same	left	left	l0070130l0030113l00160172	Runde 1
+SP	Sehnsucht	l0020119	l0090085	l00200112	right	right	right	right	right	l0090085l0020119l00200112	Runde 1
+SP	Schicksalswende	l00140028	l00140156	l00130138	left	left	left	left	left	l00140156l00140028l00130138	Runde 1
+SP	Musik bewegt mich, daß ich dein gedenke	l00180091	l0080549	l00140066	left	left	left	right	left	l0080549l00180091l00140066	Runde 1
+SP	Mutter der Barmherzigkeit...	l00140084	l00140078	l00190035	left	left	same	right	left	l00140078l00140084l00190035	Runde 1
+SP	Der Frühling	l0080503	l00100009	l0040505	left	left	same	left	left	l00100009l0080503l0040505	Runde 1
+SP	Letzte Fahrt	l0030218	l0030433	l00200188	same	left	left	right	same	l0030433l0030218l00200188	Runde 1
+SP	Lied des Adlers:	l00180060	l00200135	l0080412	same	same	same	left	same	l00200135l00180060l0080412	Runde 1
+SP	Triumph	l0030237	l00170195	l00130288	same	same	same	same	same	l00170195l0030237l00130288	Runde 1
+SP	Alte Heimath	l00200021	l0030017	l00170194	left	same	left	right	same	l0030017l00200021l00170194	Runde 1
+SP	Raub	l00170200	l00170061	l0080134	right	right	right	right	right	l00170061l00170200l0080134	Runde 1
+SP	Geheimnis	l0030084	l0080129	l00200184	right	right	same	right	right	l0080129l0030084l00200184	Runde 1
+SP	Die junge Mutter	l0020161	l00180062	l00160041	right	same	same	left	same	l00180062l0020161l00160041	Runde 1
+SP	Sieben Billionen Jahre vor meiner Geburt	l0040294	l0080132	l0010262	same	same	same	same	same	l0080132l0040294l0010262	Runde 1
+SP	Du findest zuletzt noch eine Bank	l00180051	l0010042	l0060062	same	same	left	same	same	l0010042l00180051l0060062	Runde 1
+SP	Meine Finger krümme ich zum Spiele	l00180104	l0020001	l0040217	left	same	same	left	same	l0020001l00180104l0040217	Runde 1
+SP	Der Brunnen	l0030127	l0040304	l0040520	left	same	same	right	same	l0040304l0030127l0040520	Runde 1
+SP	Trost	l00160282	l0010076	l00140026	left	left	right	same	left	l0010076l00160282l00140026	Runde 1
+SP	Eitelkeit	l00100106	l00200340	l00140177	same	same	same	same	same	l00200340l00100106l00140177	Runde 1
+SP	Tausch	l0080044	l00170112	l0080333	left	same	right	left	same	l00170112l0080044l0080333	Runde 1
+SP	Abendhimmel	l0030113	l0070130	l00160172	left	same	same	right	same	l0070130l0030113l00160172	Runde 1
+AH	Sehnsucht	l0020119	l0090085	l00200112	right	right	right	right	right	l0090085l0020119l00200112	Runde 1
+AH	Schicksalswende	l00140028	l00140156	l00130138	left	left	left	left	left	l00140156l00140028l00130138	Runde 1
+AH	Musik bewegt mich, daß ich dein gedenke	l00180091	l0080549	l00140066	same	same	same	same	same	l0080549l00180091l00140066	Runde 1
+AH	Mutter der Barmherzigkeit...	l00140084	l00140078	l00190035	left	left	left	same	left	l00140078l00140084l00190035	Runde 1
+AH	Der Frühling	l0080503	l00100009	l0040505	left	left	same	right	left	l00100009l0080503l0040505	Runde 1
+AH	Letzte Fahrt	l0030218	l0030433	l00200188	same	same	left	left	same	l0030433l0030218l00200188	Runde 1
+AH	Lied des Adlers:	l00180060	l00200135	l0080412	right	same	same	same	same	l00200135l00180060l0080412	Runde 1
+AH	Triumph	l0030237	l00170195	l00130288	same	right	right	same	same	l00170195l0030237l00130288	Runde 1
+AH	Alte Heimath	l00200021	l0030017	l00170194	same	same	left	left	left	l0030017l00200021l00170194	Runde 1
+AH	Raub	l00170200	l00170061	l0080134	right	same	right	right	right	l00170061l00170200l0080134	Runde 1
+AH	Geheimnis	l0030084	l0080129	l00200184	right	right	left	same	right	l0080129l0030084l00200184	Runde 1
+AH	Die junge Mutter	l0020161	l00180062	l00160041	right	left	left	same	same	l00180062l0020161l00160041	Runde 1
+AH	Sieben Billionen Jahre vor meiner Geburt	l0040294	l0080132	l0010262	same	same	same	same	same	l0080132l0040294l0010262	Runde 1
+AH	Du findest zuletzt noch eine Bank	l00180051	l0010042	l0060062	left	right	left	same	right	l0010042l00180051l0060062	Runde 1
+AH	Meine Finger krümme ich zum Spiele	l00180104	l0020001	l0040217	left	same	same	same	same	l0020001l00180104l0040217	Runde 1
+AH	Der Brunnen	l0030127	l0040304	l0040520	same	same	same	same	same	l0040304l0030127l0040520	Runde 1
+AH	Trost	l00160282	l0010076	l00140026	left	same	right	left	same	l0010076l00160282l00140026	Runde 1
+AH	Eitelkeit	l00100106	l00200340	l00140177	same	same	same	same	same	l00200340l00100106l00140177	Runde 1
+AH	Tausch	l0080044	l00170112	l0080333	same	same	left	left	left	l00170112l0080044l0080333	Runde 1
+AH	Abendhimmel	l0030113	l0070130	l00160172	left	left	right	same	same	l0070130l0030113l00160172	Runde 1
+AB	Sehnsucht	l0020119	l0090085	l00200112	right	right	right	same	right	l0090085l0020119l00200112	Runde 1
+AB	Schicksalswende	l00140028	l00140156	l00130138	same	same	left	left	left	l00140156l00140028l00130138	Runde 1
+AB	Musik bewegt mich, daß ich dein gedenke	l00180091	l0080549	l00140066	left	same	left	right	left	l0080549l00180091l00140066	Runde 1
+AB	Mutter der Barmherzigkeit...	l00140084	l00140078	l00190035	same	left	left	left	left	l00140078l00140084l00190035	Runde 1
+AB	Der Frühling	l0080503	l00100009	l0040505	left	same	same	left	left	l00100009l0080503l0040505	Runde 1
+AB	Letzte Fahrt	l0030218	l0030433	l00200188	same	same	same	same	same	l0030433l0030218l00200188	Runde 1
+AB	Lied des Adlers:	l00180060	l00200135	l0080412	same	same	same	right	right	l00200135l00180060l0080412	Runde 1
+AB	Triumph	l0030237	l00170195	l00130288	same	same	same	same	same	l00170195l0030237l00130288	Runde 1
+AB	Alte Heimath	l00200021	l0030017	l00170194	left	same	same	left	left	l0030017l00200021l00170194	Runde 1
+AB	Raub	l00170200	l00170061	l0080134	right	same	right	right	right	l00170061l00170200l0080134	Runde 1
+AB	Geheimnis	l0030084	l0080129	l00200184	same	right	right	same	right	l0080129l0030084l00200184	Runde 1
+AB	Die junge Mutter	l0020161	l00180062	l00160041	same	left	left	left	left	l00180062l0020161l00160041	Runde 1
+AB	Sieben Billionen Jahre vor meiner Geburt	l0040294	l0080132	l0010262	same	same	same	same	same	l0080132l0040294l0010262	Runde 1
+AB	Du findest zuletzt noch eine Bank	l00180051	l0010042	l0060062	same	right	right	same	right	l0010042l00180051l0060062	Runde 1
+AB	Meine Finger krümme ich zum Spiele	l00180104	l0020001	l0040217	same	same	same	right	right	l0020001l00180104l0040217	Runde 1
+AB	Der Brunnen	l0030127	l0040304	l0040520	same	same	same	same	same	l0040304l0030127l0040520	Runde 1
+AB	Trost	l00160282	l0010076	l00140026	same	same	right	right	right	l0010076l00160282l00140026	Runde 1
+AB	Eitelkeit	l00100106	l00200340	l00140177	same	same	same	same	same	l00200340l00100106l00140177	Runde 1
+AB	Tausch	l0080044	l00170112	l0080333	same	right	right	right	right	l00170112l0080044l0080333	Runde 1
+AB	Abendhimmel	l0030113	l0070130	l00160172	same	same	right	right	right	l0070130l0030113l00160172	Runde 1
+DK	Sehnsucht	l0020119	l0090085	l00200112	right	right	right	right	right	l0090085l0020119l00200112	Runde 1
+DK	Schicksalswende	l00140028	l00140156	l00130138	left	same	left	same	same	l00140156l00140028l00130138	Runde 1
+DK	Musik bewegt mich, daß ich dein gedenke	l00180091	l0080549	l00140066	left	same	left	same	same	l0080549l00180091l00140066	Runde 1
+DK	Mutter der Barmherzigkeit...	l00140084	l00140078	l00190035	left	same	same	same	same	l00140078l00140084l00190035	Runde 1
+DK	Der Frühling	l0080503	l00100009	l0040505	same	same	same	same	same	l00100009l0080503l0040505	Runde 1
+DK	Letzte Fahrt	l0030218	l0030433	l00200188	right	same	same	right	same	l0030433l0030218l00200188	Runde 1
+DK	Lied des Adlers:	l00180060	l00200135	l0080412	right	same	left	same	same	l00200135l00180060l0080412	Runde 1
+DK	Triumph	l0030237	l00170195	l00130288	same	left	same	same	same	l00170195l0030237l00130288	Runde 1
+DK	Alte Heimath	l00200021	l0030017	l00170194	same	same	left	same	left	l0030017l00200021l00170194	Runde 1
+DK	Raub	l00170200	l00170061	l0080134	right	same	right	right	right	l00170061l00170200l0080134	Runde 1
+DK	Geheimnis	l0030084	l0080129	l00200184	same	same	same	right	same	l0080129l0030084l00200184	Runde 1
+DK	Die junge Mutter	l0020161	l00180062	l00160041	same	same	left	same	same	l00180062l0020161l00160041	Runde 1
+DK	Sieben Billionen Jahre vor meiner Geburt	l0040294	l0080132	l0010262	same	same	same	left	same	l0080132l0040294l0010262	Runde 1
+DK	Du findest zuletzt noch eine Bank	l00180051	l0010042	l0060062	same	same	same	same	same	l0010042l00180051l0060062	Runde 1
+DK	Meine Finger krümme ich zum Spiele	l00180104	l0020001	l0040217	left	same	same	left	same	l0020001l00180104l0040217	Runde 1
+DK	Der Brunnen	l0030127	l0040304	l0040520	same	right	right	right	right	l0040304l0030127l0040520	Runde 1
+DK	Trost	l00160282	l0010076	l00140026	same	same	same	left	same	l0010076l00160282l00140026	Runde 1
+DK	Eitelkeit	l00100106	l00200340	l00140177	same	same	same	same	same	l00200340l00100106l00140177	Runde 1
+DK	Tausch	l0080044	l00170112	l0080333	left	same	left	same	left	l00170112l0080044l0080333	Runde 1
+DK	Abendhimmel	l0030113	l0070130	l00160172	same	same	same	same	same	l0070130l0030113l00160172	Runde 1
+FJ	Sehnsucht	l0020119	l0090085	l00200112	right	right	right	right	right	l0090085l0020119l00200112	Runde 1
+FJ	Schicksalswende	l00140028	l00140156	l00130138	left	left	left	left	left	l00140156l00140028l00130138	Runde 1
+FJ	Musik bewegt mich, daß ich dein gedenke	l00180091	l0080549	l00140066	same	left	left	same	left	l0080549l00180091l00140066	Runde 1
+FJ	Mutter der Barmherzigkeit...	l00140084	l00140078	l00190035	left	left	left	left	left	l00140078l00140084l00190035	Runde 1
+FJ	Der Frühling	l0080503	l00100009	l0040505	left	left	same	same	left	l00100009l0080503l0040505	Runde 1
+FJ	Letzte Fahrt	l0030218	l0030433	l00200188	same	left	same	same	left	l0030433l0030218l00200188	Runde 1
+FJ	Lied des Adlers:	l00180060	l00200135	l0080412	same	same	same	same	same	l00200135l00180060l0080412	Runde 1
+FJ	Triumph	l0030237	l00170195	l00130288	same	right	same	same	same	l00170195l0030237l00130288	Runde 1
+FJ	Alte Heimath	l00200021	l0030017	l00170194	same	same	same	left	same	l0030017l00200021l00170194	Runde 1
+FJ	Raub	l00170200	l00170061	l0080134	right	left	same	right	same	l00170061l00170200l0080134	Runde 1
+FJ	Geheimnis	l0030084	l0080129	l00200184	same	same	same	right	same	l0080129l0030084l00200184	Runde 1
+FJ	Die junge Mutter	l0020161	l00180062	l00160041	same	right	right	same	right	l00180062l0020161l00160041	Runde 1
+FJ	Sieben Billionen Jahre vor meiner Geburt	l0040294	l0080132	l0010262	same	same	same	same	same	l0080132l0040294l0010262	Runde 1
+FJ	Du findest zuletzt noch eine Bank	l00180051	l0010042	l0060062	same	same	same	same	same	l0010042l00180051l0060062	Runde 1
+FJ	Meine Finger krümme ich zum Spiele	l00180104	l0020001	l0040217	same	same	same	same	same	l0020001l00180104l0040217	Runde 1
+FJ	Der Brunnen	l0030127	l0040304	l0040520	same	same	same	same	same	l0040304l0030127l0040520	Runde 1
+FJ	Trost	l00160282	l0010076	l00140026	same	left	left	same	left	l0010076l00160282l00140026	Runde 1
+FJ	Eitelkeit	l00100106	l00200340	l00140177	left	same	same	same	same	l00200340l00100106l00140177	Runde 1
+FJ	Tausch	l0080044	l00170112	l0080333	left	same	same	same	same	l00170112l0080044l0080333	Runde 1
+FJ	Abendhimmel	l0030113	l0070130	l00160172	same	same	same	right	same	l0070130l0030113l00160172	Runde 1
+JB	Sehnsucht	l0020119	l0090085	l00200112	right	same	right	right	right	l0090085l0020119l00200112	Runde 1
+JB	Schicksalswende	l00140028	l00140156	l00130138	same	left	left	right	left	l00140156l00140028l00130138	Runde 1
+JB	Musik bewegt mich, daß ich dein gedenke	l00180091	l0080549	l00140066	left	left	left	right	left	l0080549l00180091l00140066	Runde 1
+JB	Mutter der Barmherzigkeit...	l00140084	l00140078	l00190035	same	left	same	same	same	l00140078l00140084l00190035	Runde 1
+JB	Der Frühling	l0080503	l00100009	l0040505	left	same	same	same	same	l00100009l0080503l0040505	Runde 1
+JB	Letzte Fahrt	l0030218	l0030433	l00200188	same	same	same	same	same	l0030433l0030218l00200188	Runde 1
+JB	Lied des Adlers:	l00180060	l00200135	l0080412	same	same	same	same	same	l00200135l00180060l0080412	Runde 1
+JB	Triumph	l0030237	l00170195	l00130288	same	right	right	same	right	l00170195l0030237l00130288	Runde 1
+JB	Alte Heimath	l00200021	l0030017	l00170194	left	same	left	left	left	l0030017l00200021l00170194	Runde 1
+JB	Raub	l00170200	l00170061	l0080134	same	right	same	same	same	l00170061l00170200l0080134	Runde 1
+JE	Sehnsucht	l0020119	l0090085	l00200112	right	right	right	right	right	l0090085l0020119l00200112	Runde 1
+JE	Schicksalswende	l00140028	l00140156	l00130138	same	left	left	same	left	l00140156l00140028l00130138	Runde 1
+JE	Musik bewegt mich, daß ich dein gedenke	l00180091	l0080549	l00140066	left	same	left	right	left	l0080549l00180091l00140066	Runde 1
+JE	Mutter der Barmherzigkeit...	l00140084	l00140078	l00190035	left	left	same	left	left	l00140078l00140084l00190035	Runde 1
+JE	Der Frühling	l0080503	l00100009	l0040505	left	same	same	same	left	l00100009l0080503l0040505	Runde 1
+JE	Letzte Fahrt	l0030218	l0030433	l00200188	same	same	same	left	left	l0030433l0030218l00200188	Runde 1
+JE	Lied des Adlers:	l00180060	l00200135	l0080412	same	same	same	left	left	l00200135l00180060l0080412	Runde 1
+JE	Triumph	l0030237	l00170195	l00130288	same	same	same	same	same	l00170195l0030237l00130288	Runde 1
+JE	Alte Heimath	l00200021	l0030017	l00170194	left	same	left	left	left	l0030017l00200021l00170194	Runde 1
+JE	Raub	l00170200	l00170061	l0080134	right	right	right	right	right	l00170061l00170200l0080134	Runde 1
+JE	Geheimnis	l0030084	l0080129	l00200184	right	left	left	left	left	l0080129l0030084l00200184	Runde 1
+JE	Die junge Mutter	l0020161	l00180062	l00160041	same	same	left	same	left	l00180062l0020161l00160041	Runde 1
+JE	Sieben Billionen Jahre vor meiner Geburt	l0040294	l0080132	l0010262	same	same	right	left	right	l0080132l0040294l0010262	Runde 1
+JE	Du findest zuletzt noch eine Bank	l00180051	l0010042	l0060062	right	same	right	right	right	l0010042l00180051l0060062	Runde 1
+JE	Meine Finger krümme ich zum Spiele	l00180104	l0020001	l0040217	same	same	same	same	same	l0020001l00180104l0040217	Runde 1
+JE	Der Brunnen	l0030127	l0040304	l0040520	same	same	same	right	right	l0040304l0030127l0040520	Runde 1
+JE	Trost	l00160282	l0010076	l00140026	same	left	same	same	left	l0010076l00160282l00140026	Runde 1
+JE	Eitelkeit	l00100106	l00200340	l00140177	same	same	same	same	same	l00200340l00100106l00140177	Runde 1
+JE	Tausch	l0080044	l00170112	l0080333	left	same	left	same	left	l00170112l0080044l0080333	Runde 1
+JE	Abendhimmel	l0030113	l0070130	l00160172	left	same	right	left	right	l0070130l0030113l00160172	Runde 1
+MK	Sehnsucht	l0020119	l0090085	l00200112	right	right	right	right	right	l0090085l0020119l00200112	Runde 1
+MK	Schicksalswende	l00140028	l00140156	l00130138	same	left	left	same	left	l00140156l00140028l00130138	Runde 1
+MK	Musik bewegt mich, daß ich dein gedenke	l00180091	l0080549	l00140066	left	same	left	right	left	l0080549l00180091l00140066	Runde 1
+MK	Mutter der Barmherzigkeit...	l00140084	l00140078	l00190035	left	left	right	left	left	l00140078l00140084l00190035	Runde 1
+MK	Der Frühling	l0080503	l00100009	l0040505	left	left	same	same	left	l00100009l0080503l0040505	Runde 1
+MK	Letzte Fahrt	l0030218	l0030433	l00200188	same	left	same	left	left	l0030433l0030218l00200188	Runde 1
+MK	Lied des Adlers:	l00180060	l00200135	l0080412	same	same	same	left	left	l00200135l00180060l0080412	Runde 1
+MK	Triumph	l0030237	l00170195	l00130288	same	same	right	same	right	l00170195l0030237l00130288	Runde 1
+MK	Alte Heimath	l00200021	l0030017	l00170194	left	same	left	left	left	l0030017l00200021l00170194	Runde 1
+MK	Raub	l00170200	l00170061	l0080134	right	right	right	right	right	l00170061l00170200l0080134	Runde 1
+MK	Geheimnis	l0030084	l0080129	l00200184	right	left	left	left	left	l0080129l0030084l00200184	Runde 1
+MK	Die junge Mutter	l0020161	l00180062	l00160041	right	left	left	same	left	l00180062l0020161l00160041	Runde 1
+MK	Sieben Billionen Jahre vor meiner Geburt	l0040294	l0080132	l0010262	same	same	right	same	same	l0080132l0040294l0010262	Runde 1
+MK	Du findest zuletzt noch eine Bank	l00180051	l0010042	l0060062	right	same	right	same	right	l0010042l00180051l0060062	Runde 1
+MK	Meine Finger krümme ich zum Spiele	l00180104	l0020001	l0040217	same	same	same	same	same	l0020001l00180104l0040217	Runde 1
+MK	Der Brunnen	l0030127	l0040304	l0040520	same	same	same	same	same	l0040304l0030127l0040520	Runde 1
+MK	Trost	l00160282	l0010076	l00140026	left	left	left	left	left	l0010076l00160282l00140026	Runde 1
+MK	Eitelkeit	l00100106	l00200340	l00140177	left	left	same	same	left	l00200340l00100106l00140177	Runde 1
+MK	Tausch	l0080044	l00170112	l0080333	left	same	left	same	left	l00170112l0080044l0080333	Runde 1
+MK	Abendhimmel	l0030113	l0070130	l00160172	same	same	right	same	right	l0070130l0030113l00160172	Runde 1
+MG	Sehnsucht	l0020119	l0090085	l00200112	right	right	right	right	right	l0090085l0020119l00200112	Runde 1
+MG	Schicksalswende	l00140028	l00140156	l00130138	left	left	left	left	left	l00140156l00140028l00130138	Runde 1
+MG	Musik bewegt mich, daß ich dein gedenke	l00180091	l0080549	l00140066	same	left	left	same	left	l0080549l00180091l00140066	Runde 1
+MG	Mutter der Barmherzigkeit...	l00140084	l00140078	l00190035	left	left	same	left	left	l00140078l00140084l00190035	Runde 1
+MG	Der Frühling	l0080503	l00100009	l0040505	left	left	same	same	left	l00100009l0080503l0040505	Runde 1
+MG	Letzte Fahrt	l0030218	l0030433	l00200188	same	left	right	same	same	l0030433l0030218l00200188	Runde 1
+MG	Lied des Adlers:	l00180060	l00200135	l0080412	same	left	same	same	left	l00200135l00180060l0080412	Runde 1
+MG	Triumph	l0030237	l00170195	l00130288	same	right	same	same	same	l00170195l0030237l00130288	Runde 1
+MG	Alte Heimath	l00200021	l0030017	l00170194	same	same	same	same	same	l0030017l00200021l00170194	Runde 1
+MG	Raub	l00170200	l00170061	l0080134	same	right	right	same	right	l00170061l00170200l0080134	Runde 1
+MG	Geheimnis	l0030084	l0080129	l00200184	right	same	left	left	same	l0080129l0030084l00200184	Runde 1
+MG	Die junge Mutter	l0020161	l00180062	l00160041	right	same	left	same	right	l00180062l0020161l00160041	Runde 1
+MG	Sieben Billionen Jahre vor meiner Geburt	l0040294	l0080132	l0010262	same	same	right	same	same	l0080132l0040294l0010262	Runde 1
+MG	Du findest zuletzt noch eine Bank	l00180051	l0010042	l0060062	right	same	right	same	right	l0010042l00180051l0060062	Runde 1
+MG	Meine Finger krümme ich zum Spiele	l00180104	l0020001	l0040217	same	same	same	same	same	l0020001l00180104l0040217	Runde 1
+MG	Der Brunnen	l0030127	l0040304	l0040520	same	same	same	left	same	l0040304l0030127l0040520	Runde 1
+MG	Trost	l00160282	l0010076	l00140026	left	left	left	same	left	l0010076l00160282l00140026	Runde 1
+MG	Eitelkeit	l00100106	l00200340	l00140177	left	same	same	same	same	l00200340l00100106l00140177	Runde 1
+MG	Tausch	l0080044	l00170112	l0080333	left	right	left	left	left	l00170112l0080044l0080333	Runde 1
+MG	Abendhimmel	l0030113	l0070130	l00160172	left	same	same	left	same	l0070130l0030113l00160172	Runde 1
+Set5_MG	Sei nur robust! 	l0090065	l0010208	l00160300	left	right	same	right	right	l0010208l0090065l00160300	Runde 2
+Set5_MG	Nachtlied 	l00200135	l0010170	l0030065	same	same	same	same	same	l0010170l00200135l0030065	Runde 2
+Set5_MG	Guter Rat 	l00130384	l0060053	l0020093	same	right	same	right	right	l0060053l00130384l0020093	Runde 2
+Set5_MG	Der Wanderer und das Blumenmädchen 	l0030174	l00130444	l00180026	same	right	right	right	right	l00130444l0030174l00180026	Runde 2
+Set5_MG	Wenn du ein Herz gefunden 	l0010238	l00140045	l0010202	right	same	right	same	right	l00140045l0010238l0010202	Runde 2
+Set5_MG	Fromme Bücher 	l00160212	l0010280	l0060062	right	right	right	right	right	l0010280l00160212l0060062	Runde 2
+Set5_MG	Dahin! 	l00200242	l0040524	l0080305	right	left	left	right	right	l0040524l00200242l0080305	Runde 2
+Set5_MG	König Föhn 	l00130449	l00140024	l0060053	right	right	right	right	right	l00140024l00130449l0060053	Runde 2
+Set5_MG	Gleichgültigkeit 	l00130210	l00180026	l00140150	left	left	right	right	left	l00180026l00130210l00140150	Runde 2
+Set5_MG	Tausch 	l0080044	l0010076	l0080462	left	same	right	right	right	l0010076l0080044l0080462	Runde 2
+Set5_MG	Porträt des Marquis de... 	l0040554	l0080361	l00130138	same	same	left	same	same	l0080361l0040554l00130138	Runde 2
+Set5_MG	Die Betrogene 	l00200179	l0020039	l0080578	same	right	right	same	same	l0020039l00200179l0080578	Runde 2
+Set5_MG	Stör nicht den Traum der Kinder – 	l00160112	l00130162	l00180047	right	same	same	same	same	l00130162l00160112l00180047	Runde 2
+Set5_MG	Nur 	l00180026	l00130355	l00180069	left	right	left	right	right	l00130355l00180026l00180069	Runde 2
+Set5_MG	Letzte Fahrt 	l0030218	l0010082	l00180079	left	left	same	left	left	l0010082l0030218l00180079	Runde 2
+Set5_MG	Enttäuschung 	l00160262	l0030174	l0080165	right	right	same	right	right	l0030174l00160262l0080165	Runde 2
+Set5_MG	Der Gast 	l00140122	l0080502	l00140083	right	same	right	right	right	l0080502l00140122l00140083	Runde 2
+Set5_MG	Ich will mich in dein Herz gewöhnen 	l0080412	l0040509	l00130070	right	same	left	right	same	l0040509l0080412l00130070	Runde 2
+Set5_MG	Albumblatt 	l0030373	l00140029	l00180143	left	same	left	right	same	l00140029l0030373l00180143	Runde 2
+Set5_MG	Fremd in der Fremde – 	l0010082	l00200112	l00110078	right	right	same	same	right	l00200112l0010082l00110078	Runde 2
+Set5_MG	Magdalene 	l0080578	l00200179	l00180026	right	left	left	right	right	l00200179l0080578l00180026	Runde 2
+Set5_MG	Im Kreise 	l00130444	l00200202	l0010273	left	same	same	left	left	l00200202l00130444l0010273	Runde 2
+Set5_MG	Feldeinsamkeit 	l00160004	l0080361	l0030243	left	same	same	left	same	l0080361l00160004l0030243	Runde 2
+Set5_MG	Ahnung 	l0030052	l00140198	l00160119	same	same	left	left	same	l00140198l0030052l00160119	Runde 2
+Set5_MG	Warnung 	l00130162	l00200245	l00200254	same	same	same	same	same	l00200245l00130162l00200254	Runde 2
+Set5_MG	Am Meer 	l0060056	l00130164	l00130257	right	right	right	right	right	l00130164l0060056l00130257	Runde 2
+Set5_MG	Die Betrogene 	l00200179	l0080578	l00130268	left	left	left	same	left	l0080578l00200179l00130268	Runde 2
+Set5_MG	Gleichgültigkeit 	l00130210	l00140150	l00110078	right	right	same	right	right	l00140150l00130210l00110078	Runde 2
+Set5_MG	3. Meine Augen 	l0020178	l00180018	l0030167	left	same	same	left	same	l00180018l0020178l0030167	Runde 2
+Set5_MG	Lady Rosa 	l0030184	l00160212	l0030325	same	same	same	same	same	l00160212l0030184l0030325	Runde 2
+Set5_AB	Sei nur robust! 	l0090065	l0010208	l00160300	left	same	same	left	left	l0010208l0090065l00160300	Runde 2
+Set5_AB	Nachtlied 	l00200135	l0010170	l0030065	same	right	right	same	same	l0010170l00200135l0030065	Runde 2
+Set5_AB	Guter Rat 	l00130384	l0060053	l0020093	same	same	same	same	same	l0060053l00130384l0020093	Runde 2
+Set5_AB	Der Wanderer und das Blumenmädchen 	l0030174	l00130444	l00180026	same	right	right	right	right	l00130444l0030174l00180026	Runde 2
+Set5_AB	Wenn du ein Herz gefunden 	l0010238	l00140045	l0010202	same	same	same	same	same	l00140045l0010238l0010202	Runde 2
+Set5_AB	Fromme Bücher 	l00160212	l0010280	l0060062	right	same	right	right	right	l0010280l00160212l0060062	Runde 2
+Set5_AB	Dahin! 	l00200242	l0040524	l0080305	right	same	right	same	right	l0040524l00200242l0080305	Runde 2
+Set5_AB	König Föhn 	l00130449	l00140024	l0060053	right	right	right	right	right	l00140024l00130449l0060053	Runde 2
+Set5_AB	Gleichgültigkeit 	l00130210	l00180026	l00140150	same	left	left	left	left	l00180026l00130210l00140150	Runde 2
+Set5_AB	Tausch 	l0080044	l0010076	l0080462	same	same	right	same	same	l0010076l0080044l0080462	Runde 2
+Set5_AB	Porträt des Marquis de... 	l0040554	l0080361	l00130138	same	same	same	same	same	l0080361l0040554l00130138	Runde 2
+Set5_AB	Die Betrogene 	l00200179	l0020039	l0080578	same	right	right	same	right	l0020039l00200179l0080578	Runde 2
+Set5_AB	Stör nicht den Traum der Kinder – 	l00160112	l00130162	l00180047	same	same	right	right	right	l00130162l00160112l00180047	Runde 2
+Set5_AB	Nur 	l00180026	l00130355	l00180069	same	right	right	right	right	l00130355l00180026l00180069	Runde 2
+Set5_AB	Letzte Fahrt 	l0030218	l0010082	l00180079	left	same	left	left	left	l0010082l0030218l00180079	Runde 2
+Set5_AB	Enttäuschung 	l00160262	l0030174	l0080165	right	right	right	right	right	l0030174l00160262l0080165	Runde 2
+Set5_AB	Der Gast 	l00140122	l0080502	l00140083	right	same	same	right	same	l0080502l00140122l00140083	Runde 2
+Set5_AB	Ich will mich in dein Herz gewöhnen 	l0080412	l0040509	l00130070	same	left	left	left	left	l0040509l0080412l00130070	Runde 2
+Set5_AB	Albumblatt 	l0030373	l00140029	l00180143	same	same	same	same	same	l00140029l0030373l00180143	Runde 2
+Set5_AB	Fremd in der Fremde – 	l0010082	l00200112	l00110078	right	right	right	same	right	l00200112l0010082l00110078	Runde 2
+Set5_AB	Magdalene 	l0080578	l00200179	l00180026	right	left	left	right	left	l00200179l0080578l00180026	Runde 2
+Set5_AB	Im Kreise 	l00130444	l00200202	l0010273	left	same	same	left	same	l00200202l00130444l0010273	Runde 2
+Set5_AB	Feldeinsamkeit 	l00160004	l0080361	l0030243	left	same	left	left	left	l0080361l00160004l0030243	Runde 2
+Set5_AB	Ahnung 	l0030052	l00140198	l00160119	same	same	right	same	same	l00140198l0030052l00160119	Runde 2
+Set5_AB	Warnung 	l00130162	l00200245	l00200254	same	same	same	same	same	l00200245l00130162l00200254	Runde 2
+Set5_AB	Am Meer 	l0060056	l00130164	l00130257	right	right	right	right	right	l00130164l0060056l00130257	Runde 2
+Set5_AB	Die Betrogene 	l00200179	l0080578	l00130268	same	left	left	same	left	l0080578l00200179l00130268	Runde 2
+Set5_AB	Gleichgültigkeit 	l00130210	l00140150	l00110078	same	same	same	same	same	l00140150l00130210l00110078	Runde 2
+Set5_AB	3. Meine Augen 	l0020178	l00180018	l0030167	left	left	left	left	left	l00180018l0020178l0030167	Runde 2
+Set5_AB	Lady Rosa 	l0030184	l00160212	l0030325	same	same	same	same	same	l00160212l0030184l0030325	Runde 2
+Set4_MK	Das Päckchen Gedichte 	l00170161	l0010154	l00130457	same	left	left	left	left	l0010154l00170161l00130457	Runde 2
+Set4_MK	Die Kunst – 	l00130138	l00180069	l0040554	left	same	left	left	left	l00180069l00130138l0040554	Runde 2
+Set4_MK	Gleichgültigkeit 	l00130210	l00140024	l00140150	same	right	right	same	same	l00140024l00130210l00140150	Runde 2
+Set4_MK	Fremd in der Fremde – 	l0010082	l00130354	l0030174	left	same	same	left	left	l00130354l0010082l0030174	Runde 2
+Set4_MK	Nachtlied 	l00200135	l0080305	l00200223	left	same	same	same	same	l0080305l00200135l00200223	Runde 2
+Set4_MK	Geschieden 	l0010172	l00200026	l00130042	left	right	right	same	right	l00200026l0010172l00130042	Runde 2
+Set4_MK	Zarathustras Lied 	l0030323	l00200176	l00140156	same	same	same	same	same	l00200176l0030323l00140156	Runde 2
+Set4_MK	Trost der Nacht 	l00200088	l00130102	l0080046	same	left	left	left	left	l00130102l00200088l0080046	Runde 2
+Set4_MK	Lied 	l00200278	l00100009	l0080132	right	right	right	right	right	l00100009l00200278l0080132	Runde 2
+Set4_MK	Guter Rat 	l00130384	l0030323	l00160192	left	same	right	same	same	l0030323l00130384l00160192	Runde 2
+Set4_MK	Du und ich 	l0040524	l0080448	l00110081	same	same	same	same	same	l0080448l0040524l00110081	Runde 2
+Set4_MK	An die Mädchen 	l00130354	l0050031	l00160112	right	left	same	right	same	l0050031l00130354l00160112	Runde 2
+Set4_MK	„Süß sind mir die Schollen des Tales.“ 	l0040336	l0010238	l00170058	left	right	right	same	right	l0010238l0040336l00170058	Runde 2
+Set4_MK	Gleichgültigkeit 	l00130210	l00200254	l00140150	left	same	left	same	left	l00200254l00130210l00140150	Runde 2
+Set4_MK	Wie ist das Leben bitter arm 	l0010218	l00130378	l0080311	right	right	right	right	right	l00130378l0010218l0080311	Runde 2
+Set4_MK	Banger Abend 	l00170019	l0060062	l0080412	same	same	same	same	same	l0060062l00170019l0080412	Runde 2
+Set4_MK	Die List der Trinker 	l0020029	l00160240	l0070146	left	same	right	same	same	l00160240l0020029l0070146	Runde 2
+Set4_MK	Der Seligen Furcht 	l0010076	l0050031	l0010186	same	same	same	same	same	l0050031l0010076l0010186	Runde 2
+Set4_MK	Lady Rosa 	l0030184	l00160212	l00130384	same	same	left	same	same	l00160212l0030184l00130384	Runde 2
+Set4_MK	Dein Bild – 	l0030433	l0010238	l0020039	left	left	left	same	left	l0010238l0030433l0020039	Runde 2
+Set4_MK	Gleichgültigkeit 	l00130210	l0090086	l00140150	same	right	right	right	right	l0090086l00130210l00140150	Runde 2
+Set4_MK	An die Freunde 	l0020147	l00160172	l0030065	right	left	same	left	left	l00160172l0020147l0030065	Runde 2
+Set4_MK	Deutsche Art 	l00130383	l00130059	l00200186	right	left	left	left	left	l00130059l00130383l00200186	Runde 2
+Set4_MK	Morgenduft 	l0090086	l0080554	l0060046	same	same	right	right	right	l0080554l0090086l0060046	Runde 2
+Set4_MK	Weltlauf 	l00160211	l00130451	l00190039	left	same	left	same	left	l00130451l00160211l00190039	Runde 2
+Set4_MK	Porträt des Marquis de... 	l0040554	l00130138	l0080055	right	same	same	same	same	l00130138l0040554l0080055	Runde 2
+Set4_MK	Deine Hände 	l0040304	l0080227	l00130361	right	same	right	right	right	l0080227l0040304l00130361	Runde 2
+Set4_MK	Lied in der Nacht 	l0040053	l0060082	l00130449	same	left	same	same	same	l0060082l0040053l00130449	Runde 2
+Set4_MK	Die frühe Stunde 	l0030183	l00140124	l00130451	right	right	same	left	right	l00140124l0030183l00130451	Runde 2
+Set4_MK	Der Tod und das Mädchen 	l00100088	l0080026	l0050040	left	same	same	same	same	l0080026l00100088l0050040	Runde 2
+Set3_SW	Ganz im Geheimen 	l0010125	l0010079	l00200301	left	same	same	right	same	l0010079l0010125l00200301	Runde 2
+Set3_SW	Auf Gegenseitigkeit 	l00160192	l0080553	l00160300	left	right	right	right	same	l0080553l00160192l00160300	Runde 2
+Set3_SW	Habenichts 	l0010038	l0030373	l00140105	right	same	right	same	right	l0030373l0010038l00140105	Runde 2
+Set3_SW	Der Trompeter 	l0010208	l00200340	l00160262	left	right	right	right	right	l00200340l0010208l00160262	Runde 2
+Set3_SW	Kleine Marie 	l0010239	l00170058	l0080356	left	same	left	left	left	l00170058l0010239l0080356	Runde 2
+Set3_SW	Am Bahndamm 	l0060057	l00160004	l00140103	left	same	left	left	left	l00160004l0060057l00140103	Runde 2
+Set3_SW	Die stille Stadt 	l00170058	l00190039	l00200135	right	same	same	same	same	l00190039l00170058l00200135	Runde 2
+Set3_SW	Das schwarze Lachen 	l00190023	l0080311	l00170195	left	left	left	same	left	l0080311l00190023l00170195	Runde 2
+Set3_SW	Gleichgültigkeit 	l00130210	l00140150	l0010202	right	left	left	right	left	l00140150l00130210l0010202	Runde 2
+Set3_SW	Ich hörte den Wind... 	l0030305	l00160112	l00170003	right	left	same	right	right	l00160112l0030305l00170003	Runde 2
+Set3_SW	Die Kunst – 	l00130138	l0040554	l0030066	left	same	same	right	same	l0040554l00130138l0030066	Runde 2
+Set3_SW	Ave Maria 	l0080493	l0030433	l0080165	right	same	left	right	right	l0030433l0080493l0080165	Runde 2
+Set3_SW	Verirrt 	l0030420	l0060056	l00170194	left	left	left	left	left	l0060056l0030420l00170194	Runde 2
+Set3_SW	Sils-Maria 	l0030325	l0030227	l0010173	left	left	same	left	left	l0030227l0030325l0010173	Runde 2
+Set3_SW	Letzte Fahrt 	l0030218	l00180047	l00130204	right	right	right	left	right	l00180047l0030218l00130204	Runde 2
+Set3_SW	Ich schlief so sanft die ganze Nacht 	l00140078	l0010261	l00160211	left	same	same	left	left	l0010261l00140078l00160211	Runde 2
+Set3_SW	Im Mai 	l00200176	l0020034	l0080235	left	left	left	left	left	l0020034l00200176l0080235	Runde 2
+Set3_SW	Gottesgabe 	l0080132	l0030167	l0080493	right	left	same	left	left	l0030167l0080132l0080493	Runde 2
+Set3_SW	Leben 	l00180166	l00160262	l0060019	right	right	right	right	right	l00160262l00180166l0060019	Runde 2
+Set3_SW	Meine Seele 	l00140066	l00200242	l00130122	left	left	same	left	left	l00200242l00140066l00130122	Runde 2
+Set3_SW	Einst 	l00180035	l0030184	l00180166	left	right	same	left	same	l0030184l00180035l00180166	Runde 2
+Set3_SW	Die Kunst – 	l00130138	l0040554	l0030431	left	same	right	left	same	l0040554l00130138l0030431	Runde 2
+Set3_SW	Enttäuschung 	l00160262	l0020047	l0030112	right	right	right	right	right	l0020047l00160262l0030112	Runde 2
+Set3_SW	Wenn das weiße Mondenlicht... 	l00140083	l00170194	l00160042	right	same	same	right	right	l00170194l00140083l00160042	Runde 2
+Set3_SW	Porträt des Marquis de... 	l0040554	l00200026	l00130383	left	same	same	left	left	l00200026l0040554l00130383	Runde 2
+Set3_SW	Abbild 	l00180079	l00140119	l00130204	left	left	same	same	left	l00140119l00180079l00130204	Runde 2
+Set3_SW	Vorsicht 	l00130111	l00160042	l0010186	left	right	same	left	left	l00160042l00130111l0010186	Runde 2
+Set3_SW	Du warst es doch 	l0080549	l0010012	l0030174	left	left	left	left	left	l0010012l0080549l0030174	Runde 2
+Set3_SW	April 	l00130102	l00200088	l00200135	left	same	right	left	left	l00200088l00130102l00200135	Runde 2
+Set3_SW	Das schlafende Kind 	l0080026	l00130122	l00180079	left	right	right	same	right	l00130122l0080026l00180079	Runde 2
+Set2_MK	Ans Ziel – 	l00160041	l0010193	l00160172	same	right	right	same	right	l0010193l00160041l00160172	Runde 2
+Set2_MK	Der Abend 	l00130407	l0080497	l0030227	same	right	right	same	right	l0080497l00130407l0030227	Runde 2
+Set2_MK	Nur nimm sie wieder aus der Städte Schuld 	l00180136	l00200253	l0050040	left	same	left	left	left	l00200253l00180136l0050040	Runde 2
+Set2_MK	Das schlafende Kind 	l0080026	l0060056	l00180026	left	right	right	same	right	l0060056l0080026l00180026	Runde 2
+Set2_MK	Ein Gebet 	l0080616	l0010012	l0080361	same	same	same	same	same	l0010012l0080616l0080361	Runde 2
+Set2_MK	Zur Warnung 	l00130122	l0040509	l0030243	right	right	same	same	right	l0040509l00130122l0030243	Runde 2
+Set2_MK	Ein Gebet 	l0080616	l0040524	l00180047	right	right	same	same	right	l0040524l0080616l00180047	Runde 2
+Set2_MK	„Süß sind mir die Schollen des Tales.“ 	l0040336	l00130210	l00200340	same	same	same	same	same	l00130210l0040336l00200340	Runde 2
+Set2_MK	Ich will mich in dein Herz gewöhnen 	l0080412	l00200179	l00130138	right	left	left	left	left	l00200179l0080412l00130138	Runde 2
+Set2_MK	Mein Herz und deine Stimme 	l00200064	l0080549	l00200039	right	same	same	right	same	l0080549l00200064l00200039	Runde 2
+Set2_MK	Trost im Leiden 	l0020093	l0010132	l0090065	same	right	same	left	right	l0010132l0020093l0090065	Runde 2
+Set2_MK	Pflicht 	l00140029	l0060082	l0040554	left	same	same	left	left	l0060082l00140029l0040554	Runde 2
+Set2_MK	Resignatio 	l00140105	l0010038	l0060057	same	right	same	right	right	l0010038l00140105l0060057	Runde 2
+Set2_MK	Magdalene 	l0080578	l00200179	l0070146	right	left	left	right	left	l00200179l0080578l0070146	Runde 2
+Set2_MK	Graue Tage 	l00140150	l00130210	l0080587	same	same	left	same	same	l00130210l00140150l0080587	Runde 2
+Set2_MK	Vorsicht 	l00130111	l00130354	l00200301	same	left	same	same	same	l00130354l00130111l00200301	Runde 2
+Set2_MK	Sei fest 	l00140141	l00140045	l00170195	left	same	same	same	same	l00140045l00140141l00170195	Runde 2
+Set2_MK	Wanderlied 	l0010016	l00200223	l00200340	left	same	left	same	left	l00200223l0010016l00200340	Runde 2
+Set2_MK	Schweigen 	l00160113	l0080497	l0060019	left	right	right	right	right	l0080497l00160113l0060019	Runde 2
+Set2_MK	Erste und letzte Liebe 	l0080055	l0010154	l0090086	same	left	left	left	left	l0010154l0080055l0090086	Runde 2
+Set2_MK	Erste und letzte Liebe 	l0080055	l0080462	l00160041	right	left	left	right	left	l0080462l0080055l00160041	Runde 2
+Set2_MK	Es rauschen den eingeborenen Ton 	l0080344	l00170003	l00100009	right	right	right	same	right	l00170003l0080344l00100009	Runde 2
+Set2_MK	Gottesgabe 	l0080132	l0040505	l00130457	right	right	same	right	right	l0040505l0080132l00130457	Runde 2
+Set2_MK	Das war der Tag der weißen Chrysanthemen – 	l0040509	l00130138	l00130070	right	same	same	same	same	l00130138l0040509l00130070	Runde 2
+Set2_MK	Frisch vom Storch 	l0010018	l0030323	l0050016	same	same	left	same	same	l0030323l0010018l0050016	Runde 2
+Set2_MK	Trost und Hoffnung 	l00200002	l0080493	l00180143	left	same	left	same	left	l0080493l00200002l00180143	Runde 2
+Set2_MK	Guter Rat 	l00130384	l00140198	l0030174	left	left	same	left	left	l00140198l00130384l0030174	Runde 2
+Set2_MK	Banger Abend 	l00170019	l00170161	l00140156	same	right	right	right	right	l00170161l00170019l00140156	Runde 2
+Set2_MK	Sorgen 	l0010170	l0010217	l00200135	left	same	right	same	same	l0010217l0010170l00200135	Runde 2
+Set2_MK	Magdalene 	l0080578	l00100008	l00200179	same	right	right	same	right	l00100008l0080578l00200179	Runde 2
+Set1_MK	Trost der Nacht 	l00200088	l00170003	l0080361	right	same	right	same	right	l00170003l00200088l0080361	Runde 2
+Set1_MK	Spruch 	l0060062	l00160113	l00130070	same	right	same	right	right	l00160113l0060062l00130070	Runde 2
+Set1_MK	So regnet es sich langsam ein.. 	l0030115	l00170125	l00100088	same	left	left	left	left	l00170125l0030115l00100088	Runde 2
+Set1_MK	Am Morgen 	l0080333	l0010300	l0020167	right	same	same	left	same	l0010300l0080333l0020167	Runde 2
+Set1_MK	Abend im Tal 	l0040217	l0030031	l0090083	same	right	right	left	same	l0030031l0040217l0090083	Runde 2
+Set1_MK	So lange wir vertrauen 	l00130359	l00130398	l0080305	same	right	right	same	right	l00130398l00130359l0080305	Runde 2
+Set1_MK	Das schlafende Kind 	l0080026	l00160152	l0080077	right	same	right	right	right	l00160152l0080026l0080077	Runde 2
+Set1_MK	Alte Heimath 	l00200021	l0010132	l0040216	left	right	right	same	right	l0010132l00200021l0040216	Runde 2
+Set1_MK	In der Kirschenblüt' 	l0010056	l00170225	l0010184	same	right	right	same	right	l00170225l0010056l0010184	Runde 2
+Set1_MK	Der Trompeter 	l0010208	l0040336	l0080165	right	right	right	same	right	l0040336l0010208l0080165	Runde 2
+Set1_MK	Die Nachtigall – 	l00160283	l00190023	l0080251	right	right	right	right	right	l00190023l00160283l0080251	Runde 2
+Set1_MK	Du kennst mich nicht 	l00200202	l0080377	l0080208	same	same	same	same	same	l0080377l00200202l0080208	Runde 2
+Set1_MK	Märztag 	l00180017	l00190039	l0080377	same	left	right	left	left	l00190039l00180017l0080377	Runde 2
+Set1_MK	Erhellte Ferne 	l0040216	l00130407	l00140029	right	left	same	right	same	l00130407l0040216l00140029	Runde 2
+Set1_MK	Das ist so Brauch 	l0080369	l0060068	l00180012	same	same	same	same	same	l0060068l0080369l00180012	Runde 2
+Set1_MK	Lied 	l00200278	l0080132	l0020167	same	same	left	same	same	l0080132l00200278l0020167	Runde 2
+Set1_MK	Der Seligen Furcht 	l0010076	l00180047	l00160117	same	right	left	right	right	l00180047l0010076l00160117	Runde 2
+Set1_MK	Ich bat sie um die Rose 	l0080165	l0030066	l00160262	right	right	right	same	right	l0030066l0080165l00160262	Runde 2
+Set1_MK	Beschluß – 	l0060082	l0030305	l0040053	same	right	right	right	right	l0030305l0060082l0040053	Runde 2
+Set1_MK	Hans Schreier junior 	l00100111	l00130162	l00130138	same	right	right	same	right	l00130162l00100111l00130138	Runde 2
+Set1_MK	Gottesgabe 	l0080132	l0020147	l00130383	same	left	left	same	left	l0020147l0080132l00130383	Runde 2
+Set1_MK	Begegnen 	l0080361	l0040336	l0010239	left	same	same	left	left	l0040336l0080361l0010239	Runde 2
+Set1_MK	Leuchtende Tage 	l0010300	l0080497	l0080333	left	same	right	right	right	l0080497l0010300l0080333	Runde 2
+Set1_MK	Die alte Jungfer – 	l0010154	l00180168	l00200278	left	right	right	same	right	l00180168l0010154l00200278	Runde 2
+Set1_MK	Demuth 	l00160119	l0090084	l0030052	right	same	same	right	right	l0090084l00160119l0030052	Runde 2
+Set1_MK	An die Lerche 	l00130257	l00130182	l0080543	left	left	left	same	left	l00130182l00130257l0080543	Runde 2
+Set1_MK	Spruch 	l0060062	l00180026	l00200112	same	same	same	same	same	l00180026l0060062l00200112	Runde 2
+Set1_MK	Im Entschlafen 	l00170125	l0080046	l00140105	left	same	right	right	right	l0080046l00170125l00140105	Runde 2
+Set1_MK	Mit Unterschied 	l00160300	l0080208	l00170194	same	right	right	same	right	l0080208l00160300l00170194	Runde 2
+Set1_MK	Warte noch 	l0010193	l0050064	l0030243	same	same	left	same	same	l0050064l0010193l0030243	Runde 2
+Set2_AH	Ans Ziel – 	l00160041	l0010193	l00160172	left	left	same	same	left	l0010193l00160041l00160172	Runde 2
+Set2_AH	Der Abend 	l00130407	l0080497	l0030227	same	same	right	left	same	l0080497l00130407l0030227	Runde 2
+Set2_AH	Nur nimm sie wieder aus der Städte Schuld 	l00180136	l00200253	l0050040	left	left	left	left	left	l00200253l00180136l0050040	Runde 2
+Set2_AH	Das schlafende Kind 	l0080026	l0060056	l00180026	left	right	right	right	right	l0060056l0080026l00180026	Runde 2
+Set2_AH	Ein Gebet 	l0080616	l0010012	l0080361	right	left	left	left	left	l0010012l0080616l0080361	Runde 2
+Set2_AH	Zur Warnung 	l00130122	l0040509	l0030243	right	same	same	right	right	l0040509l00130122l0030243	Runde 2
+Set2_AH	Ein Gebet 	l0080616	l0040524	l00180047	right	right	same	same	same	l0040524l0080616l00180047	Runde 2
+Set2_AH	„Süß sind mir die Schollen des Tales.“ 	l0040336	l00130210	l00200340	same	same	left	left	same	l00130210l0040336l00200340	Runde 2
+Set2_AH	Ich will mich in dein Herz gewöhnen 	l0080412	l00200179	l00130138	right	left	left	right	same	l00200179l0080412l00130138	Runde 2
+Set2_AH	Mein Herz und deine Stimme 	l00200064	l0080549	l00200039	same	left	same	left	same	l0080549l00200064l00200039	Runde 2
+Set2_AH	Trost im Leiden 	l0020093	l0010132	l0090065	right	right	left	left	same	l0010132l0020093l0090065	Runde 2
+Set2_AH	Pflicht 	l00140029	l0060082	l0040554	left	same	left	left	left	l0060082l00140029l0040554	Runde 2
+Set2_AH	Resignatio 	l00140105	l0010038	l0060057	same	right	same	right	right	l0010038l00140105l0060057	Runde 2
+Set2_AH	Magdalene 	l0080578	l00200179	l0070146	right	same	right	right	right	l00200179l0080578l0070146	Runde 2
+Set2_AH	Graue Tage 	l00140150	l00130210	l0080587	same	same	same	left	same	l00130210l00140150l0080587	Runde 2
+Set2_AH	Vorsicht 	l00130111	l00130354	l00200301	same	left	same	same	same	l00130354l00130111l00200301	Runde 2
+Set2_AH	Sei fest 	l00140141	l00140045	l00170195	left	right	same	same	same	l00140045l00140141l00170195	Runde 2
+Set2_AH	Wanderlied 	l0010016	l00200223	l00200340	left	same	left	same	same	l00200223l0010016l00200340	Runde 2
+Set2_AH	Schweigen 	l00160113	l0080497	l0060019	same	right	right	right	right	l0080497l00160113l0060019	Runde 2
+Set2_AH	Erste und letzte Liebe 	l0080055	l0010154	l0090086	left	left	left	left	left	l0010154l0080055l0090086	Runde 2
+Set2_AH	Erste und letzte Liebe 	l0080055	l0080462	l00160041	right	left	same	right	right	l0080462l0080055l00160041	Runde 2
+Set2_AH	Es rauschen den eingeborenen Ton 	l0080344	l00170003	l00100009	right	left	right	same	left	l00170003l0080344l00100009	Runde 2
+Set2_AH	Gottesgabe 	l0080132	l0040505	l00130457	right	same	same	right	right	l0040505l0080132l00130457	Runde 2
+Set2_AH	Das war der Tag der weißen Chrysanthemen – 	l0040509	l00130138	l00130070	right	same	same	same	same	l00130138l0040509l00130070	Runde 2
+Set2_AH	Frisch vom Storch 	l0010018	l0030323	l0050016	right	same	left	left	left	l0030323l0010018l0050016	Runde 2
+Set2_AH	Trost und Hoffnung 	l00200002	l0080493	l00180143	same	left	left	same	left	l0080493l00200002l00180143	Runde 2
+Set2_AH	Guter Rat 	l00130384	l00140198	l0030174	left	left	same	left	left	l00140198l00130384l0030174	Runde 2
+Set2_AH	Banger Abend 	l00170019	l00170161	l00140156	right	right	right	right	right	l00170161l00170019l00140156	Runde 2
+Set2_AH	Sorgen 	l0010170	l0010217	l00200135	left	same	right	same	right	l0010217l0010170l00200135	Runde 2
+Set2_AH	Magdalene 	l0080578	l00100008	l00200179	same	right	right	same	right	l00100008l0080578l00200179	Runde 2
+Set3_DK	Ganz im Geheimen 	l0010125	l0010079	l00200301	same	right	right	left	right	l0010079l0010125l00200301	Runde 2
+Set3_DK	Auf Gegenseitigkeit 	l00160192	l0080553	l00160300	left	same	same	same	same	l0080553l00160192l00160300	Runde 2
+Set3_DK	Habenichts 	l0010038	l0030373	l00140105	left	left	left	left	left	l0030373l0010038l00140105	Runde 2
+Set3_DK	Der Trompeter 	l0010208	l00200340	l00160262	same	left	left	same	left	l00200340l0010208l00160262	Runde 2
+Set3_DK	Kleine Marie 	l0010239	l00170058	l0080356	right	left	left	same	left	l00170058l0010239l0080356	Runde 2
+Set3_DK	Am Bahndamm 	l0060057	l00160004	l00140103	left	same	left	left	left	l00160004l0060057l00140103	Runde 2
+Set3_DK	Die stille Stadt 	l00170058	l00190039	l00200135	right	right	right	right	right	l00190039l00170058l00200135	Runde 2
+Set3_DK	Das schwarze Lachen 	l00190023	l0080311	l00170195	left	same	left	same	left	l0080311l00190023l00170195	Runde 2
+Set3_DK	Gleichgültigkeit 	l00130210	l00140150	l0010202	same	same	left	right	same	l00140150l00130210l0010202	Runde 2
+Set3_DK	Ich hörte den Wind... 	l0030305	l00160112	l00170003	same	same	left	left	left	l00160112l0030305l00170003	Runde 2
+Set3_DK	Die Kunst – 	l00130138	l0040554	l0030066	same	same	right	right	right	l0040554l00130138l0030066	Runde 2
+Set3_DK	Ave Maria 	l0080493	l0030433	l0080165	right	left	left	same	left	l0030433l0080493l0080165	Runde 2
+Set3_DK	Verirrt 	l0030420	l0060056	l00170194	right	left	left	left	left	l0060056l0030420l00170194	Runde 2
+Set3_DK	Sils-Maria 	l0030325	l0030227	l0010173	left	same	left	left	left	l0030227l0030325l0010173	Runde 2
+Set3_DK	Letzte Fahrt 	l0030218	l00180047	l00130204	same	right	same	right	right	l00180047l0030218l00130204	Runde 2
+Set3_DK	Ich schlief so sanft die ganze Nacht 	l00140078	l0010261	l00160211	left	left	left	left	left	l0010261l00140078l00160211	Runde 2
+Set3_DK	Im Mai 	l00200176	l0020034	l0080235	left	left	left	left	left	l0020034l00200176l0080235	Runde 2
+Set3_DK	Gottesgabe 	l0080132	l0030167	l0080493	right	same	same	right	same	l0030167l0080132l0080493	Runde 2
+Set3_DK	Leben 	l00180166	l00160262	l0060019	right	right	right	right	right	l00160262l00180166l0060019	Runde 2
+Set3_DK	Meine Seele 	l00140066	l00200242	l00130122	left	left	left	left	left	l00200242l00140066l00130122	Runde 2
+Set3_DK	Einst 	l00180035	l0030184	l00180166	same	same	same	right	same	l0030184l00180035l00180166	Runde 2
+Set3_DK	Die Kunst – 	l00130138	l0040554	l0030431	same	right	right	right	right	l0040554l00130138l0030431	Runde 2
+Set3_DK	Enttäuschung 	l00160262	l0020047	l0030112	same	right	right	same	right	l0020047l00160262l0030112	Runde 2
+Set3_DK	Wenn das weiße Mondenlicht... 	l00140083	l00170194	l00160042	right	same	same	right	right	l00170194l00140083l00160042	Runde 2
+Set3_DK	Porträt des Marquis de... 	l0040554	l00200026	l00130383	left	same	same	same	same	l00200026l0040554l00130383	Runde 2
+Set3_DK	Abbild 	l00180079	l00140119	l00130204	left	left	same	same	left	l00140119l00180079l00130204	Runde 2
+Set3_DK	Vorsicht 	l00130111	l00160042	l0010186	same	right	same	same	right	l00160042l00130111l0010186	Runde 2
+Set3_DK	Du warst es doch 	l0080549	l0010012	l0030174	left	right	right	left	right	l0010012l0080549l0030174	Runde 2
+Set3_DK	April 	l00130102	l00200088	l00200135	left	right	right	same	right	l00200088l00130102l00200135	Runde 2
+Set3_DK	Das schlafende Kind 	l0080026	l00130122	l00180079	same	same	right	right	right	l00130122l0080026l00180079	Runde 2
+Set4_SP	Das Päckchen Gedichte 	l00170161	l0010154	l00130457	same	left	left	same	left	l0010154l00170161l00130457	Runde 2
+Set4_SP	Die Kunst – 	l00130138	l00180069	l0040554	left	same	left	left	left	l00180069l00130138l0040554	Runde 2
+Set4_SP	Gleichgültigkeit 	l00130210	l00140024	l00140150	same	same	same	right	same	l00140024l00130210l00140150	Runde 2
+Set4_SP	Fremd in der Fremde – 	l0010082	l00130354	l0030174	left	same	left	left	left	l00130354l0010082l0030174	Runde 2
+Set4_SP	Nachtlied 	l00200135	l0080305	l00200223	same	right	right	same	right	l0080305l00200135l00200223	Runde 2
+Set4_SP	Geschieden 	l0010172	l00200026	l00130042	left	right	right	left	same	l00200026l0010172l00130042	Runde 2
+Set4_SP	Zarathustras Lied 	l0030323	l00200176	l00140156	same	same	same	same	same	l00200176l0030323l00140156	Runde 2
+Set4_SP	Trost der Nacht 	l00200088	l00130102	l0080046	left	left	same	left	left	l00130102l00200088l0080046	Runde 2
+Set4_SP	Lied 	l00200278	l00100009	l0080132	same	right	right	same	right	l00100009l00200278l0080132	Runde 2
+Set4_SP	Guter Rat 	l00130384	l0030323	l00160192	right	right	right	right	right	l0030323l00130384l00160192	Runde 2
+Set4_SP	Du und ich 	l0040524	l0080448	l00110081	same	left	left	same	left	l0080448l0040524l00110081	Runde 2
+Set4_SP	An die Mädchen 	l00130354	l0050031	l00160112	right	right	right	right	right	l0050031l00130354l00160112	Runde 2
+Set4_SP	„Süß sind mir die Schollen des Tales.“ 	l0040336	l0010238	l00170058	left	right	right	same	right	l0010238l0040336l00170058	Runde 2
+Set4_SP	Gleichgültigkeit 	l00130210	l00200254	l00140150	left	same	same	same	same	l00200254l00130210l00140150	Runde 2
+Set4_SP	Wie ist das Leben bitter arm 	l0010218	l00130378	l0080311	right	right	right	right	right	l00130378l0010218l0080311	Runde 2
+Set4_SP	Banger Abend 	l00170019	l0060062	l0080412	left	left	right	left	left	l0060062l00170019l0080412	Runde 2
+Set4_SP	Die List der Trinker 	l0020029	l00160240	l0070146	left	same	same	same	same	l00160240l0020029l0070146	Runde 2
+Set4_SP	Der Seligen Furcht 	l0010076	l0050031	l0010186	same	same	same	same	same	l0050031l0010076l0010186	Runde 2
+Set4_SP	Lady Rosa 	l0030184	l00160212	l00130384	same	same	right	same	same	l00160212l0030184l00130384	Runde 2
+Set4_SP	Dein Bild – 	l0030433	l0010238	l0020039	left	same	left	right	same	l0010238l0030433l0020039	Runde 2
+Set4_SP	Gleichgültigkeit 	l00130210	l0090086	l00140150	same	same	right	right	right	l0090086l00130210l00140150	Runde 2
+Set4_SP	An die Freunde 	l0020147	l00160172	l0030065	right	same	same	left	same	l00160172l0020147l0030065	Runde 2
+Set4_SP	Deutsche Art 	l00130383	l00130059	l00200186	left	left	left	same	left	l00130059l00130383l00200186	Runde 2
+Set4_SP	Morgenduft 	l0090086	l0080554	l0060046	left	right	right	right	right	l0080554l0090086l0060046	Runde 2
+Set4_SP	Weltlauf 	l00160211	l00130451	l00190039	left	same	left	same	same	l00130451l00160211l00190039	Runde 2
+Set4_SP	Porträt des Marquis de... 	l0040554	l00130138	l0080055	same	same	same	right	same	l00130138l0040554l0080055	Runde 2
+Set4_SP	Deine Hände 	l0040304	l0080227	l00130361	right	right	right	right	right	l0080227l0040304l00130361	Runde 2
+Set4_SP	Lied in der Nacht 	l0040053	l0060082	l00130449	same	same	left	left	left	l0060082l0040053l00130449	Runde 2
+Set4_SP	Die frühe Stunde 	l0030183	l00140124	l00130451	right	right	same	left	right	l00140124l0030183l00130451	Runde 2
+Set4_SP	Der Tod und das Mädchen 	l00100088	l0080026	l0050040	left	right	right	left	same	l0080026l00100088l0050040	Runde 2
+Set1_JB	Trost der Nacht 	l00200088	l00170003	l0080361	right	right	right	right	right	l00170003l00200088l0080361	Runde 2
+Set1_JB	Spruch 	l0060062	l00160113	l00130070	same	right	same	right	right	l00160113l0060062l00130070	Runde 2
+Set1_JB	So regnet es sich langsam ein.. 	l0030115	l00170125	l00100088	same	left	left	same	left	l00170125l0030115l00100088	Runde 2
+Set1_JB	Am Morgen 	l0080333	l0010300	l0020167	same	right	right	same	right	l0010300l0080333l0020167	Runde 2
+Set1_JB	Abend im Tal 	l0040217	l0030031	l0090083	same	right	right	right	right	l0030031l0040217l0090083	Runde 2
+Set1_JB	So lange wir vertrauen 	l00130359	l00130398	l0080305	same	right	right	right	right	l00130398l00130359l0080305	Runde 2
+Set1_JB	Das schlafende Kind 	l0080026	l00160152	l0080077	right	left	left	left	left	l00160152l0080026l0080077	Runde 2
+Set1_JB	Alte Heimath 	l00200021	l0010132	l0040216	same	left	left	left	left	l0010132l00200021l0040216	Runde 2
+Set1_JB	In der Kirschenblüt' 	l0010056	l00170225	l0010184	right	same	right	left	right	l00170225l0010056l0010184	Runde 2
+Set1_JB	Der Trompeter 	l0010208	l0040336	l0080165	right	right	right	right	right	l0040336l0010208l0080165	Runde 2
+Set1_JB	Die Nachtigall – 	l00160283	l00190023	l0080251	right	right	right	right	right	l00190023l00160283l0080251	Runde 2
+Set1_JB	Du kennst mich nicht 	l00200202	l0080377	l0080208	right	same	same	same	same	l0080377l00200202l0080208	Runde 2
+Set1_JB	Märztag 	l00180017	l00190039	l0080377	same	left	left	right	left	l00190039l00180017l0080377	Runde 2
+Set1_JB	Erhellte Ferne 	l0040216	l00130407	l00140029	right	left	left	right	left	l00130407l0040216l00140029	Runde 2
+Set1_JB	Das ist so Brauch 	l0080369	l0060068	l00180012	left	left	same	left	left	l0060068l0080369l00180012	Runde 2
+Set1_JB	Lied 	l00200278	l0080132	l0020167	same	right	right	same	right	l0080132l00200278l0020167	Runde 2
+Set1_JB	Der Seligen Furcht 	l0010076	l00180047	l00160117	right	same	right	same	right	l00180047l0010076l00160117	Runde 2
+Set1_JB	Ich bat sie um die Rose 	l0080165	l0030066	l00160262	right	right	right	same	right	l0030066l0080165l00160262	Runde 2
+Set1_JB	Beschluß – 	l0060082	l0030305	l0040053	left	right	left	left	left	l0030305l0060082l0040053	Runde 2
+Set1_JB	Hans Schreier junior 	l00100111	l00130162	l00130138	left	right	same	left	left	l00130162l00100111l00130138	Runde 2
+Set1_JB	Gottesgabe 	l0080132	l0020147	l00130383	right	left	left	left	left	l0020147l0080132l00130383	Runde 2
+Set1_JB	Begegnen 	l0080361	l0040336	l0010239	left	same	left	left	left	l0040336l0080361l0010239	Runde 2
+Set1_JB	Leuchtende Tage 	l0010300	l0080497	l0080333	left	right	right	right	right	l0080497l0010300l0080333	Runde 2
+Set1_JB	Die alte Jungfer – 	l0010154	l00180168	l00200278	right	right	right	same	right	l00180168l0010154l00200278	Runde 2
+Set1_JB	Demuth 	l00160119	l0090084	l0030052	same	same	same	left	same	l0090084l00160119l0030052	Runde 2
+Set1_JB	An die Lerche 	l00130257	l00130182	l0080543	left	left	left	left	left	l00130182l00130257l0080543	Runde 2
+Set1_JB	Spruch 	l0060062	l00180026	l00200112	same	same	same	same	same	l00180026l0060062l00200112	Runde 2
+Set1_JB	Im Entschlafen 	l00170125	l0080046	l00140105	left	right	same	right	right	l0080046l00170125l00140105	Runde 2
+Set1_JB	Mit Unterschied 	l00160300	l0080208	l00170194	right	right	right	same	right	l0080208l00160300l00170194	Runde 2
+Set1_JB	Warte noch 	l0010193	l0050064	l0030243	same	right	right	right	right	l0050064l0010193l0030243	Runde 2
+Set4_JE	Das Päckchen Gedichte 	l00170161	l0010154	l00130457	same	left	left	same	left	l0010154l00170161l00130457	Runde 2
+Set4_JE	Die Kunst – 	l00130138	l00180069	l0040554	left	same	right	left	left	l00180069l00130138l0040554	Runde 2
+Set4_JE	Gleichgültigkeit 	l00130210	l00140024	l00140150	same	right	right	left	right	l00140024l00130210l00140150	Runde 2
+Set4_JE	Fremd in der Fremde – 	l0010082	l00130354	l0030174	left	same	same	left	left	l00130354l0010082l0030174	Runde 2
+Set4_JE	Nachtlied 	l00200135	l0080305	l00200223	left	same	right	left	same	l0080305l00200135l00200223	Runde 2
+Set4_JE	Geschieden 	l0010172	l00200026	l00130042	left	right	right	same	right	l00200026l0010172l00130042	Runde 2
+Set4_JE	Zarathustras Lied 	l0030323	l00200176	l00140156	same	same	same	same	same	l00200176l0030323l00140156	Runde 2
+Set4_JE	Trost der Nacht 	l00200088	l00130102	l0080046	left	left	left	left	left	l00130102l00200088l0080046	Runde 2
+Set4_JE	Lied 	l00200278	l00100009	l0080132	same	right	right	right	right	l00100009l00200278l0080132	Runde 2
+Set4_JE	Guter Rat 	l00130384	l0030323	l00160192	same	right	left	left	same	l0030323l00130384l00160192	Runde 2
+Set4_JE	Du und ich 	l0040524	l0080448	l00110081	same	left	left	left	left	l0080448l0040524l00110081	Runde 2
+Set4_JE	An die Mädchen 	l00130354	l0050031	l00160112	right	left	same	right	right	l0050031l00130354l00160112	Runde 2
+Set4_JE	„Süß sind mir die Schollen des Tales.“ 	l0040336	l0010238	l00170058	left	right	right	right	right	l0010238l0040336l00170058	Runde 2
+Set4_JE	Gleichgültigkeit 	l00130210	l00200254	l00140150	left	same	right	left	same	l00200254l00130210l00140150	Runde 2
+Set4_JE	Wie ist das Leben bitter arm 	l0010218	l00130378	l0080311	right	right	right	right	right	l00130378l0010218l0080311	Runde 2
+Set4_JE	Banger Abend 	l00170019	l0060062	l0080412	right	left	same	same	same	l0060062l00170019l0080412	Runde 2
+Set4_JE	Die List der Trinker 	l0020029	l00160240	l0070146	left	left	same	same	left	l00160240l0020029l0070146	Runde 2
+Set4_JE	Der Seligen Furcht 	l0010076	l0050031	l0010186	same	same	right	right	right	l0050031l0010076l0010186	Runde 2
+Set4_JE	Lady Rosa 	l0030184	l00160212	l00130384	same	same	right	right	right	l00160212l0030184l00130384	Runde 2
+Set4_JE	Dein Bild – 	l0030433	l0010238	l0020039	left	left	left	same	left	l0010238l0030433l0020039	Runde 2
+Set4_JE	Gleichgültigkeit 	l00130210	l0090086	l00140150	same	same	right	right	right	l0090086l00130210l00140150	Runde 2
+Set4_JE	An die Freunde 	l0020147	l00160172	l0030065	same	left	same	left	left	l00160172l0020147l0030065	Runde 2
+Set4_JE	Deutsche Art 	l00130383	l00130059	l00200186	left	left	left	left	left	l00130059l00130383l00200186	Runde 2
+Set4_JE	Morgenduft 	l0090086	l0080554	l0060046	left	right	right	right	right	l0080554l0090086l0060046	Runde 2
+Set4_JE	Weltlauf 	l00160211	l00130451	l00190039	left	same	same	right	same	l00130451l00160211l00190039	Runde 2
+Set4_JE	Porträt des Marquis de... 	l0040554	l00130138	l0080055	same	same	left	same	same	l00130138l0040554l0080055	Runde 2
+Set4_JE	Deine Hände 	l0040304	l0080227	l00130361	right	right	right	right	right	l0080227l0040304l00130361	Runde 2
+Set4_JE	Lied in der Nacht 	l0040053	l0060082	l00130449	same	left	left	same	left	l0060082l0040053l00130449	Runde 2
+Set4_JE	Die frühe Stunde 	l0030183	l00140124	l00130451	right	right	same	left	right	l00140124l0030183l00130451	Runde 2
+Set4_JE	Der Tod und das Mädchen 	l00100088	l0080026	l0050040	left	same	right	right	right	l0080026l00100088l0050040	Runde 2
+Set5_MG	Die Kühle 	l00190039	l0010016	l00140028	left	same	left	left	left	l0010016l00190039l00140028	Runde 3
+Set5_MG	Vorsicht 	l00130111	l00130378	l00200039	left	left	left	left	left	l00130378l00130111l00200039	Runde 3
+Set5_MG	Die Nicht-Gewesenen 	l0030243	l0080077	l00200021	same	same	same	same	same	l0080077l0030243l00200021	Runde 3
+Set5_MG	Der Trompeter 	l0010208	l00160262	l00130122	left	left	same	left	left	l00160262l0010208l00130122	Runde 3
+Set5_MG	Abbild 	l00180079	l00130204	l00140028	same	same	same	same	same	l00130204l00180079l00140028	Runde 3
+Set5_MG	Alte Heimath 	l00200021	l0070146	l00140029	right	same	right	left	right	l0070146l00200021l00140029	Runde 3
+Set5_MG	Die stille Stadt 	l00170058	l0010082	l0060062	same	same	same	left	same	l0010082l00170058l0060062	Runde 3
+Set5_MG	Lady Rosa 	l0030184	l00130210	l00160212	right	same	same	right	same	l00130210l0030184l00160212	Runde 3
+Set5_MG	Das Päckchen Gedichte 	l00170161	l00200301	l00160172	left	left	left	same	left	l00200301l00170161l00160172	Runde 3
+Set5_MG	Der Trompeter 	l0010208	l0080165	l0010172	same	left	left	same	left	l0080165l0010208l0010172	Runde 3
+Set5_MG	Die Kunst – 	l00130138	l0080055	l0040554	same	same	same	same	same	l0080055l00130138l0040554	Runde 3
+Set5_MG	Frisch vom Storch 	l0010018	l0020167	l0080553	same	same	same	same	same	l0020167l0010018l0080553	Runde 3
+Set5_MG	Marksteine 	l00130329	l0050064	l0080333	same	left	left	left	left	l0050064l00130329l0080333	Runde 3
+Set5_MG	Doppelte Jugend 	l0080077	l0060056	l00200242	left	right	right	left	left	l0060056l0080077l00200242	Runde 3
+Set5_MG	Es rauschen den eingeborenen Ton 	l0080344	l0080046	l00170003	left	right	same	same	same	l0080046l0080344l00170003	Runde 3
+Set5_MG	Hans Schreier junior 	l00100111	l00130111	l0010173	left	same	left	left	left	l00130111l00100111l0010173	Runde 3
+Set5_MG	Ich will mich in dein Herz gewöhnen 	l0080412	l0080578	l00140156	same	same	same	same	same	l0080578l0080412l00140156	Runde 3
+Set5_MG	Die einsame Tanne 	l00130182	l00130257	l00170125	left	left	same	left	left	l00130257l00130182l00170125	Runde 3
+Set5_MG	Die Luft so schwer... 	l0030065	l0030031	l0010208	same	same	same	left	same	l0030031l0030065l0010208	Runde 3
+Set5_MG	Abbild 	l00180079	l0030218	l00130070	same	same	left	left	same	l0030218l00180079l00130070	Runde 3
+Set5_MG	Die Nicht-Gewesenen 	l0030243	l0080448	l00200135	same	same	left	left	same	l0080448l0030243l00200135	Runde 3
+Set5_MG	Im Mai 	l00200176	l00140105	l0010018	same	same	same	left	same	l00140105l00200176l0010018	Runde 3
+Set1_AB	Hans Schreier junior 	l00100111	l00130378	l00130162	left	same	same	same	same	l00130378l00100111l00130162	Runde 3
+Set1_AB	Warte noch 	l0010193	l00200186	l0080578	right	same	same	same	same	l00200186l0010193l0080578	Runde 3
+Set1_AB	Vorbestimmung 	l00200301	l0010056	l0080333	right	right	right	right	right	l0010056l00200301l0080333	Runde 3
+Set1_AB	Demuth 	l00160119	l00180047	l0030052	left	same	right	right	same	l00180047l00160119l0030052	Runde 3
+Set1_AB	Das ist der Traurigkeiten Stunde 	l0060019	l0030065	l0020178	right	left	left	right	same	l0030065l0060019l0020178	Runde 3
+Set1_AB	April 	l00130102	l00200135	l00200278	left	same	left	left	left	l00200135l00130102l00200278	Runde 3
+Set1_AB	Nur nimm sie wieder aus der Städte Schuld 	l00180136	l00170161	l0050040	left	same	right	same	same	l00170161l00180136l0050040	Runde 3
+Set1_AB	Die stille Stadt 	l00170058	l0010186	l0050016	left	same	left	left	left	l0010186l00170058l0050016	Runde 3
+Set1_AB	Einst 	l00180035	l00160300	l0010012	right	right	right	right	right	l00160300l00180035l0010012	Runde 3
+Set1_AB	Beschluß – 	l0060082	l00160283	l0040053	left	same	same	left	same	l00160283l0060082l0040053	Runde 3
+Set1_AB	Die Kunst – 	l00130138	l00130384	l0040554	left	left	left	left	left	l00130384l00130138l0040554	Runde 3
+Set1_AB	Kindermund 	l0050031	l00100009	l0010172	right	same	right	right	right	l00100009l0050031l0010172	Runde 3
+Set1_AB	Die List der Trinker 	l0020029	l0010239	l0080251	right	right	right	right	right	l0010239l0020029l0080251	Runde 3
+Set1_AB	Erster Schnee 	l0080595	l00140024	l00130359	right	same	right	right	right	l00140024l0080595l00130359	Runde 3
+Set1_AB	An die Lerche 	l00130257	l00200245	l00130182	right	right	right	right	right	l00200245l00130257l00130182	Runde 3
+Set1_AB	Vorbei 	l0010184	l00200253	l0080549	same	right	right	same	right	l00200253l0010184l0080549	Runde 3
+Set1_AB	Komm Bruder Manfred... 	l0070146	l00130122	l00200242	right	same	right	right	right	l00130122l0070146l00200242	Runde 3
+Set1_AB	Enttäuschung 	l00160262	l00130457	l0010208	right	right	right	right	right	l00130457l00160262l0010208	Runde 3
+Set1_AB	Als mich dein Blick beim Scheiden traf 	l0020167	l00200202	l00130210	right	right	right	right	right	l00200202l0020167l00130210	Runde 3
+Set1_AB	Abbild 	l00180079	l00130204	l00140029	same	right	right	right	right	l00130204l00180079l00140029	Runde 3
+Set1_AB	Wie ist das Leben bitter arm 	l0010218	l00140198	l00130164	same	same	left	same	same	l00140198l0010218l00130164	Runde 3
+Set1_AB	Sils-Maria 	l0030325	l00170125	l0030174	left	left	left	left	left	l00170125l0030325l0030174	Runde 3
+Set1_AB	Fromme Bücher 	l00160212	l0020147	l0030184	same	same	left	left	same	l0020147l00160212l0030184	Runde 3
+Set1_AB	Verirrt 	l0030420	l0030115	l0040216	right	right	right	right	right	l0030115l0030420l0040216	Runde 3
+Set1_AB	Kindesauge 	l00200254	l00200340	l00130268	same	same	left	left	left	l00200340l00200254l00130268	Runde 3
+Set1_AB	Auf Gegenseitigkeit 	l00160192	l00170194	l0080311	same	same	left	left	left	l00170194l00160192l0080311	Runde 3
+Set1_AB	2. Nach dem Regen 	l0020047	l0060053	l00130355	left	left	left	left	left	l0060053l0020047l00130355	Runde 3
+Set1_AB	Alpenklub 	l00130059	l0080165	l00130383	same	same	right	right	right	l0080165l00130059l00130383	Runde 3
+Set1_AB	Leben 	l00180166	l0010016	l00160113	same	right	right	right	right	l0010016l00180166l00160113	Runde 3
+Set1_AB	Was helft ihr 	l0080462	l00200026	l0080553	same	right	right	right	right	l00200026l0080462l0080553	Runde 3
+Set1_AB	Es rauschen den eingeborenen Ton 	l0080344	l00170003	l00160211	right	right	right	right	right	l00170003l0080344l00160211	Runde 3
+Set1_AB	Ich schlief so sanft die ganze Nacht 	l00140078	l0040505	l0080132	right	right	right	right	right	l0040505l00140078l0080132	Runde 3
+Set1_AB	Stör nicht den Traum der Kinder – 	l00160112	l00170061	l0030433	right	same	right	right	right	l00170061l00160112l0030433	Runde 3
+Set1_AB	Im Mai 	l00200176	l0090086	l00180168	right	right	right	right	right	l0090086l00200176l00180168	Runde 3
+Set1_AB	Frühlingslied in der Stadt 	l0010217	l0080046	l0080235	left	same	left	same	left	l0080046l0010217l0080235	Runde 3
+Set1_AB	Ich will mich in dein Herz gewöhnen 	l0080412	l00200112	l0080493	right	same	right	right	right	l00200112l0080412l0080493	Runde 3
+Set1_AB	Spruch 	l00160172	l0030112	l0010154	same	same	same	same	same	l0030112l00160172l0010154	Runde 3
+Set1_AB	Die Betrogene 	l00200179	l0080587	l0030066	left	left	left	same	left	l0080587l00200179l0030066	Runde 3
+Set1_AB	Banger Abend 	l00170019	l0010202	l00140156	same	right	right	right	right	l0010202l00170019l00140156	Runde 3
+Set1_AB	Der Tod und das Mädchen 	l00100088	l00160152	l0090065	right	same	same	right	right	l00160152l00100088l0090065	Runde 3
+Set1_AB	Hoffnung 	l0080305	l00140045	l00160041	same	same	right	right	right	l00140045l0080305l00160041	Runde 3
+Set1_AB	Der Abend 	l00130407	l0010238	l0030227	same	same	left	left	left	l0010238l00130407l0030227	Runde 3
+Set1_AB	Als gestern die Nachtigall 	l0080208	l0030373	l0040524	left	right	right	same	right	l0030373l0080208l0040524	Runde 3
+Set1_AB	I. Da ich noch 	l00130361	l00190023	l0010076	same	same	left	left	left	l00190023l00130361l0010076	Runde 3
+Set1_AB	„Süß sind mir die Schollen des Tales.“ 	l0040336	l00140103	l00200088	right	same	right	right	right	l00140103l0040336l00200088	Runde 3
+Set1_AB	An die Mädchen 	l00130354	l00110078	l0010082	left	same	left	left	left	l00110078l00130354l0010082	Runde 3
+Set1_AB	Frühlingsnacht 	l00200039	l00200223	l0050064	left	same	left	left	left	l00200223l00200039l0050064	Runde 3
+Set1_AB	Die Kühle 	l00190039	l00160004	l00140150	same	left	left	left	left	l00160004l00190039l00140150	Runde 3
+Set1_AB	Übermuth an allen Ecken...	l0070163	l0010095	l0040211	left	left	left	left	left	l0010095l0070163l0040211	Runde 3
+Set1_AB	Schlafend trägt man mich	l00180044	l00150314	l00160149	same	right	right	right	right	l00150314l00180044l00160149	Runde 3
+Set1_AB	Ideale Landschaft	l0030089	l00140161	l00130037	left	same	same	left	same	l00140161l0030089l00130037	Runde 3
+Set1_AB	Schlafend trägt man mich	l0040419	l0040492	l00270034	same	left	left	left	left	l0040492l0040419l00270034	Runde 3
+Set1_AB	Am See	l00150202	l00170013	l0040644	right	right	right	right	right	l00170013l00150202l0040644	Runde 3
+Set1_AB	Lache des Sturmes!	l00270475	l00160203	l0040047	same	same	right	right	right	l00160203l00270475l0040047	Runde 3
+Set1_AB	Nach der Hühnerjagd	l0040371	l0080614	l0010081	right	right	right	right	right	l0080614l0040371l0010081	Runde 3
+Set1_AB	Schlaf	l0010252	l0080136	l0010006	right	right	right	right	right	l0080136l0010252l0010006	Runde 3
+Set1_AB	Eine Fremde	l00270719	l0010233	l0010204	same	left	left	left	left	l0010233l00270719l0010204	Runde 3
+Set1_AB	Selbstzucht	l00170056	l00160019	l0040120	right	same	right	right	right	l00160019l00170056l0040120	Runde 3
+Set1_AB	Beginn des Endes	l00160295	l00270833	l0030411	right	right	right	right	right	l00270833l00160295l0030411	Runde 3
+Set1_AB	Nach dem Gewitter	l00270059	l00270076	l0010230	same	right	right	right	right	l00270076l00270059l0010230	Runde 3
+Set1_MK	Hans Schreier junior 	l00100111	l00130378	l00130162	left	same	left	same	left	l00130378l00100111l00130162	Runde 3
+Set1_MK	Warte noch 	l0010193	l00200186	l0080578	right	same	same	same	same	l00200186l0010193l0080578	Runde 3
+Set1_MK	Vorbestimmung 	l00200301	l0010056	l0080333	right	left	left	right	same	l0010056l00200301l0080333	Runde 3
+Set1_MK	Demuth 	l00160119	l00180047	l0030052	left	same	right	same	same	l00180047l00160119l0030052	Runde 3
+Set1_MK	Das ist der Traurigkeiten Stunde 	l0060019	l0030065	l0020178	right	same	left	right	right	l0030065l0060019l0020178	Runde 3
+Set1_MK	April 	l00130102	l00200135	l00200278	left	left	same	same	left	l00200135l00130102l00200278	Runde 3
+Set1_MK	Nur nimm sie wieder aus der Städte Schuld 	l00180136	l00170161	l0050040	same	same	same	same	same	l00170161l00180136l0050040	Runde 3
+Set1_MK	Die stille Stadt 	l00170058	l0010186	l0050016	same	same	left	same	same	l0010186l00170058l0050016	Runde 3
+Set1_MK	Einst 	l00180035	l00160300	l0010012	same	right	same	same	same	l00160300l00180035l0010012	Runde 3
+Set1_MK	Beschluß – 	l0060082	l00160283	l0040053	left	right	same	same	same	l00160283l0060082l0040053	Runde 3
+Set1_MK	Die Kunst – 	l00130138	l00130384	l0040554	left	left	same	same	left	l00130384l00130138l0040554	Runde 3
+Set1_MK	Kindermund 	l0050031	l00100009	l0010172	right	right	left	same	right	l00100009l0050031l0010172	Runde 3
+Set1_MK	Die List der Trinker 	l0020029	l0010239	l0080251	right	right	right	same	right	l0010239l0020029l0080251	Runde 3
+Set1_MK	Erster Schnee 	l0080595	l00140024	l00130359	right	same	right	right	right	l00140024l0080595l00130359	Runde 3
+Set1_MK	An die Lerche 	l00130257	l00200245	l00130182	same	same	right	left	same	l00200245l00130257l00130182	Runde 3
+Set1_MK	Vorbei 	l0010184	l00200253	l0080549	same	same	right	right	same	l00200253l0010184l0080549	Runde 3
+Set1_MK	Komm Bruder Manfred... 	l0070146	l00130122	l00200242	right	same	same	same	same	l00130122l0070146l00200242	Runde 3
+Set1_MK	Enttäuschung 	l00160262	l00130457	l0010208	right	right	right	same	right	l00130457l00160262l0010208	Runde 3
+Set1_MK	Als mich dein Blick beim Scheiden traf 	l0020167	l00200202	l00130210	left	left	left	same	left	l00200202l0020167l00130210	Runde 3
+Set1_MK	Abbild 	l00180079	l00130204	l00140029	same	right	right	left	right	l00130204l00180079l00140029	Runde 3
+Set1_MK	Wie ist das Leben bitter arm 	l0010218	l00140198	l00130164	same	right	left	left	same	l00140198l0010218l00130164	Runde 3
+Set1_MK	Sils-Maria 	l0030325	l00170125	l0030174	left	same	left	left	left	l00170125l0030325l0030174	Runde 3
+Set1_MK	Fromme Bücher 	l00160212	l0020147	l0030184	same	same	right	same	same	l0020147l00160212l0030184	Runde 3
+Set1_MK	Verirrt 	l0030420	l0030115	l0040216	right	left	same	same	same	l0030115l0030420l0040216	Runde 3
+Set1_MK	Kindesauge 	l00200254	l00200340	l00130268	same	same	same	left	same	l00200340l00200254l00130268	Runde 3
+Set1_MK	Auf Gegenseitigkeit 	l00160192	l00170194	l0080311	same	left	left	same	left	l00170194l00160192l0080311	Runde 3
+Set1_MK	2. Nach dem Regen 	l0020047	l0060053	l00130355	left	left	left	left	left	l0060053l0020047l00130355	Runde 3
+Set1_MK	Alpenklub 	l00130059	l0080165	l00130383	same	right	right	same	right	l0080165l00130059l00130383	Runde 3
+Set1_MK	Leben 	l00180166	l0010016	l00160113	same	right	right	same	right	l0010016l00180166l00160113	Runde 3
+Set1_MK	Was helft ihr 	l0080462	l00200026	l0080553	same	right	right	same	right	l00200026l0080462l0080553	Runde 3
+Set1_MK	Es rauschen den eingeborenen Ton 	l0080344	l00170003	l00160211	right	same	same	right	right	l00170003l0080344l00160211	Runde 3
+Set1_MK	Ich schlief so sanft die ganze Nacht 	l00140078	l0040505	l0080132	right	right	right	right	right	l0040505l00140078l0080132	Runde 3
+Set1_MK	Stör nicht den Traum der Kinder – 	l00160112	l00170061	l0030433	right	same	right	right	right	l00170061l00160112l0030433	Runde 3
+Set1_MK	Im Mai 	l00200176	l0090086	l00180168	right	same	same	same	right	l0090086l00200176l00180168	Runde 3
+Set1_MK	Frühlingslied in der Stadt 	l0010217	l0080046	l0080235	left	same	left	same	left	l0080046l0010217l0080235	Runde 3
+Set1_MK	Ich will mich in dein Herz gewöhnen 	l0080412	l00200112	l0080493	same	same	same	same	same	l00200112l0080412l0080493	Runde 3
+Set1_MK	Spruch 	l00160172	l0030112	l0010154	same	same	same	same	same	l0030112l00160172l0010154	Runde 3
+Set1_MK	Die Betrogene 	l00200179	l0080587	l0030066	left	left	left	same	left	l0080587l00200179l0030066	Runde 3
+Set1_MK	Banger Abend 	l00170019	l0010202	l00140156	same	right	right	same	right	l0010202l00170019l00140156	Runde 3
+Set1_MK	Der Tod und das Mädchen 	l00100088	l00160152	l0090065	right	same	same	same	same	l00160152l00100088l0090065	Runde 3
+Set1_MK	Hoffnung 	l0080305	l00140045	l00160041	same	same	left	same	same	l00140045l0080305l00160041	Runde 3
+Set1_MK	Der Abend 	l00130407	l0010238	l0030227	same	right	right	same	right	l0010238l00130407l0030227	Runde 3
+Set1_MK	Als gestern die Nachtigall 	l0080208	l0030373	l0040524	left	right	right	left	same	l0030373l0080208l0040524	Runde 3
+Set1_MK	I. Da ich noch 	l00130361	l00190023	l0010076	right	same	left	same	same	l00190023l00130361l0010076	Runde 3
+Set1_MK	„Süß sind mir die Schollen des Tales.“ 	l0040336	l00140103	l00200088	right	same	right	right	right	l00140103l0040336l00200088	Runde 3
+Set1_MK	An die Mädchen 	l00130354	l00110078	l0010082	same	right	right	left	same	l00110078l00130354l0010082	Runde 3
+Set1_MK	Frühlingsnacht 	l00200039	l00200223	l0050064	same	right	right	same	right	l00200223l00200039l0050064	Runde 3
+Set1_MK	Die Kühle 	l00190039	l00160004	l00140150	same	left	left	same	left	l00160004l00190039l00140150	Runde 3
+Set1_MK	Übermuth an allen Ecken...	l0070163	l0010095	l0040211	left	same	right	right	right	l0010095l0070163l0040211	Runde 3
+Set1_MK	Schlafend trägt man mich	l00180044	l00150314	l00160149	same	right	same	same	right	l00150314l00180044l00160149	Runde 3
+Set1_MK	Ideale Landschaft	l0030089	l00140161	l00130037	left	same	same	same	left	l00140161l0030089l00130037	Runde 3
+Set1_MK	Schlafend trägt man mich	l0040419	l0040492	l00270034	same	same	left	same	same	l0040492l0040419l00270034	Runde 3
+Set1_MK	Am See	l00150202	l00170013	l0040644	right	left	same	right	same	l00170013l00150202l0040644	Runde 3
+Set1_MK	Lache des Sturmes!	l00270475	l00160203	l0040047	right	right	right	same	right	l00160203l00270475l0040047	Runde 3
+Set1_MK	Nach der Hühnerjagd	l0040371	l0080614	l0010081	left	same	same	right	same	l0080614l0040371l0010081	Runde 3
+Set1_MK	Schlaf	l0010252	l0080136	l0010006	right	right	left	right	right	l0080136l0010252l0010006	Runde 3
+Set1_MK	Eine Fremde	l00270719	l0010233	l0010204	same	left	left	left	left	l0010233l00270719l0010204	Runde 3
+Set1_MK	Selbstzucht	l00170056	l00160019	l0040120	right	same	right	same	right	l00160019l00170056l0040120	Runde 3
+Set1_MK	Beginn des Endes	l00160295	l00270833	l0030411	right	same	same	same	same	l00270833l00160295l0030411	Runde 3
+Set1_MK	Nach dem Gewitter	l00270059	l00270076	l0010230	same	right	same	left	right	l00270076l00270059l0010230	Runde 3
+Set2_FJ	Das war der Tag der weißen Chrysanthemen – 	l0040509	l0060062	l0080369	right	right	left	right	right	l0060062l0040509l0080369	Runde 3
+Set2_FJ	Trost im Leiden 	l0020093	l0010132	l00180012	left	same	same	same	same	l0010132l0020093l00180012	Runde 3
+Set2_FJ	Wenn das weiße Mondenlicht... 	l00140083	l00130042	l0030323	same	same	same	same	same	l00130042l00140083l0030323	Runde 3
+Set2_FJ	Unerkannt 	l00140119	l00140141	l00130375	left	same	left	left	same	l00140141l00140119l00130375	Runde 3
+Set2_FJ	Staubige 	l0080497	l00200064	l00200002	same	same	same	same	same	l00200064l0080497l00200002	Runde 3
+Set2_FJ	Im Dämmer 	l0060068	l0030031	l0080448	same	same	left	same	same	l0030031l0060068l0080448	Runde 3
+Set2_FJ	Die Nicht-Gewesenen 	l0030243	l00180017	l00130329	same	left	left	same	same	l00180017l0030243l00130329	Runde 3
+Set2_FJ	Der Gast 	l00140122	l00160042	l00200195	right	same	same	same	same	l00160042l00140122l00200195	Runde 3
+Set2_FJ	Erste und letzte Liebe 	l0080055	l0010079	l00130444	right	right	left	same	right	l0010079l0080055l00130444	Runde 3
+Set2_FJ	Begegnen 	l0080361	l0080077	l0010300	right	same	same	same	same	l0080077l0080361l0010300	Runde 3
+Set2_FJ	Resignatio 	l00140105	l0030305	l00170225	right	left	same	same	same	l0030305l00140105l00170225	Runde 3
+Set2_FJ	Das schlafende Kind 	l0080026	l00180026	l00130111	left	left	same	left	same	l00180026l0080026l00130111	Runde 3
+Set2_FJ	Auf einem Stein 	l0030167	l0010173	l00160240	same	same	same	same	same	l0010173l0030167l00160240	Runde 3
+Set2_FJ	Ganz im Geheimen 	l0010125	l0080554	l0010038	left	left	left	same	left	l0080554l0010125l0010038	Runde 3
+Set2_FJ	Wer je gelebt in Liebesarmen 	l0080543	l0040304	l00180143	same	left	same	same	left	l0040304l0080543l00180143	Runde 3
+Set2_FJ	Wenn ein Leid dich schwer bedrängt 	l0080356	l0010261	l0080377	left	right	right	same	right	l0010261l0080356l0080377	Runde 3
+Set2_FJ	Ein Gebet 	l0080616	l0060046	l00130398	same	left	left	left	left	l0060046l0080616l00130398	Runde 3
+Set2_FJ	Geruch der Walderde 	l0090083	l00130449	l0080466	same	left	left	same	same	l00130449l0090083l0080466	Runde 3
+Set2_FJ	Die frühe Stunde 	l0030183	l0040217	l0080227	same	left	left	left	left	l0040217l0030183l0080227	Runde 3
+Set2_FJ	Auf der Höhe ist's einsam 	l00140124	l00130062	l00180069	right	right	right	same	right	l00130062l00140124l00180069	Runde 3
+Set2_FJ	Nur Geduld! 	l0010273	l00170195	l00180127	left	left	left	same	left	l00170195l0010273l00180127	Runde 3
+Set2_FJ	Am Bahndamm 	l0060057	l0060056	l00140066	same	left	left	left	left	l0060056l0060057l00140066	Runde 3
+Set2_FJ	Regenduft 	l0090084	l00130348	l0030431	right	right	right	right	right	l00130348l0090084l0030431	Runde 3
+Set2_FJ	Mir 	l0020034	l00130056	l0010018	same	same	same	same	same	l00130056l0020034l0010018	Runde 3
+Set2_FJ	Die Lawine 	l00130451	l00110081	l00100008	same	left	left	left	left	l00110081l00130451l00100008	Runde 3
+Set2_FJ	Habenichts 	l0010038	l0030227	l0090065	same	same	same	same	same	l0030227l0010038l0090065	Runde 3
+Set2_FJ	Das war der Tag der weißen Chrysanthemen – 	l0040509	l0010076	l0060019	same	left	left	left	left	l0010076l0040509l0060019	Runde 3
+Set2_FJ	Beschluß – 	l0060082	l00170003	l00140029	same	same	same	same	same	l00170003l0060082l00140029	Runde 3
+Set2_FJ	Guter Rat 	l00130384	l0010170	l00200340	left	same	same	same	same	l0010170l00130384l00200340	Runde 3
+Set2_FJ	ohne Titel 	l00160240	l0010261	l0080251	same	same	left	left	same	l0010261l00160240l0080251	Runde 3
+Set2_FJ	Der Liebesbrief 	l0080046	l0010079	l0080344	left	left	same	same	left	l0010079l0080046l0080344	Runde 3
+Set2_FJ	Im Entschlafen 	l00170125	l00180060	l0030305	right	right	same	same	right	l00180060l00170125l0030305	Runde 3
+Set2_FJ	Nachtlied 	l00200135	l00140198	l0010170	same	left	right	same	left	l00140198l00200135l0010170	Runde 3
+Set2_FJ	Im Frühling 	l00130042	l00160300	l0030167	same	same	same	same	same	l00160300l00130042l0030167	Runde 3
+Set2_FJ	Vorsicht 	l00130111	l00130138	l00160282	right	same	same	same	same	l00130138l00130111l00160282	Runde 3
+Set2_FJ	Doppelte Jugend 	l0080077	l00180012	l00160004	right	right	right	same	right	l00180012l0080077l00160004	Runde 3
+Set2_FJ	Mein Herz und deine Stimme 	l00200064	l0010056	l00160117	right	left	left	same	left	l0010056l00200064l00160117	Runde 3
+Set2_FJ	Fromme Bücher 	l00160212	l00190023	l0030184	same	same	same	same	same	l00190023l00160212l0030184	Runde 3
+Set2_FJ	Nur nimm sie wieder aus der Städte Schuld 	l00180136	l0050040	l0020047	same	right	same	right	right	l0050040l00180136l0020047	Runde 3
+Set2_FJ	Ich bat sie um die Rose 	l0080165	l0010208	l00140150	left	left	left	same	left	l0010208l0080165l00140150	Runde 3
+Set2_FJ	Die List der Trinker 	l0020029	l0080208	l00160240	right	left	same	same	left	l0080208l0020029l00160240	Runde 3
+Set2_FJ	Die Näherin 	l0010186	l00130451	l00130354	left	right	right	same	right	l00130451l0010186l00130354	Runde 3
+Set2_FJ	An die Lerche 	l00130257	l00130375	l00130182	right	right	right	right	right	l00130375l00130257l00130182	Runde 3
+Set2_FJ	Unter den Zweigen 	l0080251	l0020029	l00160113	left	right	left	same	same	l0020029l0080251l00160113	Runde 3
+Set2_FJ	Magdalene 	l0080578	l00200179	l00130182	right	left	left	right	left	l00200179l0080578l00130182	Runde 3
+Set2_FJ	Der Trompeter 	l0010208	l0080165	l00130378	left	left	left	same	left	l0080165l0010208l00130378	Runde 3
+Set2_FJ	Marksteine 	l00130329	l00180143	l0080361	right	left	left	right	left	l00180143l00130329l0080361	Runde 3
+Set2_FJ	Spaziergang	l00170030	l0080419	l0030080	right	same	left	same	left	l0080419l00170030l0030080	Runde 3
+Set2_FJ	Nachtbild	l0040579	l00100094	l00170065	left	left	same	same	left	l00100094l0040579l00170065	Runde 3
+Set2_FJ	Was schreibt die Woge in den Sand?	l00270241	l0090070	l00270469	same	left	same	right	same	l0090070l00270241l00270469	Runde 3
+Set2_FJ	Spätsommer	l0010277	l0030018	l00100115	right	left	left	same	left	l0030018l0010277l00100115	Runde 3
+Set2_FJ	Mutterwort	l00270438	l0040333	l0040181	same	right	same	left	same	l0040333l00270438l0040181	Runde 3
+Set2_FJ	Trost	l0020036	l00150030	l00170187	left	left	left	same	same	l00150030l0020036l00170187	Runde 3
+Set2_FJ	In rote Fixsternwälder, die verbluten	l0040301	l0040516	l0030428	left	left	left	same	left	l0040516l0040301l0030428	Runde 3
+Set2_FJ	In diesem Dorfe steht das letzte Haus	l00180133	l0040227	l00270102	same	left	left	same	left	l0040227l00180133l00270102	Runde 3
+Set2_FJ	Schmetterlings Sterbelied	l0020084	l0030143	l0040118	left	same	left	left	left	l0030143l0020084l0040118	Runde 3
+Set2_FJ	Es wird die schlafende Lawine —	l00270798	l0030220	l00110076	left	right	same	same	same	l0030220l00270798l00110076	Runde 3
+Set2_FJ	Herbststimmung	l0040028	l0010299	l0030043	same	right	same	right	right	l0010299l0040028l0030043	Runde 3
+Set4_AH	Wenn ein Leid dich schwer bedrängt 	l0080356	l00160192	l0030167	left	right	right	same	right	l00160192l0080356l0030167	Runde 3
+Set4_AH	Beschluß – 	l0060082	l0030227	l0040053	same	left	left	right	same	l0030227l0060082l0040053	Runde 3
+Set4_AH	Und ob der holde Tag vergangen 	l0080554	l00180060	l00140045	right	same	right	left	same	l00180060l0080554l00140045	Runde 3
+Set4_AH	So lange wir vertrauen 	l00130359	l00140141	l00100088	same	left	same	left	left	l00140141l00130359l00100088	Runde 3
+Set4_AH	Ave Maria 	l0080493	l00130164	l0040216	right	right	right	same	right	l00130164l0080493l0040216	Runde 3
+Set4_AH	Kleine Marie 	l0010239	l0080044	l0010300	same	same	same	same	same	l0080044l0010239l0010300	Runde 3
+Set4_AH	Nur nimm sie wieder aus der Städte Schuld 	l00180136	l00160282	l0050040	left	same	same	left	left	l00160282l00180136l0050040	Runde 3
+Set4_AH	Hoffnung 	l0080305	l00200195	l00130359	right	right	right	same	right	l00200195l0080305l00130359	Runde 3
+Set4_AH	Fremd in der Fremde – 	l0010082	l0040554	l0010184	right	right	right	same	right	l0040554l0010082l0010184	Runde 3
+Set4_AH	"Lied des Adlers: [Aus ""Der Sonne-Geist""] "	l00180060	l0080132	l0080208	left	left	left	same	left	l0080132l00180060l0080208	Runde 3
+Set4_AH	Zarathustras Lied 	l0030323	l0080132	l0080448	same	same	same	same	same	l0080132l0030323l0080448	Runde 3
+Set4_AH	Magdalene 	l0080578	l00200179	l0080046	right	left	left	same	left	l00200179l0080578l0080046	Runde 3
+Set4_AH	Frühlingslied in der Stadt 	l0010217	l00160282	l00160172	left	left	left	left	left	l00160282l0010217l00160172	Runde 3
+Set4_AH	Krankheit 	l00170003	l00200301	l00130407	left	same	same	same	same	l00200301l00170003l00130407	Runde 3
+Set4_AH	Feldeinsamkeit 	l00160004	l0010238	l00180143	left	right	right	right	right	l0010238l00160004l00180143	Runde 3
+Set4_AH	Ans Ziel – 	l00160041	l0080595	l0040336	same	same	same	same	same	l0080595l00160041l0040336	Runde 3
+Set4_AH	Geschieden 	l0010172	l0080554	l00100088	left	left	left	left	left	l0080554l0010172l00100088	Runde 3
+Set4_AH	Nachtlied 	l00200135	l00130398	l0010170	same	right	right	right	right	l00130398l00200135l0010170	Runde 3
+Set4_AH	Der Trompeter 	l0010208	l0090084	l0080165	right	right	right	right	right	l0090084l0010208l0080165	Runde 3
+Set4_AH	Nachtlied 	l00200135	l0050064	l0010170	same	right	right	right	right	l0050064l00200135l0010170	Runde 3
+Set4_AH	Meine Seele 	l00140066	l0030237	l00130062	right	same	left	right	same	l0030237l00140066l00130062	Runde 3
+Set4_AH	Beschluß – 	l0060082	l00140029	l00130359	left	same	same	same	same	l00140029l0060082l00130359	Runde 3
+Set4_AH	Mein Leid 	l00110078	l0010132	l0080046	right	left	left	left	left	l0010132l00110078l0080046	Runde 3
+Set4_AH	Nachtlied 	l00200135	l00200278	l0080578	left	left	left	same	left	l00200278l00200135l0080578	Runde 3
+Set4_AH	Ich hörte den Wind... 	l0030305	l0010038	l0080227	same	same	left	same	same	l0010038l0030305l0080227	Runde 3
+Set4_AH	Mein Leid 	l00110078	l00130354	l00130042	same	right	right	same	right	l00130354l00110078l00130042	Runde 3
+Set4_AH	Abbild 	l00180079	l0080616	l0030218	same	same	right	same	same	l0080616l00180079l0030218	Runde 3
+Set4_AH	Porträt des Marquis de... 	l0040554	l0010184	l00130138	same	same	same	same	same	l0010184l0040554l00130138	Runde 3
+Set4_AH	ohne Titel 	l00140198	l00160192	l0080462	left	same	right	right	same	l00160192l00140198l0080462	Runde 3
+Set4_AH	Sei nur robust! 	l0090065	l00130062	l00130384	left	right	same	same	right	l00130062l0090065l00130384	Runde 3
+Set4_AH	Beschluß – 	l0060082	l0030243	l0050064	same	same	same	same	same	l0030243l0060082l0050064	Runde 3
+Set4_AH	An die Freunde 	l0020147	l0080333	l0040505	left	same	left	left	left	l0080333l0020147l0040505	Runde 3
+Set4_AH	Lied in der Nacht 	l0040053	l0080311	l0060082	left	right	left	right	same	l0080311l0040053l0060082	Runde 3
+Set4_AH	Der Wanderer 	l0010012	l00170058	l00130384	same	left	right	same	left	l00170058l0010012l00130384	Runde 3
+Set4_AH	Ahnung 	l0030052	l00170058	l00160119	same	same	same	same	same	l00170058l0030052l00160119	Runde 3
+Set4_AH	Dein Bild – 	l0030433	l00160283	l0040216	same	same	left	right	same	l00160283l0030433l0040216	Runde 3
+Set4_AH	Erster Schnee 	l0080595	l00160172	l00130268	right	right	same	right	right	l00160172l0080595l00130268	Runde 3
+Set4_AH	Heimweh 	l00200253	l0040304	l0010172	right	same	right	same	right	l0040304l00200253l0010172	Runde 3
+Set4_AH	Ans Ziel – 	l00160041	l00160042	l0080595	same	same	right	same	same	l00160042l00160041l0080595	Runde 3
+Set4_AH	Ein Gebet 	l0080616	l00200340	l0040216	same	same	right	same	same	l00200340l0080616l0040216	Runde 3
+Set4_AH	Begegnen 	l0080361	l0030325	l0010300	right	right	same	same	right	l0030325l0080361l0010300	Runde 3
+Set4_AH	Sils-Maria 	l0030325	l0090084	l00200245	right	same	left	right	right	l0090084l0030325l00200245	Runde 3
+Set4_AH	Die Betrogene 	l00200179	l0080578	l00160172	left	left	left	same	left	l0080578l00200179l00160172	Runde 3
+Set4_AH	Die Betrogene 	l00200179	l0080578	l00180143	same	left	left	left	left	l0080578l00200179l00180143	Runde 3
+Set4_AH	Frühlingslied in der Stadt 	l0010217	l00130361	l00110081	right	right	right	same	right	l00130361l0010217l00110081	Runde 3
+Set5_DK	Die Kühle 	l00190039	l0010016	l00140028	left	same	left	same	left	l0010016l00190039l00140028	Runde 3
+Set5_DK	Vorsicht 	l00130111	l00130378	l00200039	left	same	left	right	left	l00130378l00130111l00200039	Runde 3
+Set5_DK	Die Nicht-Gewesenen 	l0030243	l0080077	l00200021	same	right	right	same	right	l0080077l0030243l00200021	Runde 3
+Set5_DK	Der Trompeter 	l0010208	l00160262	l00130122	left	same	left	left	left	l00160262l0010208l00130122	Runde 3
+Set5_DK	Abbild 	l00180079	l00130204	l00140028	same	same	left	same	left	l00130204l00180079l00140028	Runde 3
+Set5_DK	Alte Heimath 	l00200021	l0070146	l00140029	right	right	right	right	right	l0070146l00200021l00140029	Runde 3
+Set5_DK	Die stille Stadt 	l00170058	l0010082	l0060062	left	left	left	same	left	l0010082l00170058l0060062	Runde 3
+Set5_DK	Lady Rosa 	l0030184	l00130210	l00160212	left	same	left	left	left	l00130210l0030184l00160212	Runde 3
+Set5_DK	Das Päckchen Gedichte 	l00170161	l00200301	l00160172	left	left	left	left	left	l00200301l00170161l00160172	Runde 3
+Set5_DK	Der Trompeter 	l0010208	l0080165	l0010172	right	same	same	right	right	l0080165l0010208l0010172	Runde 3
+Set5_DK	Die Kunst – 	l00130138	l0080055	l0040554	same	same	left	left	left	l0080055l00130138l0040554	Runde 3
+Set5_DK	Frisch vom Storch 	l0010018	l0020167	l0080553	same	same	same	same	same	l0020167l0010018l0080553	Runde 3
+Set5_DK	Marksteine 	l00130329	l0050064	l0080333	right	left	left	left	left	l0050064l00130329l0080333	Runde 3
+Set5_DK	Doppelte Jugend 	l0080077	l0060056	l00200242	same	right	right	right	right	l0060056l0080077l00200242	Runde 3
+Set5_DK	Es rauschen den eingeborenen Ton 	l0080344	l0080046	l00170003	same	right	right	same	right	l0080046l0080344l00170003	Runde 3
+Set5_DK	Hans Schreier junior 	l00100111	l00130111	l0010173	left	same	left	left	left	l00130111l00100111l0010173	Runde 3
+Set5_DK	Ich will mich in dein Herz gewöhnen 	l0080412	l0080578	l00140156	same	same	left	left	left	l0080578l0080412l00140156	Runde 3
+Set5_DK	Die einsame Tanne 	l00130182	l00130257	l00170125	left	same	left	left	left	l00130257l00130182l00170125	Runde 3
+Set5_DK	Die Luft so schwer... 	l0030065	l0030031	l0010208	same	same	left	left	left	l0030031l0030065l0010208	Runde 3
+Set5_DK	Abbild 	l00180079	l0030218	l00130070	same	left	left	same	left	l0030218l00180079l00130070	Runde 3
+Set5_DK	Die Nicht-Gewesenen 	l0030243	l0080448	l00200135	same	left	left	same	left	l0080448l0030243l00200135	Runde 3
+Set5_DK	Im Mai 	l00200176	l00140105	l0010018	same	left	left	left	left	l00140105l00200176l0010018	Runde 3
+Set5_DK	Letzter Wunsch 	l0080553	l00140066	l0030323	left	left	left	left	left	l00140066l0080553l0030323	Runde 3
+Set5_DK	Auf einem Stein 	l0030167	l0060082	l0020178	left	left	left	same	left	l0060082l0030167l0020178	Runde 3
+Set5_DK	Magdalene 	l0080578	l00200179	l0030112	same	same	left	same	left	l00200179l0080578l0030112	Runde 3
+Set5_DK	Frühlingslied in der Stadt 	l0010217	l00130398	l00160041	right	right	right	same	right	l00130398l0010217l00160041	Runde 3
+Set5_DK	Albumblatt 	l0030373	l0030420	l0010170	left	left	left	same	left	l0030420l0030373l0010170	Runde 3
+Set5_DK	Porträt des Marquis de... 	l0040554	l00130138	l0010079	right	same	same	right	right	l00130138l0040554l0010079	Runde 3
+Set5_DK	Blümleins Gebet 	l00130268	l0080077	l00130407	right	right	same	right	right	l0080077l00130268l00130407	Runde 3
+Set5_DK	Wenn ein Leid dich schwer bedrängt 	l0080356	l0010154	l00100106	same	same	same	left	same	l0010154l0080356l00100106	Runde 3
+Set5_DK	Pflicht 	l00140029	l0060082	l0010038	left	same	left	left	left	l0060082l00140029l0010038	Runde 3
+Set5_DK	Graue Tage 	l00140150	l0060056	l00130210	same	left	same	left	left	l0060056l00140150l00130210	Runde 3
+Set5_DK	Beschluß – 	l0060082	l0040053	l0080587	right	same	left	same	left	l0040053l0060082l0080587	Runde 3
+Set5_DK	Letzter Wunsch 	l0080553	l00200223	l0040554	left	same	left	left	left	l00200223l0080553l0040554	Runde 3
+Set5_DK	Die frühe Stunde 	l0030183	l0090086	l00130111	left	left	left	left	left	l0090086l0030183l00130111	Runde 3
+Set5_DK	Auf Gegenseitigkeit 	l00160192	l00160300	l00200340	right	same	left	left	left	l00160300l00160192l00200340	Runde 3
+Set5_DK	Der Tod und das Mädchen 	l00100088	l00200253	l00200026	same	right	right	right	right	l00200253l00100088l00200026	Runde 3
+Set5_DK	Fromme Bücher 	l00160212	l0080333	l0030184	same	same	same	same	same	l0080333l00160212l0030184	Runde 3
+Set5_DK	Die Kunst – 	l00130138	l0060057	l0040554	left	same	left	left	left	l0060057l00130138l0040554	Runde 3
+Set5_DK	Ich bat sie um die Rose 	l0080165	l0030174	l00160262	right	left	left	left	left	l0030174l0080165l00160262	Runde 3
+Set5_DK	Der Liebesbrief 	l0080046	l00170194	l0010239	left	same	right	right	right	l00170194l0080046l0010239	Runde 3
+Set5_DK	Magdalene 	l0080578	l00200179	l00200176	right	left	left	right	left	l00200179l0080578l00200176	Runde 3
+Set5_DK	April 	l00130102	l00200278	l00130451	right	right	same	right	right	l00200278l00130102l00130451	Runde 3
+Set5_DK	Letzte Fahrt 	l0030218	l00180079	l0080344	right	same	left	right	right	l00180079l0030218l0080344	Runde 3
+Set5_DK	Die Kunst – 	l00130138	l0040554	l00160262	left	same	same	same	same	l0040554l00130138l00160262	Runde 3
+Set5_DK	Die stille Stadt 	l00170058	l00130210	l0010076	same	same	right	right	right	l00130210l00170058l0010076	Runde 3
+Set5_DK	Die Nachtigall – 	l00160283	l00160240	l0080132	same	left	left	left	left	l00160240l00160283l0080132	Runde 3
+Set5_DK	Unter den Zweigen 	l0080251	l00160240	l0080227	left	left	left	left	left	l00160240l0080251l0080227	Runde 3
+Set5_DK	1. Nur das thut mir so bitterweh	l00270584	l00110084	l00130160	left	same	left	left	left	l00110084l00270584l00130160	Runde 3
+Set5_DK	Köstliches Gut	l00270853	l00100107	l0090014	left	same	same	left	left	l00100107l00270853l0090014	Runde 3
+Set5_DK	Meeresabend	l00150205	l0040545	l00270278	left	right	same	right	right	l0040545l00150205l00270278	Runde 3
+Set5_DK	Finkenruf	l00110018	l00270596	l00150225	same	right	right	left	right	l00270596l00110018l00150225	Runde 3
+Set5_DK	Kreuzesdeutung	l00130305	l00160214	l00130200	left	right	right	right	right	l00160214l00130305l00130200	Runde 3
+Set5_DK	Vom Dampfer	l00270396	l00170014	l0070173	right	left	left	same	left	l00170014l00270396l0070173	Runde 3
+Set5_DK	Mittagsglast	l0060023	l0040493	l0030102	right	right	same	same	right	l0040493l0060023l0030102	Runde 3
+Set5_DK	Weinlob	l00130374	l0030248	l0030324	right	same	same	same	same	l0030248l00130374l0030324	Runde 3
+Set5_DK	Die Wege trennen sich	l00110067	l00180089	l0070087	same	right	right	same	right	l00180089l00110067l0070087	Runde 3
+Set5_DK	Der Reisebecher	l0040403	l00140047	l0050044	left	same	same	right	same	l00140047l0040403l0050044	Runde 3
+Set5_DK	Hans Darm	l00100109	l0010278	l0040506	same	same	same	left	left	l0010278l00100109l0040506	Runde 3
+Set5_DK	Schwere Worte	l00270047	l00140085	l0030342	same	same	right	right	right	l00140085l00270047l0030342	Runde 3
+Set3_JB	Beschluß – 	l0060082	l00130383	l00140029	left	right	same	left	left	l00130383l0060082l00140029	Runde 3
+Set3_JB	Du kennst mich nicht 	l00200202	l00130355	l0040053	right	right	right	right	right	l00130355l00200202l0040053	Runde 3
+Set3_JB	Festtag! 	l0050040	l00180166	l00180136	same	left	same	same	same	l00180166l0050040l00180136	Runde 3
+Set3_JB	Die Kunst – 	l00130138	l00130348	l0040554	right	same	same	same	same	l00130348l00130138l0040554	Runde 3
+Set3_JB	Frisch vom Storch 	l0010018	l00170195	l00170019	same	left	left	same	left	l00170195l0010018l00170019	Runde 3
+Set3_JB	Lied in der Nacht 	l0040053	l0080333	l0060082	right	right	right	same	right	l0080333l0040053l0060082	Runde 3
+Set3_JB	Du kamst zu 	l00140045	l00140122	l00200064	left	right	right	left	right	l00140122l00140045l00200064	Runde 3
+Set3_JB	Wer je gelebt in Liebesarmen 	l0080543	l00130407	l00180069	left	right	right	right	right	l00130407l0080543l00180069	Runde 3
+Set3_JB	Porträt des Marquis de... 	l0040554	l00130138	l00200026	right	left	same	same	left	l00130138l0040554l00200026	Runde 3
+Set3_JB	Der Seligen Furcht 	l0010076	l0060062	l00200039	right	left	same	same	same	l0060062l0010076l00200039	Runde 3
+Set3_JB	Porträt des Marquis de... 	l0040554	l0010132	l00130138	right	right	same	same	right	l0010132l0040554l00130138	Runde 3
+Set3_JB	Die stille Stadt 	l00170058	l0080377	l0010076	same	same	right	same	same	l0080377l00170058l0010076	Runde 3
+Set3_JB	Die einsame Tanne 	l00130182	l00130257	l00110081	left	left	left	right	left	l00130257l00130182l00110081	Runde 3
+Set3_JB	Die List der Trinker 	l0020029	l00160240	l00130257	right	same	same	left	same	l00160240l0020029l00130257	Runde 3
+Set3_JB	Auf einem Stein 	l0030167	l0030227	l0020178	left	left	left	left	left	l0030227l0030167l0020178	Runde 3
+Set3_JB	Resignatio 	l00140105	l00200245	l00200301	same	left	same	left	left	l00200245l00140105l00200301	Runde 3
+Set3_JB	Pflicht 	l00140029	l00140078	l00160282	right	left	right	left	left	l00140078l00140029l00160282	Runde 3
+Set3_JB	Beschluß – 	l0060082	l0010076	l0040053	right	right	right	right	right	l0010076l0060082l0040053	Runde 3
+Set3_JB	Stör nicht den Traum der Kinder – 	l00160112	l0080412	l0010217	right	same	same	right	right	l0080412l00160112l0010217	Runde 3
+Set3_JB	Die Luft so schwer... 	l0030065	l00140024	l0030431	right	right	right	right	right	l00140024l0030065l0030431	Runde 3
+Set3_JB	Beschluß – 	l0060082	l0010172	l0040053	same	right	left	left	left	l0010172l0060082l0040053	Runde 3
+Set3_JB	Der Tod und das Mädchen 	l00100088	l00180012	l00200253	right	left	right	same	right	l00180012l00100088l00200253	Runde 3
+Set3_JB	Mir 	l0020034	l0080553	l0010273	left	left	left	left	left	l0080553l0020034l0010273	Runde 3
+Set3_JB	ohne Titel 	l00140198	l0090065	l00200135	same	left	left	right	left	l0090065l00140198l00200135	Runde 3
+Set3_JB	Die Lawine 	l00130451	l0020178	l0010217	left	right	right	right	right	l0020178l00130451l0010217	Runde 3
+Set3_JB	Alpenklub 	l00130059	l0040554	l0060046	left	left	left	left	left	l0040554l00130059l0060046	Runde 3
+Set3_JB	Geschieden 	l0010172	l0030115	l00170195	right	right	right	right	right	l0030115l0010172l00170195	Runde 3
+Set3_JB	Vorbei 	l0010184	l0010082	l0010173	left	right	left	same	left	l0010082l0010184l0010173	Runde 3
+Set3_JB	Du warst es doch 	l0080549	l00200002	l00140122	right	same	same	same	same	l00200002l0080549l00140122	Runde 3
+Set3_JB	Religion und Theologie 	l00130398	l00170003	l0010076	same	same	same	same	same	l00170003l00130398l0010076	Runde 3
+Set3_JB	Feldeinsamkeit 	l00160004	l00160240	l00130268	left	left	right	left	left	l00160240l00160004l00130268	Runde 3
+Set3_JB	Stör nicht den Traum der Kinder – 	l00160112	l0050064	l0010082	right	same	same	right	right	l0050064l00160112l0010082	Runde 3
+Set3_JB	Nachtlied 	l00200135	l00160240	l0010170	left	same	same	same	same	l00160240l00200135l0010170	Runde 3
+Set3_JB	Die Betrogene 	l00200179	l00130111	l0080578	right	right	right	same	right	l00130111l00200179l0080578	Runde 3
+Set3_JB	An die Mädchen 	l00130354	l00130056	l0010082	right	same	same	same	same	l00130056l00130354l0010082	Runde 3
+Set3_JB	Am Bahndamm 	l0060057	l00180017	l0040304	same	left	left	left	left	l00180017l0060057l0040304	Runde 3
+Set3_JB	Als gestern die Nachtigall 	l0080208	l0020119	l00180035	left	left	left	left	left	l0020119l0080208l00180035	Runde 3
+Set3_JB	Pflicht 	l00140029	l00100111	l0060082	right	same	same	same	same	l00100111l00140029l0060082	Runde 3
+Set3_JB	Titelblatt 	l00180143	l00130257	l00180136	right	right	right	right	right	l00130257l00180143l00180136	Runde 3
+Set3_JB	Nur nimm sie wieder aus der Städte Schuld 	l00180136	l0020047	l0050040	left	left	left	left	left	l0020047l00180136l0050040	Runde 3
+Set3_JB	Ahnung 	l0030052	l00160119	l0030065	same	same	same	same	same	l00160119l0030052l0030065	Runde 3
+Set3_JB	Mein Leid 	l00110078	l00100008	l00190023	right	right	right	same	right	l00100008l00110078l00190023	Runde 3
+Set3_JB	Unter den Zweigen 	l0080251	l00160240	l00180017	left	same	same	same	same	l00160240l0080251l00180017	Runde 3
+Set3_JB	Geh zur Ruh 	l00200186	l0060057	l00130210	right	same	same	same	same	l0060057l00200186l00130210	Runde 3
+Set3_JB	Tränenkrüglein 	l00140156	l00200253	l00130348	left	same	same	left	left	l00200253l00140156l00130348	Runde 3
+Set3_JB	Kleine Marie 	l0010239	l0060062	l0080369	same	same	same	same	same	l0060062l0010239l0080369	Runde 3
+Set3_JB	Vorbei 	l0010184	l0010082	l00140105	left	left	left	same	left	l0010082l0010184l00140105	Runde 3
+Set3_JB	Hoffnung 	l0080305	l00160172	l0050031	right	same	right	same	same	l00160172l0080305l0050031	Runde 3
+Set3_JB	Schlummerlied	l0040416	l0030215	l00160139	left	same	same	left	same	l0030215l0040416l00160139	Runde 3
+Set3_JB	Ruhe, meine Seele!	l0070218	l00130280	l00270258	same	same	same	same	same	l00130280l0070218l00270258	Runde 3
+Set3_JB	Lerchen	l0040147	l0090029	l00170160	same	same	same	same	same	l0090029l0040147l00170160	Runde 3
+Set3_JB	Heimweh	l00270653	l0080096	l0070155	same	same	same	same	same	l0080096l00270653l0070155	Runde 3
+Set3_JB	Spaziergang	l00270347	l0030307	l00170068	same	left	same	left	left	l0030307l00270347l00170068	Runde 3
+Set3_JB	Melancholie	l0040010	l0040192	l0030352	left	same	left	left	left	l0040192l0040010l0030352	Runde 3
+Set3_JB	Requiem	l0040402	l0020048	l00270689	left	left	left	left	left	l0020048l0040402l00270689	Runde 3
+Set3_JB	Aus den „Liedern an eine Geliebte“	l0030393	l0040164	l00170101	same	left	left	same	left	l0040164l0030393l00170101	Runde 3
+Set3_JB	Ein Lebewohl	l0010066	l0010149	l0040436	left	left	left	left	left	l0010149l0010066l0040436	Runde 3
+Set3_JB	Erntelieder	l00180088	l0030153	l0090028	same	same	same	same	same	l0030153l00180088l0090028	Runde 3
+Set3_JB	Morgens	l0020131	l0030046	l0040520	left	left	left	left	left	l0030046l0020131l0040520	Runde 3
+Set3_JB	Mädchengebet	l0030284	l0030128	l0010054	right	right	right	same	right	l0030128l0030284l0010054	Runde 3
+Set2_SW	Das war der Tag der weißen Chrysanthemen – 	l0040509	l0060062	l0080369	right	right	left	left	same	l0060062l0040509l0080369	Runde 3
+Set2_SW	Trost im Leiden 	l0020093	l0010132	l00180012	left	right	right	left	left	l0010132l0020093l00180012	Runde 3
+Set2_SW	Wenn das weiße Mondenlicht... 	l00140083	l00130042	l0030323	left	left	left	left	left	l00130042l00140083l0030323	Runde 3
+Set2_SW	Unerkannt 	l00140119	l00140141	l00130375	left	left	left	left	left	l00140141l00140119l00130375	Runde 3
+Set2_SW	Staubige 	l0080497	l00200064	l00200002	left	right	same	left	left	l00200064l0080497l00200002	Runde 3
+Set2_SW	Im Dämmer 	l0060068	l0030031	l0080448	left	left	left	right	left	l0030031l0060068l0080448	Runde 3
+Set2_SW	Die Nicht-Gewesenen 	l0030243	l00180017	l00130329	same	right	left	right	right	l00180017l0030243l00130329	Runde 3
+Set2_SW	Der Gast 	l00140122	l00160042	l00200195	right	right	right	right	right	l00160042l00140122l00200195	Runde 3
+Set2_SW	Erste und letzte Liebe 	l0080055	l0010079	l00130444	right	left	left	right	left	l0010079l0080055l00130444	Runde 3
+Set2_SW	Begegnen 	l0080361	l0080077	l0010300	right	same	same	same	right	l0080077l0080361l0010300	Runde 3
+Set2_SW	Resignatio 	l00140105	l0030305	l00170225	right	left	left	same	left	l0030305l00140105l00170225	Runde 3
+Set2_SW	Das schlafende Kind 	l0080026	l00180026	l00130111	left	left	left	same	left	l00180026l0080026l00130111	Runde 3
+Set2_SW	Auf einem Stein 	l0030167	l0010173	l00160240	right	right	same	right	right	l0010173l0030167l00160240	Runde 3
+Set2_SW	Ganz im Geheimen 	l0010125	l0080554	l0010038	left	left	left	left	left	l0080554l0010125l0010038	Runde 3
+Set2_SW	Wer je gelebt in Liebesarmen 	l0080543	l0040304	l00180143	right	left	left	left	left	l0040304l0080543l00180143	Runde 3
+Set2_SW	Wenn ein Leid dich schwer bedrängt 	l0080356	l0010261	l0080377	left	same	same	right	same	l0010261l0080356l0080377	Runde 3
+Set2_SW	Ein Gebet 	l0080616	l0060046	l00130398	left	left	left	same	left	l0060046l0080616l00130398	Runde 3
+Set2_SW	Geruch der Walderde 	l0090083	l00130449	l0080466	right	left	left	same	left	l00130449l0090083l0080466	Runde 3
+Set2_SW	Die frühe Stunde 	l0030183	l0040217	l0080227	left	left	left	left	left	l0040217l0030183l0080227	Runde 3
+Set2_SW	Auf der Höhe ist's einsam 	l00140124	l00130062	l00180069	right	right	same	right	right	l00130062l00140124l00180069	Runde 3
+Set2_SW	Nur Geduld! 	l0010273	l00170195	l00180127	left	left	left	same	left	l00170195l0010273l00180127	Runde 3
+Set2_SW	Am Bahndamm 	l0060057	l0060056	l00140066	same	left	left	left	left	l0060056l0060057l00140066	Runde 3
+Set2_SW	Regenduft 	l0090084	l00130348	l0030431	right	right	right	right	right	l00130348l0090084l0030431	Runde 3
+Set2_SW	Mir 	l0020034	l00130056	l0010018	right	right	same	same	right	l00130056l0020034l0010018	Runde 3
+Set2_SW	Die Lawine 	l00130451	l00110081	l00100008	left	left	right	left	left	l00110081l00130451l00100008	Runde 3
+Set2_SW	Habenichts 	l0010038	l0030227	l0090065	same	right	left	right	right	l0030227l0010038l0090065	Runde 3
+Set2_SW	Das war der Tag der weißen Chrysanthemen – 	l0040509	l0010076	l0060019	right	right	same	right	right	l0010076l0040509l0060019	Runde 3
+Set2_SW	Beschluß – 	l0060082	l00170003	l00140029	right	left	left	left	left	l00170003l0060082l00140029	Runde 3
+Set2_SW	Guter Rat 	l00130384	l0010170	l00200340	left	left	left	same	left	l0010170l00130384l00200340	Runde 3
+Set2_SW	ohne Titel 	l00160240	l0010261	l0080251	right	left	same	same	left	l0010261l00160240l0080251	Runde 3
+Set2_SW	Der Liebesbrief 	l0080046	l0010079	l0080344	left	left	left	same	left	l0010079l0080046l0080344	Runde 3
+Set2_SW	Im Entschlafen 	l00170125	l00180060	l0030305	same	right	right	left	right	l00180060l00170125l0030305	Runde 3
+Set2_SW	Nachtlied 	l00200135	l00140198	l0010170	same	left	left	same	left	l00140198l00200135l0010170	Runde 3
+Set2_SW	Im Frühling 	l00130042	l00160300	l0030167	right	right	right	right	right	l00160300l00130042l0030167	Runde 3
+Set2_SW	Vorsicht 	l00130111	l00130138	l00160282	left	left	left	same	left	l00130138l00130111l00160282	Runde 3
+Set2_SW	Doppelte Jugend 	l0080077	l00180012	l00160004	right	right	right	right	right	l00180012l0080077l00160004	Runde 3
+Set2_SW	Mein Herz und deine Stimme 	l00200064	l0010056	l00160117	right	left	left	right	right	l0010056l00200064l00160117	Runde 3
+Set2_SW	Fromme Bücher 	l00160212	l00190023	l0030184	same	left	same	same	same	l00190023l00160212l0030184	Runde 3
+Set2_SW	Nur nimm sie wieder aus der Städte Schuld 	l00180136	l0050040	l0020047	right	right	same	same	same	l0050040l00180136l0020047	Runde 3
+Set2_SW	Ich bat sie um die Rose 	l0080165	l0010208	l00140150	left	left	left	left	left	l0010208l0080165l00140150	Runde 3
+Set2_SW	Die List der Trinker 	l0020029	l0080208	l00160240	right	same	left	same	left	l0080208l0020029l00160240	Runde 3
+Set2_SW	Die Näherin 	l0010186	l00130451	l00130354	left	right	right	same	right	l00130451l0010186l00130354	Runde 3
+Set2_SW	An die Lerche 	l00130257	l00130375	l00130182	right	right	right	right	right	l00130375l00130257l00130182	Runde 3
+Set2_SW	Unter den Zweigen 	l0080251	l0020029	l00160113	left	left	left	left	left	l0020029l0080251l00160113	Runde 3
+Set2_SW	Magdalene 	l0080578	l00200179	l00130182	right	left	left	right	left	l00200179l0080578l00130182	Runde 3
+Set2_SW	Lady Rosa 	l0030184	l00140028	l00160212	left	left	left	same	left	l00140028l0030184l00160212	Runde 3
+Set2_SW	Der Trompeter 	l0010208	l0080165	l00130378	left	left	left	left	left	l0080165l0010208l00130378	Runde 3
+Set2_SW	Marksteine 	l00130329	l00180143	l0080361	right	same	same	same	same	l00180143l00130329l0080361	Runde 3
+Set2_SW	Spaziergang	l00170030	l0080419	l0030080	right	left	left	left	left	l0080419l00170030l0030080	Runde 3
+Set2_SW	Nachtbild	l0040579	l00100094	l00170065	left	right	same	right	right	l00100094l0040579l00170065	Runde 3
+Set2_SW	Was schreibt die Woge in den Sand?	l00270241	l0090070	l00270469	right	left	right	right	right	l0090070l00270241l00270469	Runde 3
+Set2_SW	Casabianca	l0040512	l00270401	l0080405	left	right	same	same	same	l00270401l0040512l0080405	Runde 3
+Set2_SW	Spätsommer	l0010277	l0030018	l00100115	right	left	left	left	left	l0030018l0010277l00100115	Runde 3
+Set2_SW	Mutterwort	l00270438	l0040333	l0040181	left	left	same	left	left	l0040333l00270438l0040181	Runde 3
+Set2_SW	Trost	l0020036	l00150030	l00170187	left	left	left	same	left	l00150030l0020036l00170187	Runde 3
+Set2_SW	In rote Fixsternwälder, die verbluten	l0040301	l0040516	l0030428	same	right	same	same	same	l0040516l0040301l0030428	Runde 3
+Set2_SW	In diesem Dorfe steht das letzte Haus	l00180133	l0040227	l00270102	same	same	same	same	same	l0040227l00180133l00270102	Runde 3
+Set2_SW	Schmetterlings Sterbelied	l0020084	l0030143	l0040118	left	right	same	left	left	l0030143l0020084l0040118	Runde 3
+Set2_SW	Es wird die schlafende Lawine —	l00270798	l0030220	l00110076	left	same	right	left	left	l0030220l00270798l00110076	Runde 3
+Set2_SW	Herbststimmung	l0040028	l0010299	l0030043	left	left	left	left	left	l0010299l0040028l0030043	Runde 3
+Set4_JE	Wenn ein Leid dich schwer bedrängt 	l0080356	l00160192	l0030167	left	same	right	left	same	l00160192l0080356l0030167	Runde 3
+Set4_JE	Beschluß – 	l0060082	l0030227	l0040053	left	left	same	left	left	l0030227l0060082l0040053	Runde 3
+Set4_JE	Und ob der holde Tag vergangen 	l0080554	l00180060	l00140045	right	left	left	same	same	l00180060l0080554l00140045	Runde 3
+Set4_JE	So lange wir vertrauen 	l00130359	l00140141	l00100088	left	left	same	left	left	l00140141l00130359l00100088	Runde 3
+Set4_JE	Ave Maria 	l0080493	l00130164	l0040216	right	same	right	right	right	l00130164l0080493l0040216	Runde 3
+Set4_JE	Kleine Marie 	l0010239	l0080044	l0010300	same	same	same	same	same	l0080044l0010239l0010300	Runde 3
+Set4_JE	Nur nimm sie wieder aus der Städte Schuld 	l00180136	l00160282	l0050040	left	same	right	same	same	l00160282l00180136l0050040	Runde 3
+Set4_JE	Hoffnung 	l0080305	l00200195	l00130359	left	right	right	same	right	l00200195l0080305l00130359	Runde 3
+Set4_JE	Fremd in der Fremde – 	l0010082	l0040554	l0010184	right	same	right	right	right	l0040554l0010082l0010184	Runde 3
+Set4_JE	"Lied des Adlers: [Aus ""Der Sonne-Geist""] "	l00180060	l0080132	l0080208	same	same	left	left	left	l0080132l00180060l0080208	Runde 3
+Set4_JE	Zarathustras Lied 	l0030323	l0080132	l0080448	same	same	right	same	same	l0080132l0030323l0080448	Runde 3
+Set4_JE	Magdalene 	l0080578	l00200179	l0080046	right	same	left	same	same	l00200179l0080578l0080046	Runde 3
+Set4_JE	Frühlingslied in der Stadt 	l0010217	l00160282	l00160172	left	same	same	same	same	l00160282l0010217l00160172	Runde 3
+Set4_JE	Krankheit 	l00170003	l00200301	l00130407	same	left	right	left	same	l00200301l00170003l00130407	Runde 3
+Set4_JE	Feldeinsamkeit 	l00160004	l0010238	l00180143	left	right	same	left	same	l0010238l00160004l00180143	Runde 3
+Set4_JE	Ans Ziel – 	l00160041	l0080595	l0040336	same	same	left	same	left	l0080595l00160041l0040336	Runde 3
+Set4_JE	Geschieden 	l0010172	l0080554	l00100088	left	left	same	left	left	l0080554l0010172l00100088	Runde 3
+Set4_JE	Nachtlied 	l00200135	l00130398	l0010170	same	right	right	right	right	l00130398l00200135l0010170	Runde 3
+Set4_JE	Der Trompeter 	l0010208	l0090084	l0080165	right	right	right	right	right	l0090084l0010208l0080165	Runde 3
+Set4_JE	Nachtlied 	l00200135	l0050064	l0010170	same	right	right	right	right	l0050064l00200135l0010170	Runde 3
+Set4_JE	Meine Seele 	l00140066	l0030237	l00130062	right	same	left	right	same	l0030237l00140066l00130062	Runde 3
+Set4_JE	Beschluß – 	l0060082	l00140029	l00130359	left	same	same	same	left	l00140029l0060082l00130359	Runde 3
+Set4_JE	Mein Leid 	l00110078	l0010132	l0080046	right	same	left	left	left	l0010132l00110078l0080046	Runde 3
+Set4_JE	Nachtlied 	l00200135	l00200278	l0080578	left	same	left	same	left	l00200278l00200135l0080578	Runde 3
+Set4_JE	Ich hörte den Wind... 	l0030305	l0010038	l0080227	same	left	left	same	left	l0010038l0030305l0080227	Runde 3
+Set4_JE	Mein Leid 	l00110078	l00130354	l00130042	left	right	right	right	right	l00130354l00110078l00130042	Runde 3
+Set4_JE	Abbild 	l00180079	l0080616	l0030218	same	right	same	same	same	l0080616l00180079l0030218	Runde 3
+Set4_JE	Porträt des Marquis de... 	l0040554	l0010184	l00130138	same	same	same	same	same	l0010184l0040554l00130138	Runde 3
+Set4_JE	ohne Titel 	l00140198	l00160192	l0080462	left	left	same	left	left	l00160192l00140198l0080462	Runde 3
+Set4_JE	Sei nur robust! 	l0090065	l00130062	l00130384	left	right	same	same	right	l00130062l0090065l00130384	Runde 3
+Set4_JE	Beschluß – 	l0060082	l0030243	l0050064	same	same	same	left	left	l0030243l0060082l0050064	Runde 3
+Set4_JE	An die Freunde 	l0020147	l0080333	l0040505	left	same	same	same	left	l0080333l0020147l0040505	Runde 3
+Set4_JE	Lied in der Nacht 	l0040053	l0080311	l0060082	same	right	same	same	right	l0080311l0040053l0060082	Runde 3
+Set4_JE	Der Wanderer 	l0010012	l00170058	l00130384	left	left	left	left	left	l00170058l0010012l00130384	Runde 3
+Set4_JE	Ahnung 	l0030052	l00170058	l00160119	same	right	right	left	right	l00170058l0030052l00160119	Runde 3
+Set4_JE	Dein Bild – 	l0030433	l00160283	l0040216	right	same	left	same	left	l00160283l0030433l0040216	Runde 3
+Set4_JE	Erster Schnee 	l0080595	l00160172	l00130268	right	right	same	right	right	l00160172l0080595l00130268	Runde 3
+Set4_JE	Heimweh 	l00200253	l0040304	l0010172	right	right	right	same	right	l0040304l00200253l0010172	Runde 3
+Set4_JE	Ans Ziel – 	l00160041	l00160042	l0080595	same	same	right	same	right	l00160042l00160041l0080595	Runde 3
+Set4_JE	Ein Gebet 	l0080616	l00200340	l0040216	same	same	same	same	same	l00200340l0080616l0040216	Runde 3
+Set4_JE	Begegnen 	l0080361	l0030325	l0010300	right	right	right	right	right	l0030325l0080361l0010300	Runde 3
+Set4_JE	Sils-Maria 	l0030325	l0090084	l00200245	right	same	same	left	left	l0090084l0030325l00200245	Runde 3
+Set4_JE	Die Betrogene 	l00200179	l0080578	l00160172	left	left	left	right	left	l0080578l00200179l00160172	Runde 3
+Set4_JE	Die Betrogene 	l00200179	l0080578	l00180143	left	left	left	same	left	l0080578l00200179l00180143	Runde 3
+Set4_JE	Frühlingslied in der Stadt 	l0010217	l00130361	l00110081	right	right	same	same	right	l00130361l0010217l00110081	Runde 3
+Set4_JE	Auf Gegenseitigkeit 	l00160192	l0010170	l00170194	right	right	right	same	right	l0010170l00160192l00170194	Runde 3
+Set4_JE	Nur nimm sie wieder aus der Städte Schuld 	l00180136	l0050040	l0030115	right	right	left	right	right	l0050040l00180136l0030115	Runde 3
+Set4_JE	Enttäuschung 	l00160262	l0010208	l0030184	same	same	same	left	same	l0010208l00160262l0030184	Runde 3
+Set4_JE	Auf See	l00180027	l0040277	l00130019	same	left	same	left	left	l0040277l00180027l00130019	Runde 3
+Set4_JE	In goldener Fülle	l00170185	l00270482	l00160169	same	right	right	same	right	l00270482l00170185l00160169	Runde 3
+Set4_JE	Schwill an, mein Strom, schwill über deine Weide	l00180093	l00270460	l0060088	left	left	same	left	left	l00270460l00180093l0060088	Runde 3
+Set4_JE	Manche Nacht	l00180033	l0040525	l00110034	right	same	same	same	same	l0040525l00180033l00110034	Runde 3
+Set4_JE	Herbst	l0010288	l00270471	l0010083	right	same	left	left	same	l00270471l0010288l0010083	Runde 3
+Set4_JE	Drei Herzen	l0080628	l0040322	l0020111	right	same	same	right	right	l0040322l0080628l0020111	Runde 3
+Set4_JE	Märztag	l0030277	l00270316	l0060070	same	right	right	same	right	l00270316l0030277l0060070	Runde 3
+Set4_JE	Das war der Duft...	l0030151	l0030357	l0040076	same	left	left	same	left	l0030357l0030151l0040076	Runde 3
+Set4_JE	Die Mühle	l0040513	l0010195	l00200255	right	same	same	right	right	l0010195l0040513l00200255	Runde 3
+Set4_JE	Handwerksbrauch	l0080129	l00170217	l00180105	same	same	same	same	same	l00170217l0080129l00180105	Runde 3
+Set4_JE	Mondnacht	l0040009	l0040580	l00180062	left	left	right	left	left	l0040580l0040009l00180062	Runde 3
+Set4_JE	Der Welt gelacht	l0040263	l0090019	l0050021	right	same	right	right	right	l0090019l0040263l0050021	Runde 3
+Set3_SP	Beschluß – 	l0060082	l00130383	l00140029	same	same	right	right	same	l00130383l0060082l00140029	Runde 3
+Set3_SP	Du kennst mich nicht 	l00200202	l00130355	l0040053	left	left	same	left	left	l00130355l00200202l0040053	Runde 3
+Set3_SP	Festtag! 	l0050040	l00180166	l00180136	same	same	right	same	right	l00180166l0050040l00180136	Runde 3
+Set3_SP	Die Kunst – 	l00130138	l00130348	l0040554	right	same	same	same	same	l00130348l00130138l0040554	Runde 3
+Set3_SP	Frisch vom Storch 	l0010018	l00170195	l00170019	same	same	left	same	same	l00170195l0010018l00170019	Runde 3
+Set3_SP	Lied in der Nacht 	l0040053	l0080333	l0060082	same	left	left	same	left	l0080333l0040053l0060082	Runde 3
+Set3_SP	Du kamst zu 	l00140045	l00140122	l00200064	left	left	right	left	left	l00140122l00140045l00200064	Runde 3
+Set3_SP	Wer je gelebt in Liebesarmen 	l0080543	l00130407	l00180069	right	right	right	left	right	l00130407l0080543l00180069	Runde 3
+Set3_SP	Porträt des Marquis de... 	l0040554	l00130138	l00200026	right	same	same	right	same	l00130138l0040554l00200026	Runde 3
+Set3_SP	Der Seligen Furcht 	l0010076	l0060062	l00200039	right	same	right	same	same	l0060062l0010076l00200039	Runde 3
+Set3_SP	Porträt des Marquis de... 	l0040554	l0010132	l00130138	left	same	right	left	same	l0010132l0040554l00130138	Runde 3
+Set3_SP	Die stille Stadt 	l00170058	l0080377	l0010076	same	same	same	left	same	l0080377l00170058l0010076	Runde 3
+Set3_SP	Die einsame Tanne 	l00130182	l00130257	l00110081	left	left	left	left	left	l00130257l00130182l00110081	Runde 3
+Set3_SP	Die List der Trinker 	l0020029	l00160240	l00130257	same	left	same	same	same	l00160240l0020029l00130257	Runde 3
+Set3_SP	Auf einem Stein 	l0030167	l0030227	l0020178	left	left	left	left	left	l0030227l0030167l0020178	Runde 3
+Set3_SP	Resignatio 	l00140105	l00200245	l00200301	same	left	same	left	left	l00200245l00140105l00200301	Runde 3
+Set3_SP	Pflicht 	l00140029	l00140078	l00160282	right	right	right	same	right	l00140078l00140029l00160282	Runde 3
+Set3_SP	Beschluß – 	l0060082	l0010076	l0040053	same	left	left	same	left	l0010076l0060082l0040053	Runde 3
+Set3_SP	Stör nicht den Traum der Kinder – 	l00160112	l0080412	l0010217	right	same	same	right	same	l0080412l00160112l0010217	Runde 3
+Set3_SP	Die Luft so schwer... 	l0030065	l00140024	l0030431	same	right	same	right	right	l00140024l0030065l0030431	Runde 3
+Set3_SP	Beschluß – 	l0060082	l0010172	l0040053	same	right	right	same	right	l0010172l0060082l0040053	Runde 3
+Set3_SP	Der Tod und das Mädchen 	l00100088	l00180012	l00200253	same	left	same	same	left	l00180012l00100088l00200253	Runde 3
+Set3_SP	Mir 	l0020034	l0080553	l0010273	left	left	left	left	left	l0080553l0020034l0010273	Runde 3
+Set3_SP	ohne Titel 	l00140198	l0090065	l00200135	same	same	same	right	same	l0090065l00140198l00200135	Runde 3
+Set3_SP	Die Lawine 	l00130451	l0020178	l0010217	left	right	same	right	right	l0020178l00130451l0010217	Runde 3
+Set3_SP	Alpenklub 	l00130059	l0040554	l0060046	left	same	same	left	same	l0040554l00130059l0060046	Runde 3
+Set3_SP	Geschieden 	l0010172	l0030115	l00170195	right	same	same	left	same	l0030115l0010172l00170195	Runde 3
+Set3_SP	Vorbei 	l0010184	l0010082	l0010173	left	right	right	same	right	l0010082l0010184l0010173	Runde 3
+Set3_SP	Du warst es doch 	l0080549	l00200002	l00140122	right	right	right	same	right	l00200002l0080549l00140122	Runde 3
+Set3_SP	Religion und Theologie 	l00130398	l00170003	l0010076	right	left	same	same	same	l00170003l00130398l0010076	Runde 3
+Set3_SP	Stör nicht den Traum der Kinder – 	l00160112	l0050064	l0010082	right	same	left	right	same	l0050064l00160112l0010082	Runde 3
+Set3_SP	Nachtlied 	l00200135	l00160240	l0010170	left	same	same	left	left	l00160240l00200135l0010170	Runde 3
+Set3_SP	Die Betrogene 	l00200179	l00130111	l0080578	right	right	right	left	right	l00130111l00200179l0080578	Runde 3
+Set3_SP	An die Mädchen 	l00130354	l00130056	l0010082	right	right	right	right	right	l00130056l00130354l0010082	Runde 3
+Set3_SP	Am Bahndamm 	l0060057	l00180017	l0040304	same	left	same	left	left	l00180017l0060057l0040304	Runde 3
+Set3_SP	Als gestern die Nachtigall 	l0080208	l0020119	l00180035	left	left	left	left	left	l0020119l0080208l00180035	Runde 3
+Set3_SP	Pflicht 	l00140029	l00100111	l0060082	right	same	right	right	right	l00100111l00140029l0060082	Runde 3
+Set3_SP	Titelblatt 	l00180143	l00130257	l00180136	right	same	right	right	right	l00130257l00180143l00180136	Runde 3
+Set3_SP	Nur nimm sie wieder aus der Städte Schuld 	l00180136	l0020047	l0050040	left	left	left	left	left	l0020047l00180136l0050040	Runde 3
+Set3_SP	Ahnung 	l0030052	l00160119	l0030065	same	same	same	left	same	l00160119l0030052l0030065	Runde 3
+Set3_SP	Mein Leid 	l00110078	l00100008	l00190023	left	right	right	right	right	l00100008l00110078l00190023	Runde 3
+Set3_SP	Geh zur Ruh 	l00200186	l0060057	l00130210	same	left	right	left	left	l0060057l00200186l00130210	Runde 3
+Set3_SP	Tränenkrüglein 	l00140156	l00200253	l00130348	left	left	left	left	left	l00200253l00140156l00130348	Runde 3
+Set3_SP	Kleine Marie 	l0010239	l0060062	l0080369	same	same	same	same	same	l0060062l0010239l0080369	Runde 3
+Set3_SP	Vorbei 	l0010184	l0010082	l00140105	left	same	left	same	same	l0010082l0010184l00140105	Runde 3
+Set3_SP	Hoffnung 	l0080305	l00160172	l0050031	right	left	left	left	left	l00160172l0080305l0050031	Runde 3
+Set3_SP	Schlummerlied	l0040416	l0030215	l00160139	left	left	left	left	left	l0030215l0040416l00160139	Runde 3
+Set3_SP	Ruhe, meine Seele!	l0070218	l00130280	l00270258	same	same	same	left	same	l00130280l0070218l00270258	Runde 3
+Set3_SP	Lerchen	l0040147	l0090029	l00170160	right	same	same	right	same	l0090029l0040147l00170160	Runde 3
+Set3_SP	Heimweh	l00270653	l0080096	l0070155	left	left	left	same	left	l0080096l00270653l0070155	Runde 3
+Set3_SP	Spaziergang	l00270347	l0030307	l00170068	right	left	same	left	left	l0030307l00270347l00170068	Runde 3
+Set3_SP	Melancholie	l0040010	l0040192	l0030352	left	left	left	left	left	l0040192l0040010l0030352	Runde 3
+Set3_SP	Requiem	l0040402	l0020048	l00270689	left	left	same	left	left	l0020048l0040402l00270689	Runde 3
+Set3_SP	Aus den „Liedern an eine Geliebte“	l0030393	l0040164	l00170101	same	left	left	same	same	l0040164l0030393l00170101	Runde 3
+Set3_SP	Ein Lebewohl	l0010066	l0010149	l0040436	left	left	left	left	left	l0010149l0010066l0040436	Runde 3
+Set3_SP	Erntelieder	l00180088	l0030153	l0090028	left	same	left	left	left	l0030153l00180088l0090028	Runde 3
+Set3_SP	Morgens	l0020131	l0030046	l0040520	right	same	right	left	same	l0030046l0020131l0040520	Runde 3
+Set3_SP	Mädchengebet	l0030284	l0030128	l0010054	same	same	right	same	same	l0030128l0030284l0010054	Runde 3
+Set5_MG	Die Kühle 	l00190039	l0010016	l00140028	left	same	left	left	left	l0010016l00190039l00140028	Runde 3
+Set5_MG	Vorsicht 	l00130111	l00130378	l00200039	left	left	left	left	left	l00130378l00130111l00200039	Runde 3
+Set5_MG	Die Nicht-Gewesenen 	l0030243	l0080077	l00200021	same	same	same	same	same	l0080077l0030243l00200021	Runde 3
+Set5_MG	Der Trompeter 	l0010208	l00160262	l00130122	left	left	same	left	left	l00160262l0010208l00130122	Runde 3
+Set5_MG	Abbild 	l00180079	l00130204	l00140028	same	same	same	same	same	l00130204l00180079l00140028	Runde 3
+Set5_MG	Alte Heimath 	l00200021	l0070146	l00140029	right	same	right	left	right	l0070146l00200021l00140029	Runde 3
+Set5_MG	Die stille Stadt 	l00170058	l0010082	l0060062	same	same	same	left	same	l0010082l00170058l0060062	Runde 3
+Set5_MG	Lady Rosa 	l0030184	l00130210	l00160212	right	same	same	right	same	l00130210l0030184l00160212	Runde 3
+Set5_MG	Das Päckchen Gedichte 	l00170161	l00200301	l00160172	left	left	left	same	left	l00200301l00170161l00160172	Runde 3
+Set5_MG	Der Trompeter 	l0010208	l0080165	l0010172	same	left	left	same	left	l0080165l0010208l0010172	Runde 3
+Set5_MG	Die Kunst – 	l00130138	l0080055	l0040554	same	same	same	same	same	l0080055l00130138l0040554	Runde 3
+Set5_MG	Frisch vom Storch 	l0010018	l0020167	l0080553	same	same	same	same	same	l0020167l0010018l0080553	Runde 3
+Set5_MG	Marksteine 	l00130329	l0050064	l0080333	same	left	left	left	left	l0050064l00130329l0080333	Runde 3
+Set5_MG	Doppelte Jugend 	l0080077	l0060056	l00200242	left	right	right	left	left	l0060056l0080077l00200242	Runde 3
+Set5_MG	Es rauschen den eingeborenen Ton 	l0080344	l0080046	l00170003	left	right	same	same	same	l0080046l0080344l00170003	Runde 3
+Set5_MG	Hans Schreier junior 	l00100111	l00130111	l0010173	left	same	left	left	left	l00130111l00100111l0010173	Runde 3
+Set5_MG	Ich will mich in dein Herz gewöhnen 	l0080412	l0080578	l00140156	same	same	same	same	same	l0080578l0080412l00140156	Runde 3
+Set5_MG	Die einsame Tanne 	l00130182	l00130257	l00170125	left	left	same	left	left	l00130257l00130182l00170125	Runde 3
+Set5_MG	Die Luft so schwer... 	l0030065	l0030031	l0010208	same	same	same	left	same	l0030031l0030065l0010208	Runde 3
+Set5_MG	Abbild 	l00180079	l0030218	l00130070	same	same	left	left	same	l0030218l00180079l00130070	Runde 3
+Set5_MG	Die Nicht-Gewesenen 	l0030243	l0080448	l00200135	same	same	left	left	same	l0080448l0030243l00200135	Runde 3
+Set5_MG	Im Mai 	l00200176	l00140105	l0010018	same	same	same	left	same	l00140105l00200176l0010018	Runde 3
+Set5_MG	Letzter Wunsch 	l0080553	l00140066	l0030323	left	left	left	left	left	l00140066l0080553l0030323	Runde 3
+Set5_MG	Auf einem Stein 	l0030167	l0060082	l0020178	same	left	same	same	same	l0060082l0030167l0020178	Runde 3
+Set5_MG	Magdalene 	l0080578	l00200179	l0030112	right	left	left	same	same	l00200179l0080578l0030112	Runde 3
+Set5_MG	Frühlingslied in der Stadt 	l0010217	l00130398	l00160041	right	same	right	same	right	l00130398l0010217l00160041	Runde 3
+Set5_MG	Albumblatt 	l0030373	l0030420	l0010170	left	same	same	same	same	l0030420l0030373l0010170	Runde 3
+Set5_MG	Porträt des Marquis de... 	l0040554	l00130138	l0010079	right	same	same	right	same	l00130138l0040554l0010079	Runde 3
+Set5_MG	Blümleins Gebet 	l00130268	l0080077	l00130407	right	right	right	same	right	l0080077l00130268l00130407	Runde 3
+Set5_MG	Wenn ein Leid dich schwer bedrängt 	l0080356	l0010154	l00100106	same	same	left	same	same	l0010154l0080356l00100106	Runde 3
+Set5_MG	Pflicht 	l00140029	l0060082	l0010038	left	same	left	left	left	l0060082l00140029l0010038	Runde 3
+Set5_MG	Graue Tage 	l00140150	l0060056	l00130210	right	same	right	same	right	l0060056l00140150l00130210	Runde 3
+Set5_MG	Beschluß – 	l0060082	l0040053	l0080587	right	same	same	same	same	l0040053l0060082l0080587	Runde 3
+Set5_MG	Letzter Wunsch 	l0080553	l00200223	l0040554	left	left	same	right	same	l00200223l0080553l0040554	Runde 3
+Set5_MG	Die frühe Stunde 	l0030183	l0090086	l00130111	same	left	same	right	same	l0090086l0030183l00130111	Runde 3
+Set5_MG	Auf Gegenseitigkeit 	l00160192	l00160300	l00200340	right	left	left	right	left	l00160300l00160192l00200340	Runde 3
+Set5_MG	Der Tod und das Mädchen 	l00100088	l00200253	l00200026	left	right	left	left	left	l00200253l00100088l00200026	Runde 3
+Set5_MG	Fromme Bücher 	l00160212	l0080333	l0030184	same	same	same	same	same	l0080333l00160212l0030184	Runde 3
+Set5_MG	Die Kunst – 	l00130138	l0060057	l0040554	left	left	left	left	left	l0060057l00130138l0040554	Runde 3
+Set5_MG	Ich bat sie um die Rose 	l0080165	l0030174	l00160262	right	same	same	same	same	l0030174l0080165l00160262	Runde 3
+Set5_MG	Der Liebesbrief 	l0080046	l00170194	l0010239	left	same	same	left	left	l00170194l0080046l0010239	Runde 3
+Set5_MG	Magdalene 	l0080578	l00200179	l00200176	right	left	left	right	right	l00200179l0080578l00200176	Runde 3
+Set5_MG	April 	l00130102	l00200278	l00130451	right	right	right	left	right	l00200278l00130102l00130451	Runde 3
+Set5_MG	Letzte Fahrt 	l0030218	l00180079	l0080344	right	left	left	left	left	l00180079l0030218l0080344	Runde 3
+Set5_MG	Die Kunst – 	l00130138	l0040554	l00160262	same	same	left	same	same	l0040554l00130138l00160262	Runde 3
+Set5_MG	Die stille Stadt 	l00170058	l00130210	l0010076	left	same	same	left	left	l00130210l00170058l0010076	Runde 3
+Set5_MG	Die Nachtigall – 	l00160283	l00160240	l0080132	same	same	same	left	same	l00160240l00160283l0080132	Runde 3
+Set5_MG	Unter den Zweigen 	l0080251	l00160240	l0080227	left	same	left	same	left	l00160240l0080251l0080227	Runde 3
+Set5_MG	1. Nur das thut mir so bitterweh	l00270584	l00110084	l00130160	left	same	left	left	left	l00110084l00270584l00130160	Runde 3
+Set5_MG	Köstliches Gut	l00270853	l00100107	l0090014	left	same	same	left	left	l00100107l00270853l0090014	Runde 3
+Set5_MG	Meeresabend	l00150205	l0040545	l00270278	right	right	same	same	same	l0040545l00150205l00270278	Runde 3
+Set5_MG	Finkenruf	l00110018	l00270596	l00150225	left	right	same	left	same	l00270596l00110018l00150225	Runde 3
+Set5_MG	Kreuzesdeutung	l00130305	l00160214	l00130200	left	same	left	same	same	l00160214l00130305l00130200	Runde 3
+Set5_MG	Vom Dampfer	l00270396	l00170014	l0070173	right	left	left	left	left	l00170014l00270396l0070173	Runde 3
+Set5_MG	Mittagsglast	l0060023	l0040493	l0030102	right	right	same	same	right	l0040493l0060023l0030102	Runde 3
+Set5_MG	Weinlob	l00130374	l0030248	l0030324	left	same	left	same	left	l0030248l00130374l0030324	Runde 3
+Set5_MG	Die Wege trennen sich	l00110067	l00180089	l0070087	same	same	same	same	same	l00180089l00110067l0070087	Runde 3
+Set5_MG	Der Reisebecher	l0040403	l00140047	l0050044	left	same	same	right	same	l00140047l0040403l0050044	Runde 3
+Set5_MG	Hans Darm	l00100109	l0010278	l0040506	same	same	same	same	same	l0010278l00100109l0040506	Runde 3
+Set5_MG	Schwere Worte	l00270047	l00140085	l0030342	same	same	same	right	same	l00140085l00270047l0030342	Runde 3
+Set1_JE	Am Ufer 	l00130276	l0080364	l00130180	same	same	left	right	same	l0080364l00130276l00130180	Runde 4 (lang)
+Set1_JE	Gebet auf den Wassern 	l00200239	l00160156	l00160305	left	left	same	right	same	l00160156l00200239l00160305	Runde 4 (lang)
+Set1_JE	Entrückung 	l00180118	l00140058	l0080530	same	same	left	same	left	l00140058l00180118l0080530	Runde 4 (lang)
+Set1_JE	Die Schiffersfrau 	l0080323	l00130428	l00130108	right	left	left	left	left	l00130428l0080323l00130108	Runde 4 (lang)
+Set1_JE	Peccavi? 	l0040149	l00170087	l00130233	left	same	same	left	left	l00170087l0040149l00130233	Runde 4 (lang)
+Set1_JE	Bauernkrieg 	l0080330	l00140004	l00200206	right	same	same	right	right	l00140004l0080330l00200206	Runde 4 (lang)
+Set1_JE	Vom alten deutschen Kaiser 	l00130304	l00200075	l00200128	right	left	left	right	left	l00200075l00130304l00200128	Runde 4 (lang)
+Set1_JE	Zwiegesang 	l00200107	l00200295	l00170234	same	right	same	same	right	l00200295l00200107l00170234	Runde 4 (lang)
+Set1_JE	Wir 	l0080249	l0070131	l00160183	left	left	same	same	same	l0070131l0080249l00160183	Runde 4 (lang)
+Set1_JE	Bist du vielleicht.... 	l0050078	l0080277	l00140216	left	left	right	same	left	l0080277l0050078l00140216	Runde 4 (lang)
+Set1_JE	Osterkerzen 	l0090039	l00130082	l00170028	left	left	right	right	same	l00130082l0090039l00170028	Runde 4 (lang)
+Set1_JE	Du armes Herz 	l00140157	l00130433	l0030049	right	right	right	same	right	l00130433l00140157l0030049	Runde 4 (lang)
+Set1_JE	Am Karfreitag 	l00130123	l00170192	l0010305	left	left	right	left	left	l00170192l00130123l0010305	Runde 4 (lang)
+Set1_JE	Der betrübte Jurist 	l0080421	l00180134	l0080249	same	same	left	same	same	l00180134l0080421l0080249	Runde 4 (lang)
+Set1_JE	Der Rhein 	l00130143	l0080489	l0010227	left	same	left	same	left	l0080489l00130143l0010227	Runde 4 (lang)
+Set1_JE	Die Rechte der Frauen 	l00130439	l00130363	l0080201	right	same	left	same	same	l00130363l00130439l0080201	Runde 4 (lang)
+Set1_JE	Tragische Geschichte 	l00200013	l00130207	l0010237	left	same	same	right	same	l00130207l00200013l0010237	Runde 4 (lang)
+Set1_JE	Ich wußt' es längst 	l00200323	l00200222	l00130026	right	left	left	right	left	l00200222l00200323l00130026	Runde 4 (lang)
+Set1_JE	Des Lebens Lied 	l00130244	l0080166	l0040358	left	left	left	right	left	l0080166l00130244l0040358	Runde 4 (lang)
+Set1_JE	Maitaufe 	l0080131	l00100027	l0020176	right	right	right	right	right	l00100027l0080131l0020176	Runde 4 (lang)
+Set1_MK	Am Ufer 	l00130276	l0080364	l00130180	right	same	same	same	same	l0080364l00130276l00130180	Runde 4 (lang)
+Set1_MK	Gebet auf den Wassern 	l00200239	l00160156	l00160305	same	same	same	right	same	l00160156l00200239l00160305	Runde 4 (lang)
+Set1_MK	Entrückung 	l00180118	l00140058	l0080530	same	same	same	same	same	l00140058l00180118l0080530	Runde 4 (lang)
+Set1_MK	Die Schiffersfrau 	l0080323	l00130428	l00130108	right	left	same	same	left	l00130428l0080323l00130108	Runde 4 (lang)
+Set1_MK	Peccavi? 	l0040149	l00170087	l00130233	left	left	left	left	left	l00170087l0040149l00130233	Runde 4 (lang)
+Set1_MK	Bauernkrieg 	l0080330	l00140004	l00200206	right	same	same	same	same	l00140004l0080330l00200206	Runde 4 (lang)
+Set1_MK	Vom alten deutschen Kaiser 	l00130304	l00200075	l00200128	right	left	same	left	left	l00200075l00130304l00200128	Runde 4 (lang)
+Set1_MK	Zwiegesang 	l00200107	l00200295	l00170234	same	right	same	left	same	l00200295l00200107l00170234	Runde 4 (lang)
+Set1_MK	Wir 	l0080249	l0070131	l00160183	same	same	same	same	same	l0070131l0080249l00160183	Runde 4 (lang)
+Set1_MK	Bist du vielleicht.... 	l0050078	l0080277	l00140216	left	same	same	same	same	l0080277l0050078l00140216	Runde 4 (lang)
+Set1_MK	Osterkerzen 	l0090039	l00130082	l00170028	left	left	same	same	left	l00130082l0090039l00170028	Runde 4 (lang)
+Set1_MK	Du armes Herz 	l00140157	l00130433	l0030049	right	right	right	same	right	l00130433l00140157l0030049	Runde 4 (lang)
+Set1_MK	Am Karfreitag 	l00130123	l00170192	l0010305	same	left	same	same	left	l00170192l00130123l0010305	Runde 4 (lang)
+Set1_MK	Der betrübte Jurist 	l0080421	l00180134	l0080249	right	same	same	same	same	l00180134l0080421l0080249	Runde 4 (lang)
+Set1_MK	Der Rhein 	l00130143	l0080489	l0010227	same	same	same	left	same	l0080489l00130143l0010227	Runde 4 (lang)
+Set1_MK	Die Rechte der Frauen 	l00130439	l00130363	l0080201	right	same	same	same	same	l00130363l00130439l0080201	Runde 4 (lang)
+Set1_MK	Tragische Geschichte 	l00200013	l00130207	l0010237	left	same	same	same	same	l00130207l00200013l0010237	Runde 4 (lang)
+Set1_MK	Ich wußt' es längst 	l00200323	l00200222	l00130026	same	left	left	right	left	l00200222l00200323l00130026	Runde 4 (lang)
+Set1_MK	Des Lebens Lied 	l00130244	l0080166	l0040358	left	same	same	same	left	l0080166l00130244l0040358	Runde 4 (lang)
+Set1_MK	Maitaufe 	l0080131	l00100027	l0020176	same	right	same	right	right	l00100027l0080131l0020176	Runde 4 (lang)
+Set3_DK	Sonne und Sterne 	l0080060	l00160052	l00190002	right	same	right	right	right	l00160052l0080060l00190002	Runde 4 (lang)
+Set3_DK	Vaterland 	l00200074	l0080100	l00200252	left	same	left	left	left	l0080100l00200074l00200252	Runde 4 (lang)
+Set3_DK	Ziel und Ende 	l0080378	l0050079	l0080157	left	right	right	right	right	l0050079l0080378l0080157	Runde 4 (lang)
+Set3_DK	Erlösung 	l0040150	l00130238	l00140097	left	same	left	left	left	l00130238l0040150l00140097	Runde 4 (lang)
+Set3_DK	Tränen 	l0030094	l0080313	l00140175	left	right	right	left	same	l0080313l0030094l00140175	Runde 4 (lang)
+Set3_DK	Dann..... 	l0050074	l0020143	l00160260	right	same	left	left	left	l0020143l0050074l00160260	Runde 4 (lang)
+Set3_DK	Bitte 	l00140121	l00130289	l00140107	left	left	left	left	left	l00130289l00140121l00140107	Runde 4 (lang)
+Set3_DK	Letzter Tag 	l0010214	l0080599	l00140159	left	same	left	same	left	l0080599l0010214l00140159	Runde 4 (lang)
+Set3_DK	Im Nebel 	l00170170	l0030286	l0060109	same	same	right	right	right	l0030286l00170170l0060109	Runde 4 (lang)
+Set3_DK	Abendphantasie 	l00200007	l0060038	l00130332	left	right	right	right	right	l0060038l00200007l00130332	Runde 4 (lang)
+Set3_DK	Göttliche Richtung 	l00130343	l00140183	l00200030	left	left	left	left	left	l00140183l00130343l00200030	Runde 4 (lang)
+Set3_DK	Phantasie auf dem Palatin 	l00140204	l00130267	l0020088	left	left	same	left	left	l00130267l00140204l0020088	Runde 4 (lang)
+Set3_DK	Mich lockt deine Stimme 	l00140054	l0040255	l0010269	left	same	right	left	left	l0040255l00140054l0010269	Runde 4 (lang)
+Set3_DK	Die Jugend lieb' ich 	l00130430	l00200030	l00200143	right	same	right	right	right	l00200030l00130430l00200143	Runde 4 (lang)
+Set3_DK	Der frühe Mond 	l0080321	l0080434	l0030397	left	left	left	left	left	l0080434l0080321l0030397	Runde 4 (lang)
+Set3_DK	Das Lied von Ferne 	l00170017	l00140244	l00100048	left	right	right	same	right	l00140244l00170017l00100048	Runde 4 (lang)
+Set3_DK	Wanderung in der Ebene 	l0060058	l00180092	l00100055	left	left	same	left	left	l00180092l0060058l00100055	Runde 4 (lang)
+Set3_DK	Jugendliebe 	l0050050	l0080368	l0060035	left	left	left	right	left	l0080368l0050050l0060035	Runde 4 (lang)
+Set3_DK	Deutschland vorwärts! 	l0010085	l0030257	l00140015	left	left	left	left	left	l0030257l0010085l00140015	Runde 4 (lang)
+Set3_DK	Aus der Heimath 	l00200152	l0030026	l00140155	right	left	left	same	left	l0030026l00200152l00140155	Runde 4 (lang)
+Set4_AH	Wenn ein Leid dich schwer bedrängt 	l0080356	l00160192	l0030167	left	right	right	same	right	l00160192l0080356l0030167	Runde 3
+Set4_AH	Beschluß – 	l0060082	l0030227	l0040053	same	left	left	right	same	l0030227l0060082l0040053	Runde 3
+Set4_AH	Und ob der holde Tag vergangen 	l0080554	l00180060	l00140045	right	same	right	left	same	l00180060l0080554l00140045	Runde 3
+Set4_AH	So lange wir vertrauen 	l00130359	l00140141	l00100088	same	left	same	left	left	l00140141l00130359l00100088	Runde 3
+Set4_AH	Ave Maria 	l0080493	l00130164	l0040216	right	right	right	same	right	l00130164l0080493l0040216	Runde 3
+Set4_AH	Kleine Marie 	l0010239	l0080044	l0010300	same	same	same	same	same	l0080044l0010239l0010300	Runde 3
+Set4_AH	Nur nimm sie wieder aus der Städte Schuld 	l00180136	l00160282	l0050040	left	same	same	left	left	l00160282l00180136l0050040	Runde 3
+Set4_AH	Hoffnung 	l0080305	l00200195	l00130359	right	right	right	same	right	l00200195l0080305l00130359	Runde 3
+Set4_AH	Fremd in der Fremde – 	l0010082	l0040554	l0010184	right	right	right	same	right	l0040554l0010082l0010184	Runde 3
+Set4_AH	"Lied des Adlers: [Aus ""Der Sonne-Geist""] "	l00180060	l0080132	l0080208	left	left	left	same	left	l0080132l00180060l0080208	Runde 3
+Set4_AH	Zarathustras Lied 	l0030323	l0080132	l0080448	same	same	same	same	same	l0080132l0030323l0080448	Runde 3
+Set4_AH	Magdalene 	l0080578	l00200179	l0080046	right	left	left	same	left	l00200179l0080578l0080046	Runde 3
+Set4_AH	Frühlingslied in der Stadt 	l0010217	l00160282	l00160172	left	left	left	left	left	l00160282l0010217l00160172	Runde 3
+Set4_AH	Krankheit 	l00170003	l00200301	l00130407	left	same	same	same	same	l00200301l00170003l00130407	Runde 3
+Set4_AH	Feldeinsamkeit 	l00160004	l0010238	l00180143	left	right	right	right	right	l0010238l00160004l00180143	Runde 3
+Set4_AH	Ans Ziel – 	l00160041	l0080595	l0040336	same	same	same	same	same	l0080595l00160041l0040336	Runde 3
+Set4_AH	Geschieden 	l0010172	l0080554	l00100088	left	left	left	left	left	l0080554l0010172l00100088	Runde 3
+Set4_AH	Nachtlied 	l00200135	l00130398	l0010170	same	right	right	right	right	l00130398l00200135l0010170	Runde 3
+Set4_AH	Der Trompeter 	l0010208	l0090084	l0080165	right	right	right	right	right	l0090084l0010208l0080165	Runde 3
+Set4_AH	Nachtlied 	l00200135	l0050064	l0010170	same	right	right	right	right	l0050064l00200135l0010170	Runde 3
+Set4_AH	Meine Seele 	l00140066	l0030237	l00130062	right	same	left	right	same	l0030237l00140066l00130062	Runde 3
+Set4_AH	Beschluß – 	l0060082	l00140029	l00130359	left	same	same	same	same	l00140029l0060082l00130359	Runde 3
+Set4_AH	Mein Leid 	l00110078	l0010132	l0080046	right	left	left	left	left	l0010132l00110078l0080046	Runde 3
+Set4_AH	Nachtlied 	l00200135	l00200278	l0080578	left	left	left	same	left	l00200278l00200135l0080578	Runde 3
+Set4_AH	Ich hörte den Wind... 	l0030305	l0010038	l0080227	same	same	left	same	same	l0010038l0030305l0080227	Runde 3
+Set4_AH	Mein Leid 	l00110078	l00130354	l00130042	same	right	right	same	right	l00130354l00110078l00130042	Runde 3
+Set4_AH	Abbild 	l00180079	l0080616	l0030218	same	same	right	same	same	l0080616l00180079l0030218	Runde 3
+Set4_AH	Porträt des Marquis de... 	l0040554	l0010184	l00130138	same	same	same	same	same	l0010184l0040554l00130138	Runde 3
+Set4_AH	ohne Titel 	l00140198	l00160192	l0080462	left	same	right	right	same	l00160192l00140198l0080462	Runde 3
+Set4_AH	Sei nur robust! 	l0090065	l00130062	l00130384	left	right	same	same	right	l00130062l0090065l00130384	Runde 3
+Set4_AH	Beschluß – 	l0060082	l0030243	l0050064	same	same	same	same	same	l0030243l0060082l0050064	Runde 3
+Set4_AH	An die Freunde 	l0020147	l0080333	l0040505	left	same	left	left	left	l0080333l0020147l0040505	Runde 3
+Set4_AH	Lied in der Nacht 	l0040053	l0080311	l0060082	left	right	left	right	same	l0080311l0040053l0060082	Runde 3
+Set4_AH	Der Wanderer 	l0010012	l00170058	l00130384	same	left	right	same	left	l00170058l0010012l00130384	Runde 3
+Set4_AH	Ahnung 	l0030052	l00170058	l00160119	same	same	same	same	same	l00170058l0030052l00160119	Runde 3
+Set4_AH	Dein Bild – 	l0030433	l00160283	l0040216	same	same	left	right	same	l00160283l0030433l0040216	Runde 3
+Set4_AH	Erster Schnee 	l0080595	l00160172	l00130268	right	right	same	right	right	l00160172l0080595l00130268	Runde 3
+Set4_AH	Heimweh 	l00200253	l0040304	l0010172	right	same	right	same	right	l0040304l00200253l0010172	Runde 3
+Set4_AH	Ans Ziel – 	l00160041	l00160042	l0080595	same	same	right	same	same	l00160042l00160041l0080595	Runde 3
+Set4_AH	Ein Gebet 	l0080616	l00200340	l0040216	same	same	right	same	same	l00200340l0080616l0040216	Runde 3
+Set4_AH	Begegnen 	l0080361	l0030325	l0010300	right	right	same	same	right	l0030325l0080361l0010300	Runde 3
+Set4_AH	Sils-Maria 	l0030325	l0090084	l00200245	right	same	left	right	right	l0090084l0030325l00200245	Runde 3
+Set4_AH	Die Betrogene 	l00200179	l0080578	l00160172	left	left	left	same	left	l0080578l00200179l00160172	Runde 3
+Set4_AH	Die Betrogene 	l00200179	l0080578	l00180143	same	left	left	left	left	l0080578l00200179l00180143	Runde 3
+Set4_AH	Frühlingslied in der Stadt 	l0010217	l00130361	l00110081	right	right	right	same	right	l00130361l0010217l00110081	Runde 3
+Set4_AH	Auf Gegenseitigkeit 	l00160192	l0010170	l00170194	same	right	right	same	right	l0010170l00160192l00170194	Runde 3
+Set4_AH	Nur nimm sie wieder aus der Städte Schuld 	l00180136	l0050040	l0030115	right	right	right	right	right	l0050040l00180136l0030115	Runde 3
+Set4_AH	Enttäuschung 	l00160262	l0010208	l0030184	left	same	left	right	left	l0010208l00160262l0030184	Runde 3
+Set4_AH	Auf See	l00180027	l0040277	l00130019	left	same	left	left	left	l0040277l00180027l00130019	Runde 3
+Set4_AH	In goldener Fülle	l00170185	l00270482	l00160169	same	same	right	right	same	l00270482l00170185l00160169	Runde 3
+Set4_AH	Schwill an, mein Strom, schwill über deine Weide	l00180093	l00270460	l0060088	same	same	right	same	same	l00270460l00180093l0060088	Runde 3
+Set4_AH	Manche Nacht	l00180033	l0040525	l00110034	right	same	left	same	same	l0040525l00180033l00110034	Runde 3
+Set4_AH	Herbst	l0010288	l00270471	l0010083	right	same	same	right	same	l00270471l0010288l0010083	Runde 3
+Set4_AH	Drei Herzen	l0080628	l0040322	l0020111	right	right	left	right	right	l0040322l0080628l0020111	Runde 3
+Set4_AH	Märztag	l0030277	l00270316	l0060070	left	right	right	same	same	l00270316l0030277l0060070	Runde 3
+Set4_AH	Das war der Duft...	l0030151	l0030357	l0040076	same	same	left	same	same	l0030357l0030151l0040076	Runde 3
+Set4_AH	Die Mühle	l0040513	l0010195	l00200255	right	same	same	same	same	l0010195l0040513l00200255	Runde 3
+Set4_AH	Handwerksbrauch	l0080129	l00170217	l00180105	same	left	left	same	left	l00170217l0080129l00180105	Runde 3
+Set4_AH	Mondnacht	l0040009	l0040580	l00180062	same	same	left	left	left	l0040580l0040009l00180062	Runde 3
+Set4_AH	Der Welt gelacht	l0040263	l0090019	l0050021	right	right	right	right	right	l0090019l0040263l0050021	Runde 3
+Set3_AB	Sonne und Sterne 	l0080060	l00160052	l00190002	left	same	left	left	left	l00160052l0080060l00190002	Runde 4 (lang)
+Set3_AB	Vaterland 	l00200074	l0080100	l00200252	right	same	right	same	right	l0080100l00200074l00200252	Runde 4 (lang)
+Set3_AB	Ziel und Ende 	l0080378	l0050079	l0080157	left	left	left	left	left	l0050079l0080378l0080157	Runde 4 (lang)
+Set3_AB	Erlösung 	l0040150	l00130238	l00140097	same	same	left	left	left	l00130238l0040150l00140097	Runde 4 (lang)
+Set3_AB	Tränen 	l0030094	l0080313	l00140175	right	left	left	left	left	l0080313l0030094l00140175	Runde 4 (lang)
+Set3_AB	Dann..... 	l0050074	l0020143	l00160260	right	same	left	same	same	l0020143l0050074l00160260	Runde 4 (lang)
+Set3_AB	Bitte 	l00140121	l00130289	l00140107	left	left	left	left	left	l00130289l00140121l00140107	Runde 4 (lang)
+Set3_AB	Letzter Tag 	l0010214	l0080599	l00140159	left	right	right	right	right	l0080599l0010214l00140159	Runde 4 (lang)
+Set3_AB	Im Nebel 	l00170170	l0030286	l0060109	same	same	left	left	left	l0030286l00170170l0060109	Runde 4 (lang)
+Set3_AB	Abendphantasie 	l00200007	l0060038	l00130332	same	same	right	right	same	l0060038l00200007l00130332	Runde 4 (lang)
+Set3_AB	Göttliche Richtung 	l00130343	l00140183	l00200030	left	left	left	same	left	l00140183l00130343l00200030	Runde 4 (lang)
+Set3_AB	Phantasie auf dem Palatin 	l00140204	l00130267	l0020088	left	same	left	same	left	l00130267l00140204l0020088	Runde 4 (lang)
+Set3_AB	Mich lockt deine Stimme 	l00140054	l0040255	l0010269	left	left	left	left	left	l0040255l00140054l0010269	Runde 4 (lang)
+Set3_AB	Die Jugend lieb' ich 	l00130430	l00200030	l00200143	same	right	right	right	right	l00200030l00130430l00200143	Runde 4 (lang)
+Set3_AB	Der frühe Mond 	l0080321	l0080434	l0030397	left	left	left	left	left	l0080434l0080321l0030397	Runde 4 (lang)
+Set3_AB	Das Lied von Ferne 	l00170017	l00140244	l00100048	left	left	left	left	left	l00140244l00170017l00100048	Runde 4 (lang)
+Set3_AB	Wanderung in der Ebene 	l0060058	l00180092	l00100055	left	left	same	left	left	l00180092l0060058l00100055	Runde 4 (lang)
+Set3_AB	Jugendliebe 	l0050050	l0080368	l0060035	left	left	left	same	left	l0080368l0050050l0060035	Runde 4 (lang)
+Set3_AB	Deutschland vorwärts! 	l0010085	l0030257	l00140015	same	same	left	left	left	l0030257l0010085l00140015	Runde 4 (lang)
+Set3_AB	Aus der Heimath 	l00200152	l0030026	l00140155	right	left	left	left	left	l0030026l00200152l00140155	Runde 4 (lang)
+Set1_JB	Des Lebens Lied 	l00130244	l0080166	l00130074	same	same	right	left	same	l0080166l00130244l00130074	Runde 4 (lang)
+Set1_JB	Nächtliches Gewitter – 	l00130006	l00170189	l0050008	right	same	same	right	right	l00170189l00130006l0050008	Runde 4 (lang)
+Set1_JB	Verschließ' dich nur 	l0080254	l0030243	l00180073	same	left	left	left	left	l0030243l0080254l00180073	Runde 4 (lang)
+Set1_JB	Form und Inhalt 	l00130155	l0030112	l0090082	right	same	right	right	right	l0030112l00130155l0090082	Runde 4 (lang)
+Set1_JB	Alpenklub 	l00130059	l0080438	l00130383	left	right	right	left	right	l0080438l00130059l00130383	Runde 4 (lang)
+Set1_JB	Sturmlied 	l00160052	l00130330	l0050079	right	right	right	right	right	l00130330l00160052l0050079	Runde 4 (lang)
+Set1_JB	Nebel 	l00170033	l00170070	l00140216	right	same	same	right	right	l00170070l00170033l00140216	Runde 4 (lang)
+Set1_JB	Die Saite 	l0080538	l0010185	l00160260	right	right	same	right	right	l0010185l0080538l00160260	Runde 4 (lang)
+Set1_JB	Fremd in der Fremde – 	l0010082	l0040360	l0080100	same	same	same	same	same	l0040360l0010082l0080100	Runde 4 (lang)
+Set1_JB	Rüdiger Manesse 	l0020141	l0080488	l0020075	right	right	left	same	right	l0080488l0020141l0020075	Runde 4 (lang)
+Set1_JB	An Dichter und Leser 	l0080532	l0040149	l00170194	right	right	right	right	right	l0040149l0080532l00170194	Runde 4 (lang)
+Set1_JB	Du warst es doch 	l0080549	l00130028	l0030325	right	right	same	right	right	l00130028l0080549l0030325	Runde 4 (lang)
+Set1_JB	Der Abenteurer 	l0030164	l00200002	l00200267	same	right	right	same	right	l00200002l0030164l00200267	Runde 4 (lang)
+Set1_JB	Wahn und Wirklichkeit 	l0070166	l00130138	l00160290	right	right	right	same	right	l00130138l0070166l00160290	Runde 4 (lang)
+Set1_JB	Das Kummerschifflein 	l0040200	l0080053	l00130253	same	same	right	left	same	l0080053l0040200l00130253	Runde 4 (lang)
+Set1_JB	Ein Blick 	l00200237	l00130184	l0080521	left	right	right	right	right	l00130184l00200237l0080521	Runde 4 (lang)
+Set1_JB	Mein Dämon — weißt du noch — der wilde Traum? 	l00140060	l0010012	l00130341	same	same	right	left	same	l0010012l00140060l00130341	Runde 4 (lang)
+Set1_JB	Tragische Geschichte 	l00200013	l0010237	l0010217	same	same	same	left	same	l0010237l00200013l0010217	Runde 4 (lang)
+Set1_JB	Im Dämmer 	l0060068	l0060019	l00160042	same	left	left	same	left	l0060019l0060068l00160042	Runde 4 (lang)
+Set1_JB	An die Freunde 	l0020147	l00130140	l00130329	same	same	same	same	same	l00130140l0020147l00130329	Runde 4 (lang)
+Set2_SP	Vergißmeinnicht 	l00130227	l00200031	l0080230	right	same	right	same	right	l00200031l00130227l0080230	Runde 4 (lang)
+Set2_SP	Brügge 	l0030439	l00200266	l0010010	right	same	left	left	left	l00200266l0030439l0010010	Runde 4 (lang)
+Set2_SP	Am Tagessaume 	l00130293	l00130149	l00130012	right	same	right	right	right	l00130149l00130293l00130012	Runde 4 (lang)
+Set2_SP	Allein 	l00130425	l00110044	l0080612	same	right	right	right	right	l00110044l00130425l0080612	Runde 4 (lang)
+Set2_SP	Die Mittelmässigen 	l0050011	l0070200	l00170097	left	same	same	same	same	l0070200l0050011l00170097	Runde 4 (lang)
+Set2_SP	Ungleiche Liebe 	l00110075	l00110088	l00130312	right	right	right	same	right	l00110088l00110075l00130312	Runde 4 (lang)
+Set2_SP	Rüdiger Manesse 	l0020141	l0080319	l0020075	same	right	right	right	right	l0080319l0020141l0020075	Runde 4 (lang)
+Set2_SP	Der Trauernde 	l0080115	l00130238	l0080424	same	left	left	same	left	l00130238l0080115l0080424	Runde 4 (lang)
+Set2_SP	Die gelben Blätter... 	l0030417	l00100041	l0090046	same	right	same	right	same	l00100041l0030417l0090046	Runde 4 (lang)
+Set2_SP	Impromptu macabre 	l0060029	l0010207	l0050081	same	left	same	left	left	l0010207l0060029l0050081	Runde 4 (lang)
+Set2_SP	Reif ist die Frucht und muß geschnitten sein 	l0070215	l00180022	l0090046	same	left	same	same	same	l00180022l0070215l0090046	Runde 4 (lang)
+Set2_SP	Herbsthimmel 	l0080248	l00200271	l00200279	left	right	right	same	right	l00200271l0080248l00200279	Runde 4 (lang)
+Set2_SP	Oberbairische Gedichte 	l00160276	l0020020	l00200015	same	same	same	same	same	l0020020l00160276l00200015	Runde 4 (lang)
+Set2_SP	Rosenzeit und Todesleid 	l00200318	l00200290	l00140010	right	left	left	same	left	l00200290l00200318l00140010	Runde 4 (lang)
+Set2_SP	Brudergruß 	l0090055	l00140052	l0010037	right	same	same	same	same	l00140052l0090055l0010037	Runde 4 (lang)
+Set2_SP	Noch diesen Kuß 	l0080521	l00130341	l00170076	same	left	left	left	left	l00130341l0080521l00170076	Runde 4 (lang)
+Set2_SP	Rosenzeit und Todesleid 	l00200318	l0040149	l0010216	left	left	left	left	left	l0040149l00200318l0010216	Runde 4 (lang)
+Set2_SP	Novemberabend 	l00170234	l00200068	l00180073	left	left	same	right	same	l00200068l00170234l00180073	Runde 4 (lang)
+Set2_SP	Frühlingsahnung 	l00130404	l00200107	l00130126	right	left	same	left	left	l00200107l00130404l00130126	Runde 4 (lang)
+Set2_SP	Nächtliches Gewitter – 	l00130006	l00130235	l0080469	same	right	right	same	right	l00130235l00130006l0080469	Runde 4 (lang)
+FJ+MK+SW	Das Päckchen Gedichte 	l00170161	l0010154	l00130457	same	left	left	left	left	l0010154l00170161l00130457	FJ+MK+SW
+FJ+MK+SW	Die Kunst – 	l00130138	l00180069	l0040554	left	same	left	left	left	l00180069l00130138l0040554	FJ+MK+SW
+FJ+MK+SW	Gleichgültigkeit 	l00130210	l00140024	l00140150	same	right	right	same	same	l00140024l00130210l00140150	FJ+MK+SW
+FJ+MK+SW	Fremd in der Fremde – 	l0010082	l00130354	l0030174	left	same	same	left	left	l00130354l0010082l0030174	FJ+MK+SW
+FJ+MK+SW	Nachtlied 	l00200135	l0080305	l00200223	left	same	same	same	same	l0080305l00200135l00200223	FJ+MK+SW
+FJ+MK+SW	Geschieden 	l0010172	l00200026	l00130042	left	right	right	same	right	l00200026l0010172l00130042	FJ+MK+SW
+FJ+MK+SW	Zarathustras Lied 	l0030323	l00200176	l00140156	same	same	same	same	same	l00200176l0030323l00140156	FJ+MK+SW
+FJ+MK+SW	Trost der Nacht 	l00200088	l00130102	l0080046	same	left	left	left	left	l00130102l00200088l0080046	FJ+MK+SW
+FJ+MK+SW	Lied 	l00200278	l00100009	l0080132	right	right	right	right	right	l00100009l00200278l0080132	FJ+MK+SW
+FJ+MK+SW	Guter Rat 	l00130384	l0030323	l00160192	left	same	right	same	same	l0030323l00130384l00160192	FJ+MK+SW
+FJ+MK+SW	Du und ich 	l0040524	l0080448	l00110081	same	same	same	same	same	l0080448l0040524l00110081	FJ+MK+SW
+FJ+MK+SW	An die Mädchen 	l00130354	l0050031	l00160112	right	left	same	right	same	l0050031l00130354l00160112	FJ+MK+SW
+FJ+MK+SW	„Süß sind mir die Schollen des Tales.“ 	l0040336	l0010238	l00170058	left	right	right	same	right	l0010238l0040336l00170058	FJ+MK+SW
+FJ+MK+SW	Gleichgültigkeit 	l00130210	l00200254	l00140150	left	same	left	same	left	l00200254l00130210l00140150	FJ+MK+SW
+FJ+MK+SW	Wie ist das Leben bitter arm 	l0010218	l00130378	l0080311	right	right	right	right	right	l00130378l0010218l0080311	FJ+MK+SW
+FJ+MK+SW	Banger Abend 	l00170019	l0060062	l0080412	same	same	same	same	same	l0060062l00170019l0080412	FJ+MK+SW
+FJ+MK+SW	Die List der Trinker 	l0020029	l00160240	l0070146	left	same	right	same	same	l00160240l0020029l0070146	FJ+MK+SW
+FJ+MK+SW	Der Seligen Furcht 	l0010076	l0050031	l0010186	same	same	same	same	same	l0050031l0010076l0010186	FJ+MK+SW
+FJ+MK+SW	Lady Rosa 	l0030184	l00160212	l00130384	same	same	left	same	same	l00160212l0030184l00130384	FJ+MK+SW
+FJ+MK+SW	Dein Bild – 	l0030433	l0010238	l0020039	left	left	left	same	left	l0010238l0030433l0020039	FJ+MK+SW
+FJ+MK+SW	Gleichgültigkeit 	l00130210	l0090086	l00140150	same	right	right	right	right	l0090086l00130210l00140150	FJ+MK+SW
+FJ+MK+SW	An die Freunde 	l0020147	l00160172	l0030065	right	left	same	left	left	l00160172l0020147l0030065	FJ+MK+SW
+FJ+MK+SW	Deutsche Art 	l00130383	l00130059	l00200186	right	left	left	left	left	l00130059l00130383l00200186	FJ+MK+SW
+FJ+MK+SW	Morgenduft 	l0090086	l0080554	l0060046	same	same	right	right	right	l0080554l0090086l0060046	FJ+MK+SW
+FJ+MK+SW	Weltlauf 	l00160211	l00130451	l00190039	left	same	left	same	left	l00130451l00160211l00190039	FJ+MK+SW
+FJ+MK+SW	Porträt des Marquis de... 	l0040554	l00130138	l0080055	right	same	same	same	same	l00130138l0040554l0080055	FJ+MK+SW
+FJ+MK+SW	Deine Hände 	l0040304	l0080227	l00130361	right	same	right	right	right	l0080227l0040304l00130361	FJ+MK+SW
+FJ+MK+SW	Lied in der Nacht 	l0040053	l0060082	l00130449	same	left	same	same	same	l0060082l0040053l00130449	FJ+MK+SW
+FJ+MK+SW	Die frühe Stunde 	l0030183	l00140124	l00130451	right	right	same	left	right	l00140124l0030183l00130451	FJ+MK+SW
+FJ+MK+SW	Der Tod und das Mädchen 	l00100088	l0080026	l0050040	left	same	same	same	same	l0080026l00100088l0050040	FJ+MK+SW
+FJ+MK+SW	Das war der Tag der weißen Chrysanthemen – 	l0040509	l0060062	l0080369	right	right	right	same	right	l0060062l0040509l0080369	FJ+MK+SW
+FJ+MK+SW	Trost im Leiden 	l0020093	l0010132	l00180012	left	same	same	left	same	l0010132l0020093l00180012	FJ+MK+SW
+FJ+MK+SW	Wenn das weiße Mondenlicht... 	l00140083	l00130042	l0030323	left	left	same	same	left	l00130042l00140083l0030323	FJ+MK+SW
+FJ+MK+SW	Unerkannt 	l00140119	l00140141	l00130375	same	same	same	left	left	l00140141l00140119l00130375	FJ+MK+SW
+FJ+MK+SW	Staubige 	l0080497	l00200064	l00200002	left	same	same	same	same	l00200064l0080497l00200002	FJ+MK+SW
+FJ+MK+SW	Im Dämmer 	l0060068	l0030031	l0080448	left	left	left	right	left	l0030031l0060068l0080448	FJ+MK+SW
+FJ+MK+SW	Die Nicht-Gewesenen 	l0030243	l00180017	l00130329	same	same	left	left	left	l00180017l0030243l00130329	FJ+MK+SW
+FJ+MK+SW	Der Gast 	l00140122	l00160042	l00200195	right	same	right	same	right	l00160042l00140122l00200195	FJ+MK+SW
+FJ+MK+SW	Erste und letzte Liebe 	l0080055	l0010079	l00130444	same	left	left	same	left	l0010079l0080055l00130444	FJ+MK+SW
+FJ+MK+SW	Begegnen 	l0080361	l0080077	l0010300	right	same	same	same	same	l0080077l0080361l0010300	FJ+MK+SW
+FJ+MK+SW	Resignatio 	l00140105	l0030305	l00170225	right	same	same	same	same	l0030305l00140105l00170225	FJ+MK+SW
+FJ+MK+SW	Das schlafende Kind 	l0080026	l00180026	l00130111	left	left	left	same	left	l00180026l0080026l00130111	FJ+MK+SW
+FJ+MK+SW	Auf einem Stein 	l0030167	l0010173	l00160240	right	right	same	same	right	l0010173l0030167l00160240	FJ+MK+SW
+FJ+MK+SW	Ganz im Geheimen 	l0010125	l0080554	l0010038	left	left	left	right	left	l0080554l0010125l0010038	FJ+MK+SW
+FJ+MK+SW	Wer je gelebt in Liebesarmen 	l0080543	l0040304	l00180143	same	left	left	left	left	l0040304l0080543l00180143	FJ+MK+SW
+FJ+MK+SW	Wenn ein Leid dich schwer bedrängt 	l0080356	l0010261	l0080377	left	right	right	right	right	l0010261l0080356l0080377	FJ+MK+SW
+FJ+MK+SW	Ein Gebet 	l0080616	l0060046	l00130398	same	right	same	same	right	l0060046l0080616l00130398	FJ+MK+SW
+FJ+MK+SW	Geruch der Walderde 	l0090083	l00130449	l0080466	right	left	same	same	same	l00130449l0090083l0080466	FJ+MK+SW
+FJ+MK+SW	Die frühe Stunde 	l0030183	l0040217	l0080227	left	left	same	left	left	l0040217l0030183l0080227	FJ+MK+SW
+FJ+MK+SW	Auf der Höhe ist's einsam 	l00140124	l00130062	l00180069	right	right	same	same	right	l00130062l00140124l00180069	FJ+MK+SW
+FJ+MK+SW	Nur Geduld! 	l0010273	l00170195	l00180127	same	same	same	same	same	l00170195l0010273l00180127	FJ+MK+SW
+FJ+MK+SW	Am Bahndamm 	l0060057	l0060056	l00140066	same	left	same	same	same	l0060056l0060057l00140066	FJ+MK+SW
+FJ+MK+SW	Regenduft 	l0090084	l00130348	l0030431	right	right	same	same	right	l00130348l0090084l0030431	FJ+MK+SW
+FJ+MK+SW	Mir 	l0020034	l00130056	l0010018	right	same	right	same	right	l00130056l0020034l0010018	FJ+MK+SW
+FJ+MK+SW	Die Lawine 	l00130451	l00110081	l00100008	left	left	same	left	left	l00110081l00130451l00100008	FJ+MK+SW
+FJ+MK+SW	Habenichts 	l0010038	l0030227	l0090065	same	same	same	same	same	l0030227l0010038l0090065	FJ+MK+SW
+FJ+MK+SW	Das war der Tag der weißen Chrysanthemen – 	l0040509	l0010076	l0060019	right	same	left	same	same	l0010076l0040509l0060019	FJ+MK+SW
+FJ+MK+SW	Beschluß – 	l0060082	l00170003	l00140029	right	left	same	same	same	l00170003l0060082l00140029	FJ+MK+SW
+FJ+MK+SW	Guter Rat 	l00130384	l0010170	l00200340	left	same	same	same	same	l0010170l00130384l00200340	FJ+MK+SW
+FJ+MK+SW	Aus den Liedern der Trauer	l00160240	l0010261	l0080251	right	same	left	same	same	l0010261l00160240l0080251	FJ+MK+SW
+FJ+MK+SW	Der Liebesbrief 	l0080046	l0010079	l0080344	left	left	left	same	left	l0010079l0080046l0080344	FJ+MK+SW
+FJ+MK+SW	Im Entschlafen 	l00170125	l00180060	l0030305	right	right	right	left	right	l00180060l00170125l0030305	FJ+MK+SW
+FJ+MK+SW	Nachtlied 	l00200135	l00140198	l0010170	same	right	same	same	right	l00140198l00200135l0010170	FJ+MK+SW
+FJ+MK+SW	Im Frühling 	l00130042	l00160300	l0030167	right	right	right	right	right	l00160300l00130042l0030167	FJ+MK+SW
+FJ+MK+SW	Vorsicht 	l00130111	l00130138	l00160282	same	same	left	same	same	l00130138l00130111l00160282	FJ+MK+SW
+FJ+MK+SW	Doppelte Jugend 	l0080077	l00180012	l00160004	right	right	right	right	right	l00180012l0080077l00160004	FJ+MK+SW
+FJ+MK+SW	Mein Herz und deine Stimme 	l00200064	l0010056	l00160117	right	left	left	right	left	l0010056l00200064l00160117	FJ+MK+SW
+FJ+MK+SW	Fromme Bücher 	l00160212	l00190023	l0030184	same	same	right	same	right	l00190023l00160212l0030184	FJ+MK+SW
+FJ+MK+SW	Nur nimm sie wieder aus der Städte Schuld 	l00180136	l0050040	l0020047	right	right	right	right	right	l0050040l00180136l0020047	FJ+MK+SW
+FJ+MK+SW	Ich bat sie um die Rose 	l0080165	l0010208	l00140150	left	left	left	right	left	l0010208l0080165l00140150	FJ+MK+SW
+FJ+MK+SW	Die List der Trinker 	l0020029	l0080208	l00160240	right	left	left	same	left	l0080208l0020029l00160240	FJ+MK+SW
+FJ+MK+SW	Die Näherin 	l0010186	l00130451	l00130354	same	right	right	same	right	l00130451l0010186l00130354	FJ+MK+SW
+FJ+MK+SW	An die Lerche 	l00130257	l00130375	l00130182	right	right	right	right	right	l00130375l00130257l00130182	FJ+MK+SW
+FJ+MK+SW	Unter den Zweigen 	l0080251	l0020029	l00160113	left	left	left	left	left	l0020029l0080251l00160113	FJ+MK+SW
+FJ+MK+SW	Magdalene 	l0080578	l00200179	l00130182	same	left	left	same	left	l00200179l0080578l00130182	FJ+MK+SW
+FJ+MK+SW	Lady Rosa 	l0030184	l00140028	l00160212	left	left	same	left	left	l00140028l0030184l00160212	FJ+MK+SW
+FJ+MK+SW	Der Trompeter 	l0010208	l0080165	l00130378	left	left	left	same	left	l0080165l0010208l00130378	FJ+MK+SW
+FJ+MK+SW	Marksteine 	l00130329	l00180143	l0080361	right	same	left	same	same	l00180143l00130329l0080361	FJ+MK+SW
+FJ+MK+SW	Spaziergang	l00170030	l0080419	l0030080	right	left	left	left	left	l0080419l00170030l0030080	FJ+MK+SW
+FJ+MK+SW	Nachtbild	l0040579	l00100094	l00170065	left	same	right	left	left	l00100094l0040579l00170065	FJ+MK+SW
+FJ+MK+SW	Was schreibt die Woge in den Sand?	l00270241	l0090070	l00270469	same	same	same	right	right	l0090070l00270241l00270469	FJ+MK+SW
+FJ+MK+SW	Casabianca	l0040512	l00270401	l0080405	left	same	right	same	same	l00270401l0040512l0080405	FJ+MK+SW
+FJ+MK+SW	Spätsommer	l0010277	l0030018	l00100115	same	left	left	left	left	l0030018l0010277l00100115	FJ+MK+SW
+FJ+MK+SW	Mutterwort	l00270438	l0040333	l0040181	left	same	left	left	left	l0040333l00270438l0040181	FJ+MK+SW
+FJ+MK+SW	Trost	l0020036	l00150030	l00170187	left	same	same	same	same	l00150030l0020036l00170187	FJ+MK+SW
+FJ+MK+SW	In rote Fixsternwälder, die verbluten	l0040301	l0040516	l0030428	same	right	same	same	right	l0040516l0040301l0030428	FJ+MK+SW
+FJ+MK+SW	In diesem Dorfe steht das letzte Haus	l00180133	l0040227	l00270102	same	same	same	same	same	l0040227l00180133l00270102	FJ+MK+SW
+FJ+MK+SW	Schmetterlings Sterbelied	l0020084	l0030143	l0040118	left	same	same	right	same	l0030143l0020084l0040118	FJ+MK+SW
+FJ+MK+SW	Es wird die schlafende Lawine —	l00270798	l0030220	l00110076	left	same	same	left	left	l0030220l00270798l00110076	FJ+MK+SW
+FJ+MK+SW	Herbststimmung	l0040028	l0010299	l0030043	left	right	same	same	same	l0010299l0040028l0030043	FJ+MK+SW
